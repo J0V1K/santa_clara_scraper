@@ -1,0 +1,24 @@
+{
+  "portal_case_type": "Civil",
+  "raw_search_rows": 71,
+  "total_cases": 1,
+  "skipped_nonmatching_prefix": 10,
+  "skipped_case_type_filter": 50,
+  "case_prefixes": [
+    "CV"
+  ],
+  "case_type_include_patterns": [
+    "Auto|Contract|Employment|Fraud|Malpractice"
+  ],
+  "case_type_exclude_patterns": [],
+  "offset_cases": 0,
+  "started_at": "2026-05-10T06:27:34Z",
+  "filing_date": "2024-01-04",
+  "updated_at": "2026-05-10T06:27:52Z",
+  "scraped_cases": 1,
+  "newly_scraped_cases": 1,
+  "failed_cases": 0,
+  "skipped_existing": 0,
+  "downloaded_documents": 4,
+  "finished_at": "2026-05-10T06:27:52Z"
+}

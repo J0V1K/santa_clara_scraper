@@ -1,0 +1,3244 @@
+{
+  "metadata": {
+    "case_number": "24CV430555",
+    "case_id": "5319924",
+    "case_title": "Edhar Avdalian et al vs Karina Guerrero et al",
+    "filing_date": "2024-02-07",
+    "filing_date_text": "2/7/2024",
+    "case_type": "Auto Unlimited (22)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 16",
+    "departments": [
+      "Department 16"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTkyNA%3D%3D",
+    "portal_search_case_type": "Auto Unlimited (22)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Edhar Avdalian",
+        "type": "Plaintiff/Cross Defendant",
+        "is_defendant": true,
+        "case_party_id": "15358887",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358887",
+          "type": "Plaintiff/Cross Defendant",
+          "firstName": "Edhar",
+          "middleName": "",
+          "lastName": "Avdalian",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Edhar Avdalian",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Karen Tovmasyan",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15358888",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358888",
+          "type": "Plaintiff",
+          "firstName": "Karen",
+          "middleName": "",
+          "lastName": "Tovmasyan",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Karen Tovmasyan",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Karina Guerrero",
+        "type": "Defendant/Cross Complainant",
+        "is_defendant": true,
+        "case_party_id": "15358889",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358889",
+          "type": "Defendant/Cross Complainant",
+          "firstName": "Karina",
+          "middleName": "",
+          "lastName": "Guerrero",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Karina Guerrero",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Severiano Guerrero",
+        "type": "Defendant/Cross Complainant",
+        "is_defendant": true,
+        "case_party_id": "15358890",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358890",
+          "type": "Defendant/Cross Complainant",
+          "firstName": "Severiano",
+          "middleName": "",
+          "lastName": "Guerrero",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Severiano Guerrero",
+          "isDefendant": true
+        },
+        "pro_se": false
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Kevin Wayne Harris",
+        "bar_number": "133084",
+        "represented_party_text": "Edhar Avdalian",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Kevin",
+          "middleName": "Wayne",
+          "lastName": "Harris",
+          "representing": "Edhar Avdalian",
+          "barNumber": "133084",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Kevin Wayne Harris",
+        "bar_number": "133084",
+        "represented_party_text": "Karen Tovmasyan",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Kevin",
+          "middleName": "Wayne",
+          "lastName": "Harris",
+          "representing": "Karen Tovmasyan",
+          "barNumber": "133084",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Melanie Dawn Johnson",
+        "bar_number": "138390",
+        "represented_party_text": "Karina Guerrero",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Melanie",
+          "middleName": "Dawn",
+          "lastName": "Johnson",
+          "representing": "Karina Guerrero",
+          "barNumber": "138390",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Melanie Dawn Johnson",
+        "bar_number": "138390",
+        "represented_party_text": "Severiano Guerrero",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Melanie",
+          "middleName": "Dawn",
+          "lastName": "Johnson",
+          "representing": "Severiano Guerrero",
+          "barNumber": "138390",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Kevin Wayne Harris",
+        "bar_number": "133084",
+        "party_name": "Edhar Avdalian",
+        "party_role": "Plaintiff/Cross Defendant"
+      },
+      {
+        "attorney_name": "Kevin Wayne Harris",
+        "bar_number": "133084",
+        "party_name": "Karen Tovmasyan",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Melanie Dawn Johnson",
+        "bar_number": "138390",
+        "party_name": "Karina Guerrero",
+        "party_role": "Defendant/Cross Complainant"
+      },
+      {
+        "attorney_name": "Melanie Dawn Johnson",
+        "bar_number": "138390",
+        "party_name": "Severiano Guerrero",
+        "party_role": "Defendant/Cross Complainant"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": true,
+    "n_parties": 4,
+    "n_attorneys": 4,
+    "n_events": 35,
+    "n_hearings": 6,
+    "n_actions": 51,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319924",
+        "nodeId": "11110",
+        "caseNumber": "24CV430555",
+        "caseStyle": "Edhar Avdalian et al vs Karina Guerrero et al",
+        "filingDate": "2/7/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Auto Unlimited (22)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15358887",
+            "type": "Plaintiff/Cross Defendant",
+            "firstName": "Edhar",
+            "middleName": "",
+            "lastName": "Avdalian",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Edhar Avdalian",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358888",
+            "type": "Plaintiff",
+            "firstName": "Karen",
+            "middleName": "",
+            "lastName": "Tovmasyan",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Karen Tovmasyan",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358889",
+            "type": "Defendant/Cross Complainant",
+            "firstName": "Karina",
+            "middleName": "",
+            "lastName": "Guerrero",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Karina Guerrero",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358890",
+            "type": "Defendant/Cross Complainant",
+            "firstName": "Severiano",
+            "middleName": "",
+            "lastName": "Guerrero",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Severiano Guerrero",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Kevin",
+            "middleName": "Wayne",
+            "lastName": "Harris",
+            "representing": "Edhar Avdalian",
+            "barNumber": "133084",
+            "isLead": true
+          },
+          {
+            "firstName": "Kevin",
+            "middleName": "Wayne",
+            "lastName": "Harris",
+            "representing": "Karen Tovmasyan",
+            "barNumber": "133084",
+            "isLead": true
+          },
+          {
+            "firstName": "Melanie",
+            "middleName": "Dawn",
+            "lastName": "Johnson",
+            "representing": "Karina Guerrero",
+            "barNumber": "138390",
+            "isLead": true
+          },
+          {
+            "firstName": "Melanie",
+            "middleName": "Dawn",
+            "lastName": "Johnson",
+            "representing": "Severiano Guerrero",
+            "barNumber": "138390",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "129616400",
+            "date": "3/11/2026",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "129281751",
+            "date": "2/17/2026",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "SKM_C75926021717530.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "129236602",
+            "date": "2/11/2026",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Avdalian v. Guerrero - CM Statement.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128974290",
+            "date": "1/16/2026",
+            "type": "Answer/Response (No Fee)",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "TO XC, ATTY: HARRIS",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "SKM_C75926011611240.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128770055",
+            "date": "12/26/2025",
+            "type": "Answer (Unlimited) (Fee Applies)",
+            "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+            "comment": "to complaint ;atty: Johnson",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Avdalian v. Guerrero - Answer.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128770056",
+            "date": "12/26/2025",
+            "type": "Advance Jury Fee (Nonrefundable)",
+            "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+            "comment": "$150 jury fee paid by DEF atty: \nJohnson",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Avdalian v. Guerrero - Notice of Posting Jury Fees.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128770057",
+            "date": "12/26/2025",
+            "type": "Cross-Complaint",
+            "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+            "comment": " against EDHAR AVDALIAN",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Avdalian v. Guerrero - Cross-Complaint.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128770058",
+            "date": "12/26/2025",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+            "comment": "Summons on Cross-Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Avdalian v. Guerrero - Summons on Cross-Complaint.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128735812",
+            "date": "12/24/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "128576977",
+            "date": "12/9/2025",
+            "type": "Response/Reply",
+            "filedBy": "",
+            "comment": "Response",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "SKM_C75925120918340.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "128469620",
+            "date": "12/3/2025",
+            "type": "Order: Ex Parte",
+            "filedBy": "Edhar Avdalian, ",
+            "comment": "GRANTED     ---RE: Request to serve the complaint in the instant matter through publication",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "EX PARTE ORDER"
+              }
+            ]
+          },
+          {
+            "eventId": "128469618",
+            "date": "12/1/2025",
+            "type": "Ex Parte Application",
+            "filedBy": "Edhar Avdalian, ",
+            "comment": "Ex Parte Application ($60.00)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Ex Parte Application"
+              }
+            ]
+          },
+          {
+            "eventId": "128469619",
+            "date": "12/1/2025",
+            "type": "Declaration: In Support",
+            "filedBy": "Edhar Avdalian, ",
+            "comment": "ISO Ex Parte Application",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Declaration ISO Ex Parte"
+              }
+            ]
+          },
+          {
+            "eventId": "128446216",
+            "date": "11/25/2025",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "Missing Proposed Order Cover Sheet. EFS-20. Must place in front of the Order. Scan as (1) PDF.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "128443126",
+            "date": "11/24/2025",
+            "type": "Response/Reply",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "Response",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "SKM_C75925112416320.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "127476321",
+            "date": "8/21/2025",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "",
+            "comment": "Proof of Service",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "2025001139_Declaration Of Diligence.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "127476323",
+            "date": "8/21/2025",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "",
+            "comment": "Proof of Service",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "2025001140_Declaration Of Diligence.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "127379569",
+            "date": "8/8/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "127371551",
+            "date": "8/1/2025",
+            "type": "Request: Order for Service by Posting/Publication",
+            "filedBy": "",
+            "comment": "Application to Post/Publish Summons and Complaint ($20.00)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "SKM_C75925080116570.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "127240770",
+            "date": "7/25/2025",
+            "type": "Declaration: Re: Diligence",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "2024000210_Declaration Of Diligence.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125739365",
+            "date": "4/7/2025",
+            "type": "Order: Ex Parte",
+            "filedBy": "",
+            "comment": "**EFS 4/7/2025 vw** OSC hearing re why this matter should not be dismissed for failure to serve defendant set on 8/8/2025 10 am in dept 16",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Ex Parte Proposed Order"
+              }
+            ]
+          },
+          {
+            "eventId": "125739361",
+            "date": "4/2/2025",
+            "type": "Notice: Change Address/Firm Name",
+            "filedBy": "",
+            "comment": "Change of Address",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "NOTICE OF CHANGE OF ADDRESS.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125739362",
+            "date": "4/2/2025",
+            "type": "Declaration",
+            "filedBy": "",
+            "comment": "Declaration",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "DECLARATION.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125739363",
+            "date": "4/2/2025",
+            "type": "Memorandum: Points and Authorities",
+            "filedBy": "",
+            "comment": "Memorandum of Points & Authorities",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "MEMORANDUM.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125739364",
+            "date": "4/2/2025",
+            "type": "Ex Parte Application",
+            "filedBy": "",
+            "comment": "Ex Parte Application ($60.00)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "REQUEST AND MOTION.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125709915",
+            "date": "4/1/2025",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "",
+            "comment": "Missing Proposed order cover sheet EFS-020. For Proposed Order Cover Sheet EFS-020. Please have Proposed Order Coversheet on top of Proposed order for process. thank you. -vw",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "123713738",
+            "date": "11/21/2024",
+            "type": "Order",
+            "filedBy": "",
+            "comment": "of Dismissal w/ Prej for Non-Appearance and Failure to Serve by Plt",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Order"
+              }
+            ]
+          },
+          {
+            "eventId": "123643273",
+            "date": "11/14/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "122377385",
+            "date": "7/23/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "120868919",
+            "date": "3/11/2024",
+            "type": "Declaration: Re: Diligence",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120868921",
+            "date": "3/11/2024",
+            "type": "Declaration: Re: Diligence",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120428568",
+            "date": "2/7/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "**NO CLN**",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120428569",
+            "date": "2/7/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "Civil Case Cover Sheet",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120428571",
+            "date": "2/7/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+            "comment": "Summons",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120501767",
+            "date": "2/7/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16253045",
+            "calendar": "Department 16",
+            "type": "Conference: Case Management",
+            "date": "7/23/2024",
+            "time": "1:30PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16498286",
+            "calendar": "Department 16",
+            "type": "Hearing: OSC Dismissal Failure to Appear",
+            "date": "11/14/2024",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+              },
+              {
+                "documentId": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+              },
+              {
+                "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16794127",
+            "calendar": "Department 16",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "8/8/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16982409",
+            "calendar": "Department 16",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "12/12/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17153981",
+            "calendar": "Department 16",
+            "type": "Conference: Further Case Management",
+            "date": "3/11/2026",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17255838",
+            "calendar": "Department 16",
+            "type": "Conference: Trial Setting",
+            "date": "8/19/2026",
+            "time": "11:00AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319924",
+        "caseNumber": "24CV430555",
+        "style": "Edhar Avdalian et al vs Karina Guerrero et al",
+        "caseCategory": 1,
+        "type": "Auto Unlimited (22)",
+        "typeId": "22-1B",
+        "fileDate": "2/7/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:50:52Z",
+      "sequence_in_day": 26,
+      "downloaded_documents": 1,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 42
+    },
+    "downloaded_documents": [
+      "2026-03-11_minutes-non-criminal_12992542fc36.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "SKM_C75926021717530.pdf",
+        "date": "2026-02-17",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Avdalian v. Guerrero - CM Statement.pdf",
+        "date": "2026-02-11",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "SKM_C75926011611240.pdf",
+        "date": "2026-01-16",
+        "proceedings": "Answer/Response (No Fee)"
+      },
+      {
+        "doc_id": "lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Avdalian v. Guerrero - Answer.pdf",
+        "date": "2025-12-26",
+        "proceedings": "Answer (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Avdalian v. Guerrero - Notice of Posting Jury Fees.pdf",
+        "date": "2025-12-26",
+        "proceedings": "Advance Jury Fee (Nonrefundable)"
+      },
+      {
+        "doc_id": "%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Avdalian v. Guerrero - Cross-Complaint.pdf",
+        "date": "2025-12-26",
+        "proceedings": "Cross-Complaint"
+      },
+      {
+        "doc_id": "tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Avdalian v. Guerrero - Summons on Cross-Complaint.pdf",
+        "date": "2025-12-26",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-12-24",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "SKM_C75925120918340.pdf",
+        "date": "2025-12-09",
+        "proceedings": "Response/Reply"
+      },
+      {
+        "doc_id": "iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "EX PARTE ORDER",
+        "date": "2025-12-03",
+        "proceedings": "Order: Ex Parte"
+      },
+      {
+        "doc_id": "a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Ex Parte Application",
+        "date": "2025-12-01",
+        "proceedings": "Ex Parte Application"
+      },
+      {
+        "doc_id": "S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Declaration ISO Ex Parte",
+        "date": "2025-12-01",
+        "proceedings": "Declaration: In Support"
+      },
+      {
+        "doc_id": "0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2025-11-25",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "SKM_C75925112416320.pdf",
+        "date": "2025-11-24",
+        "proceedings": "Response/Reply"
+      },
+      {
+        "doc_id": "5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "2025001139_Declaration Of Diligence.pdf",
+        "date": "2025-08-21",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "2025001140_Declaration Of Diligence.pdf",
+        "date": "2025-08-21",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-08-08",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "SKM_C75925080116570.pdf",
+        "date": "2025-08-01",
+        "proceedings": "Request: Order for Service by Posting/Publication"
+      },
+      {
+        "doc_id": "zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "2024000210_Declaration Of Diligence.pdf",
+        "date": "2025-07-25",
+        "proceedings": "Declaration: Re: Diligence"
+      },
+      {
+        "doc_id": "8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Ex Parte Proposed Order",
+        "date": "2025-04-07",
+        "proceedings": "Order: Ex Parte"
+      },
+      {
+        "doc_id": "KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "NOTICE OF CHANGE OF ADDRESS.pdf",
+        "date": "2025-04-02",
+        "proceedings": "Notice: Change Address/Firm Name"
+      },
+      {
+        "doc_id": "BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "DECLARATION.pdf",
+        "date": "2025-04-02",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "MEMORANDUM.pdf",
+        "date": "2025-04-02",
+        "proceedings": "Memorandum: Points and Authorities"
+      },
+      {
+        "doc_id": "EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "REQUEST AND MOTION.pdf",
+        "date": "2025-04-02",
+        "proceedings": "Ex Parte Application"
+      },
+      {
+        "doc_id": "qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2025-04-01",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Order",
+        "date": "2024-11-21",
+        "proceedings": "Order"
+      },
+      {
+        "doc_id": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-14",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5074 OSC Dismissal FTA (entire case)",
+        "date": "2024-11-14",
+        "proceedings": "Hearing: OSC Dismissal Failure to Appear"
+      },
+      {
+        "doc_id": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5074 OSC Dismissal FTA (entire case)",
+        "date": "2024-11-14",
+        "proceedings": "Hearing: OSC Dismissal Failure to Appear"
+      },
+      {
+        "doc_id": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-14",
+        "proceedings": "Hearing: OSC Dismissal Failure to Appear"
+      },
+      {
+        "doc_id": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-08-08",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-12-12",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-12-12",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-12-12",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-03-11",
+      "date_text": "3/11/2026",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "129616400",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": "2026-03-11_minutes-non-criminal_12992542fc36.pdf",
+      "raw": {
+        "eventId": "129616400",
+        "date": "3/11/2026",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2026-02-17",
+      "date_text": "2/17/2026",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "129281751",
+      "filed_by": "",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "SKM_C75926021717530.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129281751",
+        "date": "2/17/2026",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "SKM_C75926021717530.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "GRI0Dy0MNeSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "SKM_C75926021717530.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-11",
+      "date_text": "2/11/2026",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "129236602",
+      "filed_by": "Karina Guerrero, Severiano Guerrero, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Avdalian v. Guerrero - CM Statement.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129236602",
+        "date": "2/11/2026",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Avdalian v. Guerrero - CM Statement.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "u7fei6Yq0JWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Avdalian v. Guerrero - CM Statement.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-01-16",
+      "date_text": "1/16/2026",
+      "proceedings": "Answer/Response (No Fee)",
+      "source_section": "event",
+      "source_row_id": "128974290",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "TO XC, ATTY: HARRIS",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "SKM_C75926011611240.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128974290",
+        "date": "1/16/2026",
+        "type": "Answer/Response (No Fee)",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "TO XC, ATTY: HARRIS",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "SKM_C75926011611240.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Q4%2FqNGFBdXCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "SKM_C75926011611240.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-26",
+      "date_text": "12/26/2025",
+      "proceedings": "Answer (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "128770055",
+      "filed_by": "Karina Guerrero, Severiano Guerrero, ",
+      "comment": "to complaint ;atty: Johnson",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Avdalian v. Guerrero - Answer.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128770055",
+        "date": "12/26/2025",
+        "type": "Answer (Unlimited) (Fee Applies)",
+        "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+        "comment": "to complaint ;atty: Johnson",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Avdalian v. Guerrero - Answer.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lci80fZDgnmr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Avdalian v. Guerrero - Answer.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-26",
+      "date_text": "12/26/2025",
+      "proceedings": "Advance Jury Fee (Nonrefundable)",
+      "source_section": "event",
+      "source_row_id": "128770056",
+      "filed_by": "Karina Guerrero, Severiano Guerrero, ",
+      "comment": "$150 jury fee paid by DEF atty: \nJohnson",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Avdalian v. Guerrero - Notice of Posting Jury Fees.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128770056",
+        "date": "12/26/2025",
+        "type": "Advance Jury Fee (Nonrefundable)",
+        "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+        "comment": "$150 jury fee paid by DEF atty: \nJohnson",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Avdalian v. Guerrero - Notice of Posting Jury Fees.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Qiod3l%2Fu2Dqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Avdalian v. Guerrero - Notice of Posting Jury Fees.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-26",
+      "date_text": "12/26/2025",
+      "proceedings": "Cross-Complaint",
+      "source_section": "event",
+      "source_row_id": "128770057",
+      "filed_by": "Karina Guerrero, Severiano Guerrero, ",
+      "comment": " against EDHAR AVDALIAN",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Avdalian v. Guerrero - Cross-Complaint.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128770057",
+        "date": "12/26/2025",
+        "type": "Cross-Complaint",
+        "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+        "comment": " against EDHAR AVDALIAN",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Avdalian v. Guerrero - Cross-Complaint.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2Fn5qZ5D%2BmRKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Avdalian v. Guerrero - Cross-Complaint.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-26",
+      "date_text": "12/26/2025",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "128770058",
+      "filed_by": "Karina Guerrero, Severiano Guerrero, ",
+      "comment": "Summons on Cross-Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Avdalian v. Guerrero - Summons on Cross-Complaint.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128770058",
+        "date": "12/26/2025",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Karina Guerrero, Severiano Guerrero, ",
+        "comment": "Summons on Cross-Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Avdalian v. Guerrero - Summons on Cross-Complaint.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "tqdBRiJdb0er0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Avdalian v. Guerrero - Summons on Cross-Complaint.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-24",
+      "date_text": "12/24/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "128735812",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128735812",
+        "date": "12/24/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-09",
+      "date_text": "12/9/2025",
+      "proceedings": "Response/Reply",
+      "source_section": "event",
+      "source_row_id": "128576977",
+      "filed_by": "",
+      "comment": "Response",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "SKM_C75925120918340.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128576977",
+        "date": "12/9/2025",
+        "type": "Response/Reply",
+        "filedBy": "",
+        "comment": "Response",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "SKM_C75925120918340.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "a8Awg2eyz%2B2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "SKM_C75925120918340.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-03",
+      "date_text": "12/3/2025",
+      "proceedings": "Order: Ex Parte",
+      "source_section": "event",
+      "source_row_id": "128469620",
+      "filed_by": "Edhar Avdalian, ",
+      "comment": "GRANTED     ---RE: Request to serve the complaint in the instant matter through publication",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "EX PARTE ORDER",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128469620",
+        "date": "12/3/2025",
+        "type": "Order: Ex Parte",
+        "filedBy": "Edhar Avdalian, ",
+        "comment": "GRANTED     ---RE: Request to serve the complaint in the instant matter through publication",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "EX PARTE ORDER"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "iigbqsu8%2BcSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "EX PARTE ORDER"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-01",
+      "date_text": "12/1/2025",
+      "proceedings": "Ex Parte Application",
+      "source_section": "event",
+      "source_row_id": "128469618",
+      "filed_by": "Edhar Avdalian, ",
+      "comment": "Ex Parte Application ($60.00)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Ex Parte Application",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128469618",
+        "date": "12/1/2025",
+        "type": "Ex Parte Application",
+        "filedBy": "Edhar Avdalian, ",
+        "comment": "Ex Parte Application ($60.00)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Ex Parte Application"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "a4sybXspoE2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Ex Parte Application"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-01",
+      "date_text": "12/1/2025",
+      "proceedings": "Declaration: In Support",
+      "source_section": "event",
+      "source_row_id": "128469619",
+      "filed_by": "Edhar Avdalian, ",
+      "comment": "ISO Ex Parte Application",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Declaration ISO Ex Parte",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128469619",
+        "date": "12/1/2025",
+        "type": "Declaration: In Support",
+        "filedBy": "Edhar Avdalian, ",
+        "comment": "ISO Ex Parte Application",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Declaration ISO Ex Parte"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "S6ba4Xjysk%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Declaration ISO Ex Parte"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-11-25",
+      "date_text": "11/25/2025",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "128446216",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "Missing Proposed Order Cover Sheet. EFS-20. Must place in front of the Order. Scan as (1) PDF.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128446216",
+        "date": "11/25/2025",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "Missing Proposed Order Cover Sheet. EFS-20. Must place in front of the Order. Scan as (1) PDF.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "0t622RTgOFGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-11-24",
+      "date_text": "11/24/2025",
+      "proceedings": "Response/Reply",
+      "source_section": "event",
+      "source_row_id": "128443126",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "Response",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "SKM_C75925112416320.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128443126",
+        "date": "11/24/2025",
+        "type": "Response/Reply",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "Response",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "SKM_C75925112416320.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "6rp4BOipr%2FKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "SKM_C75925112416320.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-21",
+      "date_text": "8/21/2025",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "127476321",
+      "filed_by": "",
+      "comment": "Proof of Service",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "2025001139_Declaration Of Diligence.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127476321",
+        "date": "8/21/2025",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "",
+        "comment": "Proof of Service",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "2025001139_Declaration Of Diligence.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5J1GfkxxrH%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "2025001139_Declaration Of Diligence.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-21",
+      "date_text": "8/21/2025",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "127476323",
+      "filed_by": "",
+      "comment": "Proof of Service",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "2025001140_Declaration Of Diligence.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127476323",
+        "date": "8/21/2025",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "",
+        "comment": "Proof of Service",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "2025001140_Declaration Of Diligence.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "27qG1%2Ben1S%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "2025001140_Declaration Of Diligence.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "127379569",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127379569",
+        "date": "8/8/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-01",
+      "date_text": "8/1/2025",
+      "proceedings": "Request: Order for Service by Posting/Publication",
+      "source_section": "event",
+      "source_row_id": "127371551",
+      "filed_by": "",
+      "comment": "Application to Post/Publish Summons and Complaint ($20.00)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "SKM_C75925080116570.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127371551",
+        "date": "8/1/2025",
+        "type": "Request: Order for Service by Posting/Publication",
+        "filedBy": "",
+        "comment": "Application to Post/Publish Summons and Complaint ($20.00)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "SKM_C75925080116570.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Mto7pwkcayir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "SKM_C75925080116570.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-07-25",
+      "date_text": "7/25/2025",
+      "proceedings": "Declaration: Re: Diligence",
+      "source_section": "event",
+      "source_row_id": "127240770",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "2024000210_Declaration Of Diligence.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127240770",
+        "date": "7/25/2025",
+        "type": "Declaration: Re: Diligence",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "2024000210_Declaration Of Diligence.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zT88RVvPe7Wr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "2024000210_Declaration Of Diligence.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-07",
+      "date_text": "4/7/2025",
+      "proceedings": "Order: Ex Parte",
+      "source_section": "event",
+      "source_row_id": "125739365",
+      "filed_by": "",
+      "comment": "**EFS 4/7/2025 vw** OSC hearing re why this matter should not be dismissed for failure to serve defendant set on 8/8/2025 10 am in dept 16",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Ex Parte Proposed Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125739365",
+        "date": "4/7/2025",
+        "type": "Order: Ex Parte",
+        "filedBy": "",
+        "comment": "**EFS 4/7/2025 vw** OSC hearing re why this matter should not be dismissed for failure to serve defendant set on 8/8/2025 10 am in dept 16",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Ex Parte Proposed Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "8so5p9cdrsSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Ex Parte Proposed Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-02",
+      "date_text": "4/2/2025",
+      "proceedings": "Notice: Change Address/Firm Name",
+      "source_section": "event",
+      "source_row_id": "125739361",
+      "filed_by": "",
+      "comment": "Change of Address",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "NOTICE OF CHANGE OF ADDRESS.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125739361",
+        "date": "4/2/2025",
+        "type": "Notice: Change Address/Firm Name",
+        "filedBy": "",
+        "comment": "Change of Address",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "NOTICE OF CHANGE OF ADDRESS.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KcRb6211TTCr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "NOTICE OF CHANGE OF ADDRESS.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-02",
+      "date_text": "4/2/2025",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "125739362",
+      "filed_by": "",
+      "comment": "Declaration",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "DECLARATION.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125739362",
+        "date": "4/2/2025",
+        "type": "Declaration",
+        "filedBy": "",
+        "comment": "Declaration",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "DECLARATION.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "BVNoiHvv0bur0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "DECLARATION.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-02",
+      "date_text": "4/2/2025",
+      "proceedings": "Memorandum: Points and Authorities",
+      "source_section": "event",
+      "source_row_id": "125739363",
+      "filed_by": "",
+      "comment": "Memorandum of Points & Authorities",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "MEMORANDUM.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125739363",
+        "date": "4/2/2025",
+        "type": "Memorandum: Points and Authorities",
+        "filedBy": "",
+        "comment": "Memorandum of Points & Authorities",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "MEMORANDUM.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xrJii%2BihL7%2Br0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "MEMORANDUM.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-02",
+      "date_text": "4/2/2025",
+      "proceedings": "Ex Parte Application",
+      "source_section": "event",
+      "source_row_id": "125739364",
+      "filed_by": "",
+      "comment": "Ex Parte Application ($60.00)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "REQUEST AND MOTION.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125739364",
+        "date": "4/2/2025",
+        "type": "Ex Parte Application",
+        "filedBy": "",
+        "comment": "Ex Parte Application ($60.00)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "REQUEST AND MOTION.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EQoQUYmW4%2FOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "REQUEST AND MOTION.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-01",
+      "date_text": "4/1/2025",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "125709915",
+      "filed_by": "",
+      "comment": "Missing Proposed order cover sheet EFS-020. For Proposed Order Cover Sheet EFS-020. Please have Proposed Order Coversheet on top of Proposed order for process. thank you. -vw",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125709915",
+        "date": "4/1/2025",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "",
+        "comment": "Missing Proposed order cover sheet EFS-020. For Proposed Order Cover Sheet EFS-020. Please have Proposed Order Coversheet on top of Proposed order for process. thank you. -vw",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qXcZHmoxLoWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-21",
+      "date_text": "11/21/2024",
+      "proceedings": "Order",
+      "source_section": "event",
+      "source_row_id": "123713738",
+      "filed_by": "",
+      "comment": "of Dismissal w/ Prej for Non-Appearance and Failure to Serve by Plt",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123713738",
+        "date": "11/21/2024",
+        "type": "Order",
+        "filedBy": "",
+        "comment": "of Dismissal w/ Prej for Non-Appearance and Failure to Serve by Plt",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "c2FSCgO8FEGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123643273",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123643273",
+        "date": "11/14/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122377385",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122377385",
+        "date": "7/23/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-11",
+      "date_text": "3/11/2024",
+      "proceedings": "Declaration: Re: Diligence",
+      "source_section": "event",
+      "source_row_id": "120868919",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120868919",
+        "date": "3/11/2024",
+        "type": "Declaration: Re: Diligence",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-03-11",
+      "date_text": "3/11/2024",
+      "proceedings": "Declaration: Re: Diligence",
+      "source_section": "event",
+      "source_row_id": "120868921",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120868921",
+        "date": "3/11/2024",
+        "type": "Declaration: Re: Diligence",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120428568",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "**NO CLN**",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428568",
+        "date": "2/7/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "**NO CLN**",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120428569",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "Civil Case Cover Sheet",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428569",
+        "date": "2/7/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "Civil Case Cover Sheet",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120428571",
+      "filed_by": "Edhar Avdalian, Karen Tovmasyan, ",
+      "comment": "Summons",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428571",
+        "date": "2/7/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Edhar Avdalian, Karen Tovmasyan, ",
+        "comment": "Summons",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120501767",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120501767",
+        "date": "2/7/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16253045",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "1:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16253045",
+        "calendar": "Department 16",
+        "type": "Conference: Case Management",
+        "date": "7/23/2024",
+        "time": "1:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "x%2B7DDEtVqzOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Hearing: OSC Dismissal Failure to Appear",
+      "source_section": "hearing",
+      "source_row_id": "16498286",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5074 OSC Dismissal FTA (entire case)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498286",
+        "calendar": "Department 16",
+        "type": "Hearing: OSC Dismissal Failure to Appear",
+        "date": "11/14/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Hearing: OSC Dismissal Failure to Appear",
+      "source_section": "hearing",
+      "source_row_id": "16498286",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5074 OSC Dismissal FTA (entire case)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498286",
+        "calendar": "Department 16",
+        "type": "Hearing: OSC Dismissal Failure to Appear",
+        "date": "11/14/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Hearing: OSC Dismissal Failure to Appear",
+      "source_section": "hearing",
+      "source_row_id": "16498286",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498286",
+        "calendar": "Department 16",
+        "type": "Hearing: OSC Dismissal Failure to Appear",
+        "date": "11/14/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "Xfb1WCAM6rir0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "kZIjPzGUrgqr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5074 OSC Dismissal FTA (entire case)"
+          },
+          {
+            "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EhB2D1LvIM2r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-08",
+      "date_text": "8/8/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16794127",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16794127",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "8/8/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3qCjTR0csGSr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "g%2Bsw8WB3mg6r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "3KEbKd0FLwGr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VroG6j6pbzKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "1EHejqDcE1ar0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "gsGISobtb72r0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "e0VZUsBGb%2BOr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-12",
+      "date_text": "12/12/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16982409",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16982409",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "12/12/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-12",
+      "date_text": "12/12/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16982409",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16982409",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "12/12/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-12",
+      "date_text": "12/12/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16982409",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16982409",
+        "calendar": "Department 16",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "12/12/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "M9U1KH9D5pWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "yM2FDGrULIKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VeQT97R1LtWr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-03-11",
+      "date_text": "3/11/2026",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "17153981",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+      "doc_filename": "2026-03-11_minutes-non-criminal_12992542fc36.pdf",
+      "raw": {
+        "hearingId": "17153981",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "3/11/2026",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "AO5hDV4IqFKr0bTrg7GvnIsOJouL2XeZrl9VjPWNK0k%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2026-08-19",
+      "date_text": "8/19/2026",
+      "proceedings": "Conference: Trial Setting",
+      "source_section": "hearing",
+      "source_row_id": "17255838",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "11:00AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17255838",
+        "calendar": "Department 16",
+        "type": "Conference: Trial Setting",
+        "date": "8/19/2026",
+        "time": "11:00AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

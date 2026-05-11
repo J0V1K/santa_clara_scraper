@@ -1,0 +1,26 @@
+[
+  {
+    "attorneys": [],
+    "casePartyId": "15090849",
+    "type": "Plaintiff",
+    "firstName": "Christian",
+    "middleName": "",
+    "lastName": "Ortega",
+    "nickName": null,
+    "businessName": null,
+    "fullName": "Christian Ortega",
+    "isDefendant": false
+  },
+  {
+    "attorneys": [],
+    "casePartyId": "15090850",
+    "type": "Defendant",
+    "firstName": "Wanda",
+    "middleName": "",
+    "lastName": "Serrano",
+    "nickName": null,
+    "businessName": null,
+    "fullName": "Wanda Serrano",
+    "isDefendant": true
+  }
+]

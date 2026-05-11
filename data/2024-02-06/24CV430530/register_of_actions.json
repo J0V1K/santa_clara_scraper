@@ -1,0 +1,1034 @@
+{
+  "metadata": {
+    "case_number": "24CV430530",
+    "case_id": "5319595",
+    "case_title": "DOROTHY MIFSUD vs SAMANTHA DEANDA",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTU5NQ%3D%3D",
+    "portal_search_case_type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "DOROTHY MIFSUD",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15357714",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357714",
+          "type": "Plaintiff",
+          "firstName": "DOROTHY",
+          "middleName": "",
+          "lastName": "MIFSUD",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "DOROTHY MIFSUD",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "SAMANTHA R. DEANDA",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15357715",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357715",
+          "type": "Defendant",
+          "firstName": "SAMANTHA",
+          "middleName": "R.",
+          "lastName": "DEANDA",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "SAMANTHA R. DEANDA",
+          "isDefendant": true
+        },
+        "pro_se": true
+      },
+      {
+        "name": "All Unnamed Occupants",
+        "type": "Notice",
+        "is_defendant": false,
+        "case_party_id": "15357716",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357716",
+          "type": "Notice",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "All Unnamed Occupants",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " All Unnamed Occupants",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Todd B. Rothbard",
+        "bar_number": "67351",
+        "represented_party_text": "DOROTHY MIFSUD",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Todd",
+          "middleName": "B.",
+          "lastName": "Rothbard",
+          "representing": "DOROTHY MIFSUD",
+          "barNumber": "67351",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Todd B. Rothbard",
+        "bar_number": "67351",
+        "party_name": "DOROTHY MIFSUD",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 3,
+    "n_attorneys": 1,
+    "n_events": 15,
+    "n_hearings": 0,
+    "n_actions": 15,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319595",
+        "nodeId": "11110",
+        "caseNumber": "24CV430530",
+        "caseStyle": "DOROTHY MIFSUD vs SAMANTHA DEANDA",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Residential Unlawful Detainer Limited (32) - under 10,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15357714",
+            "type": "Plaintiff",
+            "firstName": "DOROTHY",
+            "middleName": "",
+            "lastName": "MIFSUD",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "DOROTHY MIFSUD",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357715",
+            "type": "Defendant",
+            "firstName": "SAMANTHA",
+            "middleName": "R.",
+            "lastName": "DEANDA",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "SAMANTHA R. DEANDA",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357716",
+            "type": "Notice",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "All Unnamed Occupants",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " All Unnamed Occupants",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Todd",
+            "middleName": "B.",
+            "lastName": "Rothbard",
+            "representing": "DOROTHY MIFSUD",
+            "barNumber": "67351",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "121147884",
+            "date": "4/2/2024",
+            "type": "Writ: Possession (Filed)",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": "Santa Clara, Issued 02/28/2024, Satisfied.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Writ: Possession (Filed)"
+              }
+            ]
+          },
+          {
+            "eventId": "120685562",
+            "date": "2/28/2024",
+            "type": "Writ: Possession (Issued)",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": "300 EAST REED STREET, UNIT #5\nSAN JOSE, CA 95112",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120659282",
+            "date": "2/26/2024",
+            "type": "Judgment: Default",
+            "filedBy": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+            "comment": "300 East Reed Street, Unit #5, San Jose, CA, 95112",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Judgment: Default"
+              }
+            ]
+          },
+          {
+            "eventId": "120655217",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Proof of Service: Summons DLR"
+              }
+            ]
+          },
+          {
+            "eventId": "120655218",
+            "date": "2/20/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": "Does 1-5",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "120659281",
+            "date": "2/20/2024",
+            "type": "Default Entered",
+            "filedBy": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Default Entered"
+              }
+            ]
+          },
+          {
+            "eventId": "120428333",
+            "date": "2/7/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "120428335",
+            "date": "2/7/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "120428337",
+            "date": "2/7/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "120422261",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120422328",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120422329",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Summons"
+              }
+            ]
+          },
+          {
+            "eventId": "120422330",
+            "date": "2/6/2024",
+            "type": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "120422331",
+            "date": "2/6/2024",
+            "type": "Plt Mand Cover Sheet -Supp Alleg",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Plt Mand Cover Sheet -Supp Alleg"
+              }
+            ]
+          },
+          {
+            "eventId": "120422334",
+            "date": "2/6/2024",
+            "type": "Verification by Landlord Re Rental Assistance UD",
+            "filedBy": "DOROTHY MIFSUD, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+                "documentName": "Verification by Landlord Re Rental Assistance UD"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319595",
+        "caseNumber": "24CV430530",
+        "style": "DOROTHY MIFSUD vs SAMANTHA DEANDA",
+        "caseCategory": 1,
+        "type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+        "typeId": "32-1A",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:58:16Z",
+      "sequence_in_day": 67,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 13
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Writ: Possession (Filed)",
+        "date": "2024-04-02",
+        "proceedings": "Writ: Possession (Filed)"
+      },
+      {
+        "doc_id": "FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Judgment: Default",
+        "date": "2024-02-26",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Proof of Service: Summons DLR",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Request for Dismissal",
+        "date": "2024-02-20",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Default Entered",
+        "date": "2024-02-20",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-07",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-07",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-07",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Summons",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Complaint-Unlawful Detainer: Up to $10K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint-Unlawful Detainer (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Plt Mand Cover Sheet -Supp Alleg",
+        "date": "2024-02-06",
+        "proceedings": "Plt Mand Cover Sheet -Supp Alleg"
+      },
+      {
+        "doc_id": "vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "doc_name": "Verification by Landlord Re Rental Assistance UD",
+        "date": "2024-02-06",
+        "proceedings": "Verification by Landlord Re Rental Assistance UD"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-04-02",
+      "date_text": "4/2/2024",
+      "proceedings": "Writ: Possession (Filed)",
+      "source_section": "event",
+      "source_row_id": "121147884",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": "Santa Clara, Issued 02/28/2024, Satisfied.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Writ: Possession (Filed)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121147884",
+        "date": "4/2/2024",
+        "type": "Writ: Possession (Filed)",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": "Santa Clara, Issued 02/28/2024, Satisfied.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Writ: Possession (Filed)"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xeF5xhG0i5bEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Writ: Possession (Filed)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-28",
+      "date_text": "2/28/2024",
+      "proceedings": "Writ: Possession (Issued)",
+      "source_section": "event",
+      "source_row_id": "120685562",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": "300 EAST REED STREET, UNIT #5\nSAN JOSE, CA 95112",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120685562",
+        "date": "2/28/2024",
+        "type": "Writ: Possession (Issued)",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": "300 EAST REED STREET, UNIT #5\nSAN JOSE, CA 95112",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-26",
+      "date_text": "2/26/2024",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "120659282",
+      "filed_by": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+      "comment": "300 East Reed Street, Unit #5, San Jose, CA, 95112",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Judgment: Default",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120659282",
+        "date": "2/26/2024",
+        "type": "Judgment: Default",
+        "filedBy": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+        "comment": "300 East Reed Street, Unit #5, San Jose, CA, 95112",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Judgment: Default"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "FoVim4ZxjVDEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Judgment: Default"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120655217",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Proof of Service: Summons DLR",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120655217",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Proof of Service: Summons DLR"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "z0dUcFdrRcPEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Proof of Service: Summons DLR"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "120655218",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": "Does 1-5",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120655218",
+        "date": "2/20/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": "Does 1-5",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Js96eolOflnEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "120659281",
+      "filed_by": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Default Entered",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120659281",
+        "date": "2/20/2024",
+        "type": "Default Entered",
+        "filedBy": "DOROTHY MIFSUD, SAMANTHA DEANDA, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Default Entered"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3CWchRfEsELEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Default Entered"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120428333",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428333",
+        "date": "2/7/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "McaGYQ0WTLzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120428335",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428335",
+        "date": "2/7/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "H0cPoP0M7zzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120428337",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428337",
+        "date": "2/7/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "aXfaAmQSv0HEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120422261",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422261",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120422328",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422328",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "rQGE5Fxy%2BWzEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120422329",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Summons",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422329",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Summons"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WTKfN%2F%2BNEBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Summons"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "120422330",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Complaint-Unlawful Detainer: Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422330",
+        "date": "2/6/2024",
+        "type": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UM6XVMBMkzXEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Plt Mand Cover Sheet -Supp Alleg",
+      "source_section": "event",
+      "source_row_id": "120422331",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Plt Mand Cover Sheet -Supp Alleg",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422331",
+        "date": "2/6/2024",
+        "type": "Plt Mand Cover Sheet -Supp Alleg",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Plt Mand Cover Sheet -Supp Alleg"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "O8Iif2XhGkrEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Plt Mand Cover Sheet -Supp Alleg"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Verification by Landlord Re Rental Assistance UD",
+      "source_section": "event",
+      "source_row_id": "120422334",
+      "filed_by": "DOROTHY MIFSUD, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_name": "Verification by Landlord Re Rental Assistance UD",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120422334",
+        "date": "2/6/2024",
+        "type": "Verification by Landlord Re Rental Assistance UD",
+        "filedBy": "DOROTHY MIFSUD, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+            "documentName": "Verification by Landlord Re Rental Assistance UD"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vzoBj%2F%2BiCBvEEzMy7tf9CDFQDW7ge4WcC6dRgKnWISA%3D",
+        "documentName": "Verification by Landlord Re Rental Assistance UD"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

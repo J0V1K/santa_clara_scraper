@@ -1,0 +1,2860 @@
+{
+  "metadata": {
+    "case_number": "24CV430526",
+    "case_id": "5319560",
+    "case_title": "CASSANDRA FARRAND vs DAWN ADAMS",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Other PI/PD/WD Unlimited (23)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Active",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [
+      "Department 16",
+      "Department 18"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTU2MA%3D%3D",
+    "portal_search_case_type": "Other PI/PD/WD Unlimited (23)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "CASSANDRA FARRAND",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15357576",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357576",
+          "type": "Plaintiff",
+          "firstName": "CASSANDRA",
+          "middleName": "",
+          "lastName": "FARRAND",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "CASSANDRA FARRAND",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "DAWN ADAMS",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15357577",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357577",
+          "type": "Defendant",
+          "firstName": "DAWN",
+          "middleName": "",
+          "lastName": "ADAMS",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "DAWN ADAMS",
+          "isDefendant": true
+        },
+        "pro_se": false
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Timothy Dennis McMahon",
+        "bar_number": "117024",
+        "represented_party_text": "CASSANDRA FARRAND",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Timothy",
+          "middleName": "Dennis",
+          "lastName": "McMahon",
+          "representing": "CASSANDRA FARRAND",
+          "barNumber": "117024",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Ben H Stoddard",
+        "bar_number": "306181",
+        "represented_party_text": "CASSANDRA FARRAND",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Ben",
+          "middleName": "H",
+          "lastName": "Stoddard",
+          "representing": "CASSANDRA FARRAND",
+          "barNumber": "306181",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Ben H Stoddard",
+        "bar_number": "306181",
+        "represented_party_text": "CASSANDRA FARRAND",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Ben",
+          "middleName": "H",
+          "lastName": "Stoddard",
+          "representing": "CASSANDRA FARRAND",
+          "barNumber": "306181",
+          "isLead": false
+        }
+      },
+      {
+        "name": "David Lindsay Barch",
+        "bar_number": "232623",
+        "represented_party_text": "DAWN ADAMS",
+        "is_lead": true,
+        "raw": {
+          "firstName": "David",
+          "middleName": "Lindsay",
+          "lastName": "Barch",
+          "representing": "DAWN ADAMS",
+          "barNumber": "232623",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Timothy Dennis McMahon",
+        "bar_number": "117024",
+        "party_name": "CASSANDRA FARRAND",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Ben H Stoddard",
+        "bar_number": "306181",
+        "party_name": "CASSANDRA FARRAND",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Ben H Stoddard",
+        "bar_number": "306181",
+        "party_name": "CASSANDRA FARRAND",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "David Lindsay Barch",
+        "bar_number": "232623",
+        "party_name": "DAWN ADAMS",
+        "party_role": "Defendant"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": true,
+    "n_parties": 2,
+    "n_attorneys": 4,
+    "n_events": 30,
+    "n_hearings": 9,
+    "n_actions": 46,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319560",
+        "nodeId": "11110",
+        "caseNumber": "24CV430526",
+        "caseStyle": "CASSANDRA FARRAND vs DAWN ADAMS",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Active",
+        "caseType": "Other PI/PD/WD Unlimited (23)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15357576",
+            "type": "Plaintiff",
+            "firstName": "CASSANDRA",
+            "middleName": "",
+            "lastName": "FARRAND",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "CASSANDRA FARRAND",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357577",
+            "type": "Defendant",
+            "firstName": "DAWN",
+            "middleName": "",
+            "lastName": "ADAMS",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "DAWN ADAMS",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Timothy",
+            "middleName": "Dennis",
+            "lastName": "McMahon",
+            "representing": "CASSANDRA FARRAND",
+            "barNumber": "117024",
+            "isLead": true
+          },
+          {
+            "firstName": "Ben",
+            "middleName": "H",
+            "lastName": "Stoddard",
+            "representing": "CASSANDRA FARRAND",
+            "barNumber": "306181",
+            "isLead": false
+          },
+          {
+            "firstName": "Ben",
+            "middleName": "H",
+            "lastName": "Stoddard",
+            "representing": "CASSANDRA FARRAND",
+            "barNumber": "306181",
+            "isLead": false
+          },
+          {
+            "firstName": "David",
+            "middleName": "Lindsay",
+            "lastName": "Barch",
+            "representing": "DAWN ADAMS",
+            "barNumber": "232623",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "129587533",
+            "date": "2/20/2026",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "128462793",
+            "date": "2/4/2026",
+            "type": "Stipulation and Order:  ADR",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": "Appt David Samuelsen as Mediator, session held 1-14-26",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Order"
+              }
+            ]
+          },
+          {
+            "eventId": "129145160",
+            "date": "2/4/2026",
+            "type": "Referral: Mediation",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "128812313",
+            "date": "1/5/2026",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "Case Management Statement (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "14165CaseMana0058a1c"
+              }
+            ]
+          },
+          {
+            "eventId": "128230390",
+            "date": "12/29/2025",
+            "type": "Stipulation and Order:  ADR",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": "Re: Mediator David Samuelsen",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Stipulation and Order"
+              }
+            ]
+          },
+          {
+            "eventId": "129145252",
+            "date": "12/29/2025",
+            "type": "Referral: Mediation",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "127526017",
+            "date": "8/20/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "127312602",
+            "date": "8/6/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "127295978",
+            "date": "8/4/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "CASE MANAGEMENT STATEMENT (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "12959CASEMANA00d45a0"
+              }
+            ]
+          },
+          {
+            "eventId": "126163636",
+            "date": "4/30/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "125936123",
+            "date": "4/16/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "125937448",
+            "date": "4/16/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "4/30/25 Case Management Statement (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "1208043025Cas00090ff"
+              }
+            ]
+          },
+          {
+            "eventId": "124226174",
+            "date": "12/31/2024",
+            "type": "Statement",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "HRG 1-7-2025 STATEMENT OF NON-OPPOSITION TO NOTICE OF MOTION TO STRIKE (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "11292HRG1720200811f9"
+              }
+            ]
+          },
+          {
+            "eventId": "123653212",
+            "date": "11/14/2024",
+            "type": "Answer (Unlimited) (Fee Applies)",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "To: Complaint, Atty: Barch",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Answer/Response/Denial"
+              }
+            ]
+          },
+          {
+            "eventId": "123653213",
+            "date": "11/14/2024",
+            "type": "Advance Jury Fee (Nonrefundable)",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "$150 Jury feed deposit by DEF // Atty: Barch",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Advance Jury Fee"
+              }
+            ]
+          },
+          {
+            "eventId": "123653215",
+            "date": "11/14/2024",
+            "type": "Notice: Remote Appearance",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "11005NOTICEOF025822e"
+              }
+            ]
+          },
+          {
+            "eventId": "123611231",
+            "date": "11/12/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "123525719",
+            "date": "11/1/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": "PARTIAL DISMISSAL - Exemplary Damages ONLY.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "123450613",
+            "date": "10/28/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "123421372",
+            "date": "10/25/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "Case Management Statement (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "10877CaseMana00e5dad"
+              }
+            ]
+          },
+          {
+            "eventId": "122552561",
+            "date": "8/9/2024",
+            "type": "Declaration: In Support",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "Declaration of David L. Barch ISO Motion to Strike",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "10366Declarat0104453"
+              }
+            ]
+          },
+          {
+            "eventId": "122552562",
+            "date": "8/9/2024",
+            "type": "Memorandum: Points and Authorities",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "Memorandum of Points and Authorities ISO Motion to Strike",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "10366Memorand020e907"
+              }
+            ]
+          },
+          {
+            "eventId": "122552563",
+            "date": "8/9/2024",
+            "type": "Motion: Strike",
+            "filedBy": "DAWN ADAMS, ",
+            "comment": "HRG : 01/07/25 @ 9am, Atty : Barch ; Motion to Strike portions of the complaint.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+              }
+            ]
+          },
+          {
+            "eventId": "122377346",
+            "date": "7/23/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "122203419",
+            "date": "7/11/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "",
+            "comment": "Plaintiff's CMC Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "122095105",
+            "date": "6/28/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "",
+            "comment": "Proof of Service of Def. Dawn Adams",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Proof of Service of Summons/Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "120421466",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120421506",
+            "date": "2/6/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "120421508",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "91507CivilCas01f1df8"
+              }
+            ]
+          },
+          {
+            "eventId": "120421509",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "CASSANDRA FARRAND, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "91507SummonsS030637a"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16251995",
+            "calendar": "Department 16",
+            "type": "Conference: Case Management",
+            "date": "7/23/2024",
+            "time": "1:30PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16498280",
+            "calendar": "Department 16",
+            "type": "Conference: Further Case Management",
+            "date": "11/12/2024",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+              },
+              {
+                "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+              }
+            ]
+          },
+          {
+            "hearingId": "16619098",
+            "calendar": "Department 16",
+            "type": "Conference: Further Case Management",
+            "date": "4/30/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Notice of Reset Hearing"
+              },
+              {
+                "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Notice of Reset Hearing"
+              },
+              {
+                "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+              },
+              {
+                "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+              }
+            ]
+          },
+          {
+            "hearingId": "16848409",
+            "calendar": "Department 16",
+            "type": "Conference: Further Case Management",
+            "date": "8/20/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17208081",
+            "calendar": "Department 16",
+            "type": "Review: Mediation Status",
+            "date": "2/20/2026",
+            "time": "11:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17155514",
+            "calendar": "Department 16",
+            "type": "Conference: Trial Setting",
+            "date": "6/10/2026",
+            "time": "11:00AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          },
+          {
+            "hearingId": "17253645",
+            "calendar": "Department 16",
+            "type": "Conference: Settlement Jury",
+            "date": "10/28/2026",
+            "time": "9:04AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+              },
+              {
+                "documentId": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+                "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+              }
+            ]
+          },
+          {
+            "hearingId": "17253646",
+            "calendar": "Department 18",
+            "type": "Trial Assignment",
+            "date": "10/29/2026",
+            "time": "1:31PM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          },
+          {
+            "hearingId": "17253644",
+            "calendar": "Department 18",
+            "type": "Jury Trial: Long Cause",
+            "date": "11/2/2026",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319560",
+        "caseNumber": "24CV430526",
+        "style": "CASSANDRA FARRAND vs DAWN ADAMS",
+        "caseCategory": 1,
+        "type": "Other PI/PD/WD Unlimited (23)",
+        "typeId": "23-1B",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Active",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:58:15Z",
+      "sequence_in_day": 66,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 40
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2026-02-20",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Order",
+        "date": "2026-02-04",
+        "proceedings": "Stipulation and Order:  ADR"
+      },
+      {
+        "doc_id": "UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "14165CaseMana0058a1c",
+        "date": "2026-01-05",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Stipulation and Order",
+        "date": "2025-12-29",
+        "proceedings": "Stipulation and Order:  ADR"
+      },
+      {
+        "doc_id": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-08-20",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-08-06",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "12959CASEMANA00d45a0",
+        "date": "2025-08-04",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-04-30",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-04-16",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "1208043025Cas00090ff",
+        "date": "2025-04-16",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "11292HRG1720200811f9",
+        "date": "2024-12-31",
+        "proceedings": "Statement"
+      },
+      {
+        "doc_id": "JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Answer/Response/Denial",
+        "date": "2024-11-14",
+        "proceedings": "Answer (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Advance Jury Fee",
+        "date": "2024-11-14",
+        "proceedings": "Advance Jury Fee (Nonrefundable)"
+      },
+      {
+        "doc_id": "%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "11005NOTICEOF025822e",
+        "date": "2024-11-14",
+        "proceedings": "Notice: Remote Appearance"
+      },
+      {
+        "doc_id": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-12",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Request for Dismissal",
+        "date": "2024-11-01",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2024-10-28",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "10877CaseMana00e5dad",
+        "date": "2024-10-25",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "10366Declarat0104453",
+        "date": "2024-08-09",
+        "proceedings": "Declaration: In Support"
+      },
+      {
+        "doc_id": "LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "10366Memorand020e907",
+        "date": "2024-08-09",
+        "proceedings": "Memorandum: Points and Authorities"
+      },
+      {
+        "doc_id": "QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+        "date": "2024-08-09",
+        "proceedings": "Motion: Strike"
+      },
+      {
+        "doc_id": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2024-07-11",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Proof of Service of Summons/Complaint",
+        "date": "2024-06-28",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Complaint",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "91507CivilCas01f1df8",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "91507SummonsS030637a",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+        "date": "2024-11-12",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-12",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+        "date": "2024-11-12",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-04-30",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Notice of Reset Hearing",
+        "date": "2025-04-30",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Notice of Reset Hearing",
+        "date": "2025-04-30",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+        "date": "2025-04-30",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+        "date": "2025-04-30",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-08-20",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2026-02-20",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+        "date": "2026-10-28",
+        "proceedings": "Conference: Settlement Jury"
+      },
+      {
+        "doc_id": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+        "date": "2026-10-28",
+        "proceedings": "Conference: Settlement Jury"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "date_text": "2/20/2026",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "129587533",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129587533",
+        "date": "2/20/2026",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-04",
+      "date_text": "2/4/2026",
+      "proceedings": "Stipulation and Order:  ADR",
+      "source_section": "event",
+      "source_row_id": "128462793",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": "Appt David Samuelsen as Mediator, session held 1-14-26",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128462793",
+        "date": "2/4/2026",
+        "type": "Stipulation and Order:  ADR",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": "Appt David Samuelsen as Mediator, session held 1-14-26",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ryXuTjPN0EfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-04",
+      "date_text": "2/4/2026",
+      "proceedings": "Referral: Mediation",
+      "source_section": "event",
+      "source_row_id": "129145160",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129145160",
+        "date": "2/4/2026",
+        "type": "Referral: Mediation",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "date_text": "1/5/2026",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "128812313",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "Case Management Statement (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "14165CaseMana0058a1c",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128812313",
+        "date": "1/5/2026",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "Case Management Statement (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "14165CaseMana0058a1c"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UBU%2FvEcMbDDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "14165CaseMana0058a1c"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-29",
+      "date_text": "12/29/2025",
+      "proceedings": "Stipulation and Order:  ADR",
+      "source_section": "event",
+      "source_row_id": "128230390",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": "Re: Mediator David Samuelsen",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Stipulation and Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128230390",
+        "date": "12/29/2025",
+        "type": "Stipulation and Order:  ADR",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": "Re: Mediator David Samuelsen",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Stipulation and Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "muNSPJCiZ4HEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Stipulation and Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-12-29",
+      "date_text": "12/29/2025",
+      "proceedings": "Referral: Mediation",
+      "source_section": "event",
+      "source_row_id": "129145252",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129145252",
+        "date": "12/29/2025",
+        "type": "Referral: Mediation",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "date_text": "8/20/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "127526017",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127526017",
+        "date": "8/20/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-06",
+      "date_text": "8/6/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "127312602",
+      "filed_by": "",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127312602",
+        "date": "8/6/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "4pjw8X13MpHEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-04",
+      "date_text": "8/4/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "127295978",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "CASE MANAGEMENT STATEMENT (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "12959CASEMANA00d45a0",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127295978",
+        "date": "8/4/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "CASE MANAGEMENT STATEMENT (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "12959CASEMANA00d45a0"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uAGUydVtXIvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "12959CASEMANA00d45a0"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "126163636",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126163636",
+        "date": "4/30/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-16",
+      "date_text": "4/16/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "125936123",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125936123",
+        "date": "4/16/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "t48IHe5OqJDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-16",
+      "date_text": "4/16/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "125937448",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "4/30/25 Case Management Statement (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "1208043025Cas00090ff",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125937448",
+        "date": "4/16/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "4/30/25 Case Management Statement (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "1208043025Cas00090ff"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qu2J6%2F7X7kTEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "1208043025Cas00090ff"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-12-31",
+      "date_text": "12/31/2024",
+      "proceedings": "Statement",
+      "source_section": "event",
+      "source_row_id": "124226174",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "HRG 1-7-2025 STATEMENT OF NON-OPPOSITION TO NOTICE OF MOTION TO STRIKE (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "11292HRG1720200811f9",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124226174",
+        "date": "12/31/2024",
+        "type": "Statement",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "HRG 1-7-2025 STATEMENT OF NON-OPPOSITION TO NOTICE OF MOTION TO STRIKE (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "11292HRG1720200811f9"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "HL9OxuJbFErEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "11292HRG1720200811f9"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Answer (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "123653212",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "To: Complaint, Atty: Barch",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Answer/Response/Denial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123653212",
+        "date": "11/14/2024",
+        "type": "Answer (Unlimited) (Fee Applies)",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "To: Complaint, Atty: Barch",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Answer/Response/Denial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "JaZDwQm2st3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Answer/Response/Denial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Advance Jury Fee (Nonrefundable)",
+      "source_section": "event",
+      "source_row_id": "123653213",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "$150 Jury feed deposit by DEF // Atty: Barch",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Advance Jury Fee",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123653213",
+        "date": "11/14/2024",
+        "type": "Advance Jury Fee (Nonrefundable)",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "$150 Jury feed deposit by DEF // Atty: Barch",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Advance Jury Fee"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "fuKRdpf9SrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Advance Jury Fee"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Notice: Remote Appearance",
+      "source_section": "event",
+      "source_row_id": "123653215",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "11005NOTICEOF025822e",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123653215",
+        "date": "11/14/2024",
+        "type": "Notice: Remote Appearance",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "11005NOTICEOF025822e"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BjFjd3f3bY%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "11005NOTICEOF025822e"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-12",
+      "date_text": "11/12/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123611231",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123611231",
+        "date": "11/12/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-01",
+      "date_text": "11/1/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "123525719",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": "PARTIAL DISMISSAL - Exemplary Damages ONLY.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123525719",
+        "date": "11/1/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": "PARTIAL DISMISSAL - Exemplary Damages ONLY.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "2s85c9PNLu7EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-28",
+      "date_text": "10/28/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "123450613",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123450613",
+        "date": "10/28/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ZerLYVgZb2bEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-25",
+      "date_text": "10/25/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "123421372",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "Case Management Statement (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "10877CaseMana00e5dad",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123421372",
+        "date": "10/25/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "Case Management Statement (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "10877CaseMana00e5dad"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "2akHyARNxqzEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "10877CaseMana00e5dad"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-09",
+      "date_text": "8/9/2024",
+      "proceedings": "Declaration: In Support",
+      "source_section": "event",
+      "source_row_id": "122552561",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "Declaration of David L. Barch ISO Motion to Strike",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "10366Declarat0104453",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122552561",
+        "date": "8/9/2024",
+        "type": "Declaration: In Support",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "Declaration of David L. Barch ISO Motion to Strike",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "10366Declarat0104453"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "viQ3D74BM7TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "10366Declarat0104453"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-09",
+      "date_text": "8/9/2024",
+      "proceedings": "Memorandum: Points and Authorities",
+      "source_section": "event",
+      "source_row_id": "122552562",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "Memorandum of Points and Authorities ISO Motion to Strike",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "10366Memorand020e907",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122552562",
+        "date": "8/9/2024",
+        "type": "Memorandum: Points and Authorities",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "Memorandum of Points and Authorities ISO Motion to Strike",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "10366Memorand020e907"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "LH9PQ6Zv23TEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "10366Memorand020e907"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-09",
+      "date_text": "8/9/2024",
+      "proceedings": "Motion: Strike",
+      "source_section": "event",
+      "source_row_id": "122552563",
+      "filed_by": "DAWN ADAMS, ",
+      "comment": "HRG : 01/07/25 @ 9am, Atty : Barch ; Motion to Strike portions of the complaint.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122552563",
+        "date": "8/9/2024",
+        "type": "Motion: Strike",
+        "filedBy": "DAWN ADAMS, ",
+        "comment": "HRG : 01/07/25 @ 9am, Atty : Barch ; Motion to Strike portions of the complaint.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "QQmazTxayKbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122377346",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122377346",
+        "date": "7/23/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-11",
+      "date_text": "7/11/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122203419",
+      "filed_by": "",
+      "comment": "Plaintiff's CMC Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122203419",
+        "date": "7/11/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "",
+        "comment": "Plaintiff's CMC Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "P4%2FcN1zMm%2BfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "122095105",
+      "filed_by": "",
+      "comment": "Proof of Service of Def. Dawn Adams",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Proof of Service of Summons/Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122095105",
+        "date": "6/28/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "",
+        "comment": "Proof of Service of Def. Dawn Adams",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Proof of Service of Summons/Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dire0pK4siXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Proof of Service of Summons/Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120421466",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120421466",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120421506",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120421506",
+        "date": "2/6/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TXTuo%2BN59Q%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120421508",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "91507CivilCas01f1df8",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120421508",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "91507CivilCas01f1df8"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UmNhm%2FBd2E%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "91507CivilCas01f1df8"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120421509",
+      "filed_by": "CASSANDRA FARRAND, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "91507SummonsS030637a",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120421509",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "CASSANDRA FARRAND, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "91507SummonsS030637a"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qcXEg4ytGFfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "91507SummonsS030637a"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16251995",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "1:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16251995",
+        "calendar": "Department 16",
+        "type": "Conference: Case Management",
+        "date": "7/23/2024",
+        "time": "1:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "F407IGqvMBbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-12",
+      "date_text": "11/12/2024",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16498280",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498280",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "11/12/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-12",
+      "date_text": "11/12/2024",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16498280",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498280",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "11/12/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-12",
+      "date_text": "11/12/2024",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16498280",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16498280",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "11/12/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "sQXCjcw1rJfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "XCDSSIyfYNrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xFvLI%2FHMH9rEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16619098",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16619098",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "4/30/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16619098",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Notice of Reset Hearing",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16619098",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "4/30/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Notice of Reset Hearing"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16619098",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Notice of Reset Hearing",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16619098",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "4/30/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Notice of Reset Hearing"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16619098",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16619098",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "4/30/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-30",
+      "date_text": "4/30/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16619098",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16619098",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "4/30/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "UypzdyBcpHrEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "KHC9POuvKf3EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "plkY6b8EdKfEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "InKkLlM0MA%2FEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          },
+          {
+            "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "YlvNaMUyHrbEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-08-20",
+      "date_text": "8/20/2025",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16848409",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16848409",
+        "calendar": "Department 16",
+        "type": "Conference: Further Case Management",
+        "date": "8/20/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3sUz53Z2qpXEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-20",
+      "date_text": "2/20/2026",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "17208081",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "11:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17208081",
+        "calendar": "Department 16",
+        "type": "Review: Mediation Status",
+        "date": "2/20/2026",
+        "time": "11:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "LLVbFtoWc77EEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-06-10",
+      "date_text": "6/10/2026",
+      "proceedings": "Conference: Trial Setting",
+      "source_section": "hearing",
+      "source_row_id": "17155514",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "11:00AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17155514",
+        "calendar": "Department 16",
+        "type": "Conference: Trial Setting",
+        "date": "6/10/2026",
+        "time": "11:00AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "date_text": "10/28/2026",
+      "proceedings": "Conference: Settlement Jury",
+      "source_section": "hearing",
+      "source_row_id": "17253645",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "9:04AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253645",
+        "calendar": "Department 16",
+        "type": "Conference: Settlement Jury",
+        "date": "10/28/2026",
+        "time": "9:04AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-10-28",
+      "date_text": "10/28/2026",
+      "proceedings": "Conference: Settlement Jury",
+      "source_section": "hearing",
+      "source_row_id": "17253645",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 16",
+      "time": "9:04AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253645",
+        "calendar": "Department 16",
+        "type": "Conference: Settlement Jury",
+        "date": "10/28/2026",
+        "time": "9:04AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "LZ9wR5%2B8NBvEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "52cbxZc%2BIhDEEzMy7tf9CDFQDW7ge4WcOrnCIwlwlJI%3D",
+        "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-10-29",
+      "date_text": "10/29/2026",
+      "proceedings": "Trial Assignment",
+      "source_section": "hearing",
+      "source_row_id": "17253646",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 18",
+      "time": "1:31PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253646",
+        "calendar": "Department 18",
+        "type": "Trial Assignment",
+        "date": "10/29/2026",
+        "time": "1:31PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "date_text": "11/2/2026",
+      "proceedings": "Jury Trial: Long Cause",
+      "source_section": "hearing",
+      "source_row_id": "17253644",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 18",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253644",
+        "calendar": "Department 18",
+        "type": "Jury Trial: Long Cause",
+        "date": "11/2/2026",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

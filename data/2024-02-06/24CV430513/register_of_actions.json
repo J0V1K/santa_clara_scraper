@@ -1,0 +1,638 @@
+{
+  "metadata": {
+    "case_number": "24CV430513",
+    "case_id": "5319462",
+    "case_title": "Sifredo Vences vs David Van-Noorden",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Auto Unlimited (22)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTQ2Mg%3D%3D",
+    "portal_search_case_type": "Auto Unlimited (22)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Gisela Cruz-Andujar",
+        "type": "Plaintiff/Guardian Ad Litem",
+        "is_defendant": false,
+        "case_party_id": "15357269",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357269",
+          "type": "Plaintiff/Guardian Ad Litem",
+          "firstName": "Gisela",
+          "middleName": "",
+          "lastName": "Cruz-Andujar",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Gisela Cruz-Andujar",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Lucas Mateo Vences  Cruz",
+        "type": "Minor - Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15357270",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357270",
+          "type": "Minor - Plaintiff",
+          "firstName": "Lucas",
+          "middleName": "Mateo Vences ",
+          "lastName": "Cruz",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Lucas Mateo Vences  Cruz",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Sifredo Vences",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15357271",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357271",
+          "type": "Plaintiff",
+          "firstName": "Sifredo",
+          "middleName": "",
+          "lastName": "Vences",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Sifredo Vences",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "David Van-Noorden",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15357272",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357272",
+          "type": "Defendant",
+          "firstName": "David",
+          "middleName": "",
+          "lastName": "Van-Noorden",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "David Van-Noorden",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Owili K. Eison",
+        "bar_number": "271802",
+        "represented_party_text": "Gisela Cruz-Andujar",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Owili",
+          "middleName": "K.",
+          "lastName": "Eison",
+          "representing": "Gisela Cruz-Andujar",
+          "barNumber": "271802",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Owili K. Eison",
+        "bar_number": "271802",
+        "represented_party_text": "Lucas Mateo Vences  Cruz",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Owili",
+          "middleName": "K.",
+          "lastName": "Eison",
+          "representing": "Lucas Mateo Vences  Cruz",
+          "barNumber": "271802",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Owili K. Eison",
+        "bar_number": "271802",
+        "represented_party_text": "Sifredo Vences",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Owili",
+          "middleName": "K.",
+          "lastName": "Eison",
+          "representing": "Sifredo Vences",
+          "barNumber": "271802",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Owili K. Eison",
+        "bar_number": "271802",
+        "party_name": "Gisela Cruz-Andujar",
+        "party_role": "Plaintiff/Guardian Ad Litem"
+      },
+      {
+        "attorney_name": "Owili K. Eison",
+        "bar_number": "271802",
+        "party_name": "Lucas Mateo Vences  Cruz",
+        "party_role": "Minor - Plaintiff"
+      },
+      {
+        "attorney_name": "Owili K. Eison",
+        "bar_number": "271802",
+        "party_name": "Sifredo Vences",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 4,
+    "n_attorneys": 3,
+    "n_events": 6,
+    "n_hearings": 0,
+    "n_actions": 6,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319462",
+        "nodeId": "11110",
+        "caseNumber": "24CV430513",
+        "caseStyle": "Sifredo Vences vs David Van-Noorden",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Auto Unlimited (22)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15357269",
+            "type": "Plaintiff/Guardian Ad Litem",
+            "firstName": "Gisela",
+            "middleName": "",
+            "lastName": "Cruz-Andujar",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Gisela Cruz-Andujar",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357270",
+            "type": "Minor - Plaintiff",
+            "firstName": "Lucas",
+            "middleName": "Mateo Vences ",
+            "lastName": "Cruz",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Lucas Mateo Vences  Cruz",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357271",
+            "type": "Plaintiff",
+            "firstName": "Sifredo",
+            "middleName": "",
+            "lastName": "Vences",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Sifredo Vences",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357272",
+            "type": "Defendant",
+            "firstName": "David",
+            "middleName": "",
+            "lastName": "Van-Noorden",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "David Van-Noorden",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Owili",
+            "middleName": "K.",
+            "lastName": "Eison",
+            "representing": "Gisela Cruz-Andujar",
+            "barNumber": "271802",
+            "isLead": true
+          },
+          {
+            "firstName": "Owili",
+            "middleName": "K.",
+            "lastName": "Eison",
+            "representing": "Lucas Mateo Vences  Cruz",
+            "barNumber": "271802",
+            "isLead": true
+          },
+          {
+            "firstName": "Owili",
+            "middleName": "K.",
+            "lastName": "Eison",
+            "representing": "Sifredo Vences",
+            "barNumber": "271802",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "122260199",
+            "date": "7/16/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+            "comment": "Request for Dismissal with Prejudice as to Entire Action",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "120419149",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120419189",
+            "date": "2/6/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "120419190",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+                "documentName": "373443.1501927.373443_CM010.PDF"
+              }
+            ]
+          },
+          {
+            "eventId": "120419192",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+                "documentName": "Summons: Issued/Filed"
+              }
+            ]
+          },
+          {
+            "eventId": "120481079",
+            "date": "2/6/2024",
+            "type": "Application and Order: Appoint Guardian ad Litem",
+            "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+            "comment": "(No proposed order CIV-011 submitted)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+                "documentName": "Application and Order: Appoint Guardian ad Litem"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319462",
+        "caseNumber": "24CV430513",
+        "style": "Sifredo Vences vs David Van-Noorden",
+        "caseCategory": 1,
+        "type": "Auto Unlimited (22)",
+        "typeId": "22-1B",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:58:01Z",
+      "sequence_in_day": 62,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 5
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "doc_name": "Request for Dismissal",
+        "date": "2024-07-16",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "doc_name": "Complaint",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "doc_name": "373443.1501927.373443_CM010.PDF",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "doc_name": "Summons: Issued/Filed",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "doc_name": "Application and Order: Appoint Guardian ad Litem",
+        "date": "2024-02-06",
+        "proceedings": "Application and Order: Appoint Guardian ad Litem"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-07-16",
+      "date_text": "7/16/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "122260199",
+      "filed_by": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+      "comment": "Request for Dismissal with Prejudice as to Entire Action",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122260199",
+        "date": "7/16/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+        "comment": "Request for Dismissal with Prejudice as to Entire Action",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3Zvq80vxSY7EEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120419149",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120419149",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120419189",
+      "filed_by": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120419189",
+        "date": "2/6/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IMYq2T9t0HHEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120419190",
+      "filed_by": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_name": "373443.1501927.373443_CM010.PDF",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120419190",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+            "documentName": "373443.1501927.373443_CM010.PDF"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3C6EkI%2BkQBrEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "documentName": "373443.1501927.373443_CM010.PDF"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120419192",
+      "filed_by": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_name": "Summons: Issued/Filed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120419192",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+            "documentName": "Summons: Issued/Filed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "h3hR17mOD%2FLEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "documentName": "Summons: Issued/Filed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Application and Order: Appoint Guardian ad Litem",
+      "source_section": "event",
+      "source_row_id": "120481079",
+      "filed_by": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+      "comment": "(No proposed order CIV-011 submitted)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_name": "Application and Order: Appoint Guardian ad Litem",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120481079",
+        "date": "2/6/2024",
+        "type": "Application and Order: Appoint Guardian ad Litem",
+        "filedBy": "Gisela Cruz-Andujar, Lucas Cruz, Sifredo Vences, ",
+        "comment": "(No proposed order CIV-011 submitted)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+            "documentName": "Application and Order: Appoint Guardian ad Litem"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zI%2BDPNkxe3DEEzMy7tf9CDFQDW7ge4WcmOowzwMNfqk%3D",
+        "documentName": "Application and Order: Appoint Guardian ad Litem"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

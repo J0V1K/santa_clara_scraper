@@ -1,0 +1,520 @@
+{
+  "metadata": {
+    "case_number": "24CV430517",
+    "case_id": "5319523",
+    "case_title": "Wells Fargo Bank, N.a. vs Maurice Curtis",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTUyMw%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Wells Fargo Bank, N.a.",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15357443",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357443",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Wells Fargo Bank, N.a.",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Wells Fargo Bank, N.a.",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Maurice L Curtis",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15357444",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15357444",
+          "type": "Defendant",
+          "firstName": "Maurice",
+          "middleName": "L",
+          "lastName": "Curtis",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Maurice L Curtis",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Harlan Michael Reese",
+        "bar_number": "118226",
+        "represented_party_text": "Wells Fargo Bank, N.a.",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Harlan",
+          "middleName": "Michael",
+          "lastName": "Reese",
+          "representing": " Wells Fargo Bank, N.a.",
+          "barNumber": "118226",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Harlan Michael Reese",
+        "bar_number": "118226",
+        "party_name": "Wells Fargo Bank, N.a.",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 6,
+    "n_hearings": 0,
+    "n_actions": 6,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319523",
+        "nodeId": "11110",
+        "caseNumber": "24CV430517",
+        "caseStyle": "Wells Fargo Bank, N.a. vs Maurice Curtis",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15357443",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Wells Fargo Bank, N.a.",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Wells Fargo Bank, N.a.",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15357444",
+            "type": "Defendant",
+            "firstName": "Maurice",
+            "middleName": "L",
+            "lastName": "Curtis",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Maurice L Curtis",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Harlan",
+            "middleName": "Michael",
+            "lastName": "Reese",
+            "representing": " Wells Fargo Bank, N.a.",
+            "barNumber": "118226",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "124091879",
+            "date": "12/18/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Wells Fargo Bank, N.a., ",
+            "comment": "entire action without prejudice",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+                "documentName": "11218Requestf00f095f"
+              }
+            ]
+          },
+          {
+            "eventId": "120420570",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120420612",
+            "date": "2/6/2024",
+            "type": "Complaint (Limited): Over $10K",
+            "filedBy": "Wells Fargo Bank, N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+                "documentName": "Complaintbetween $10K and $25K"
+              }
+            ]
+          },
+          {
+            "eventId": "120420613",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Wells Fargo Bank, N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+                "documentName": "Reese Law Group_572966_sum_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120420615",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Wells Fargo Bank, N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+                "documentName": "Reese Law Group_572966_ccs_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120420616",
+            "date": "2/6/2024",
+            "type": "Affidavit:  Venue",
+            "filedBy": "Wells Fargo Bank, N.a., ",
+            "comment": "Re: Declaration of Venue",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+                "documentName": "Affidavit:  Venue"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319523",
+        "caseNumber": "24CV430517",
+        "style": "Wells Fargo Bank, N.a. vs Maurice Curtis",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "typeId": "3.740-2A",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:58:06Z",
+      "sequence_in_day": 65,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 5
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "doc_name": "11218Requestf00f095f",
+        "date": "2024-12-18",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "doc_name": "Complaintbetween $10K and $25K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Limited): Over $10K"
+      },
+      {
+        "doc_id": "y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "doc_name": "Reese Law Group_572966_sum_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "doc_name": "Reese Law Group_572966_ccs_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "doc_name": "Affidavit:  Venue",
+        "date": "2024-02-06",
+        "proceedings": "Affidavit:  Venue"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-12-18",
+      "date_text": "12/18/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "124091879",
+      "filed_by": "Wells Fargo Bank, N.a., ",
+      "comment": "entire action without prejudice",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_name": "11218Requestf00f095f",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124091879",
+        "date": "12/18/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Wells Fargo Bank, N.a., ",
+        "comment": "entire action without prejudice",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+            "documentName": "11218Requestf00f095f"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dRz%2FJ5vZhEXEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "documentName": "11218Requestf00f095f"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120420570",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120420570",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Limited): Over $10K",
+      "source_section": "event",
+      "source_row_id": "120420612",
+      "filed_by": "Wells Fargo Bank, N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_name": "Complaintbetween $10K and $25K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120420612",
+        "date": "2/6/2024",
+        "type": "Complaint (Limited): Over $10K",
+        "filedBy": "Wells Fargo Bank, N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+            "documentName": "Complaintbetween $10K and $25K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "f63L5xDuMoTEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "documentName": "Complaintbetween $10K and $25K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120420613",
+      "filed_by": "Wells Fargo Bank, N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_name": "Reese Law Group_572966_sum_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120420613",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Wells Fargo Bank, N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+            "documentName": "Reese Law Group_572966_sum_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "y%2FGsJlZC8arEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "documentName": "Reese Law Group_572966_sum_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120420615",
+      "filed_by": "Wells Fargo Bank, N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_name": "Reese Law Group_572966_ccs_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120420615",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Wells Fargo Bank, N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+            "documentName": "Reese Law Group_572966_ccs_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3uQowcC8t2fEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "documentName": "Reese Law Group_572966_ccs_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Affidavit:  Venue",
+      "source_section": "event",
+      "source_row_id": "120420616",
+      "filed_by": "Wells Fargo Bank, N.a., ",
+      "comment": "Re: Declaration of Venue",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_name": "Affidavit:  Venue",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120420616",
+        "date": "2/6/2024",
+        "type": "Affidavit:  Venue",
+        "filedBy": "Wells Fargo Bank, N.a., ",
+        "comment": "Re: Declaration of Venue",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+            "documentName": "Affidavit:  Venue"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Q9JAK0ZwLPnEEzMy7tf9CDFQDW7ge4Wc0jA1hVKVlu8%3D",
+        "documentName": "Affidavit:  Venue"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

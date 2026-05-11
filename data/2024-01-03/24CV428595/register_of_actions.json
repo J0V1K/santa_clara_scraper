@@ -1,0 +1,3130 @@
+{
+  "metadata": {
+    "case_number": "24CV428595",
+    "case_id": "5195082",
+    "case_title": "Chen, et al. v. Yoshi Japanese Cuisine Inc., et al. (PAGA)",
+    "filing_date": "2024-01-03",
+    "filing_date_text": "1/3/2024",
+    "case_type": "Other Employment Unlimited (15)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Active",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [
+      "Department 7",
+      "Department 22"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTE5NTA4Mg%3D%3D",
+    "portal_search_case_type": "Other Employment Unlimited (15)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Oscar Cruz Gabriel",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15097643",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097643",
+          "type": "Plaintiff",
+          "firstName": "Oscar",
+          "middleName": "",
+          "lastName": "Cruz Gabriel",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Oscar Cruz Gabriel",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Carlos Romaldo Paxto Chen",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15097644",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097644",
+          "type": "Plaintiff",
+          "firstName": "Carlos",
+          "middleName": "Romaldo Paxto",
+          "lastName": "Chen",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Carlos Romaldo Paxto Chen",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Yoshi Japanese Cuisine Inc.",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15097645",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097645",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Yoshi Japanese Cuisine Inc.",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Yoshi Japanese Cuisine Inc.",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Jin Yao Huang",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15097646",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097646",
+          "type": "Defendant",
+          "firstName": "Jin",
+          "middleName": "Yao",
+          "lastName": "Huang",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Jin Yao Huang",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "YOSHI3 LLC",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15097647",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097647",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "YOSHI3 LLC",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " YOSHI3 LLC",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Yoshi Sushi & Grill LLC",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15097648",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15097648",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Yoshi Sushi & Grill LLC",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Yoshi Sushi & Grill LLC",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Superior Court of California",
+        "type": "Notice",
+        "is_defendant": false,
+        "case_party_id": "15256009",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15256009",
+          "type": "Notice",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Superior Court of California",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Superior Court of California",
+          "isDefendant": false
+        },
+        "pro_se": false
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alexander S Rusnak",
+        "bar_number": "300054",
+        "represented_party_text": "Oscar Cruz Gabriel",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Alexander",
+          "middleName": "S",
+          "lastName": "Rusnak",
+          "representing": "Oscar Cruz Gabriel",
+          "barNumber": "300054",
+          "isLead": true
+        }
+      },
+      {
+        "name": "T.P. Skinner",
+        "bar_number": "297710",
+        "represented_party_text": "Oscar Cruz Gabriel",
+        "is_lead": false,
+        "raw": {
+          "firstName": "T.P.",
+          "middleName": "",
+          "lastName": "Skinner",
+          "representing": "Oscar Cruz Gabriel",
+          "barNumber": "297710",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Alexander S Rusnak",
+        "bar_number": "300054",
+        "represented_party_text": "Carlos Romaldo Paxto Chen",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Alexander",
+          "middleName": "S",
+          "lastName": "Rusnak",
+          "representing": "Carlos Romaldo Paxto Chen",
+          "barNumber": "300054",
+          "isLead": true
+        }
+      },
+      {
+        "name": "T.P. Skinner",
+        "bar_number": "297710",
+        "represented_party_text": "Carlos Romaldo Paxto Chen",
+        "is_lead": false,
+        "raw": {
+          "firstName": "T.P.",
+          "middleName": "",
+          "lastName": "Skinner",
+          "representing": "Carlos Romaldo Paxto Chen",
+          "barNumber": "297710",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "represented_party_text": "Yoshi Japanese Cuisine Inc.",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Tyler",
+          "middleName": "M",
+          "lastName": "Paetkau",
+          "representing": " Yoshi Japanese Cuisine Inc.",
+          "barNumber": "146305",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Superior Court of CA, County of Santa Clara",
+        "bar_number": "000000",
+        "represented_party_text": "Superior Court of California",
+        "is_lead": true,
+        "raw": {
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Superior Court of CA, County of Santa Clara",
+          "representing": " Superior Court of California",
+          "barNumber": "000000",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "represented_party_text": "Jin Yao Huang",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Tyler",
+          "middleName": "M",
+          "lastName": "Paetkau",
+          "representing": "Jin Yao Huang",
+          "barNumber": "146305",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "represented_party_text": "YOSHI3 LLC",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Tyler",
+          "middleName": "M",
+          "lastName": "Paetkau",
+          "representing": " YOSHI3 LLC",
+          "barNumber": "146305",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "represented_party_text": "YOSHI3 LLC",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Tyler",
+          "middleName": "M",
+          "lastName": "Paetkau",
+          "representing": " YOSHI3 LLC",
+          "barNumber": "146305",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "represented_party_text": "Yoshi Sushi & Grill LLC",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Tyler",
+          "middleName": "M",
+          "lastName": "Paetkau",
+          "representing": " Yoshi Sushi & Grill LLC",
+          "barNumber": "146305",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Alexander S Rusnak",
+        "bar_number": "300054",
+        "party_name": "Oscar Cruz Gabriel",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "T.P. Skinner",
+        "bar_number": "297710",
+        "party_name": "Oscar Cruz Gabriel",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Alexander S Rusnak",
+        "bar_number": "300054",
+        "party_name": "Carlos Romaldo Paxto Chen",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "T.P. Skinner",
+        "bar_number": "297710",
+        "party_name": "Carlos Romaldo Paxto Chen",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "party_name": "Yoshi Japanese Cuisine Inc.",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Superior Court of CA, County of Santa Clara",
+        "bar_number": "000000",
+        "party_name": "Superior Court of California",
+        "party_role": "Notice"
+      },
+      {
+        "attorney_name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "party_name": "Jin Yao Huang",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "party_name": "YOSHI3 LLC",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "party_name": "YOSHI3 LLC",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Tyler M Paetkau",
+        "bar_number": "146305",
+        "party_name": "Yoshi Sushi & Grill LLC",
+        "party_role": "Defendant"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": true,
+    "n_parties": 7,
+    "n_attorneys": 10,
+    "n_events": 35,
+    "n_hearings": 5,
+    "n_actions": 45,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5195082",
+        "nodeId": "11110",
+        "caseNumber": "24CV428595",
+        "caseStyle": "Chen, et al. v. Yoshi Japanese Cuisine Inc., et al. (PAGA)",
+        "filingDate": "1/3/2024",
+        "caseStatus": "Active",
+        "caseType": "Other Employment Unlimited (15)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15097643",
+            "type": "Plaintiff",
+            "firstName": "Oscar",
+            "middleName": "",
+            "lastName": "Cruz Gabriel",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Oscar Cruz Gabriel",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15097644",
+            "type": "Plaintiff",
+            "firstName": "Carlos",
+            "middleName": "Romaldo Paxto",
+            "lastName": "Chen",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Carlos Romaldo Paxto Chen",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15097645",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Yoshi Japanese Cuisine Inc.",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Yoshi Japanese Cuisine Inc.",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15097646",
+            "type": "Defendant",
+            "firstName": "Jin",
+            "middleName": "Yao",
+            "lastName": "Huang",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Jin Yao Huang",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15097647",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "YOSHI3 LLC",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " YOSHI3 LLC",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15097648",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Yoshi Sushi & Grill LLC",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Yoshi Sushi & Grill LLC",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15256009",
+            "type": "Notice",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Superior Court of California",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Superior Court of California",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Alexander",
+            "middleName": "S",
+            "lastName": "Rusnak",
+            "representing": "Oscar Cruz Gabriel",
+            "barNumber": "300054",
+            "isLead": true
+          },
+          {
+            "firstName": "T.P.",
+            "middleName": "",
+            "lastName": "Skinner",
+            "representing": "Oscar Cruz Gabriel",
+            "barNumber": "297710",
+            "isLead": false
+          },
+          {
+            "firstName": "Alexander",
+            "middleName": "S",
+            "lastName": "Rusnak",
+            "representing": "Carlos Romaldo Paxto Chen",
+            "barNumber": "300054",
+            "isLead": true
+          },
+          {
+            "firstName": "T.P.",
+            "middleName": "",
+            "lastName": "Skinner",
+            "representing": "Carlos Romaldo Paxto Chen",
+            "barNumber": "297710",
+            "isLead": false
+          },
+          {
+            "firstName": "Tyler",
+            "middleName": "M",
+            "lastName": "Paetkau",
+            "representing": " Yoshi Japanese Cuisine Inc.",
+            "barNumber": "146305",
+            "isLead": true
+          },
+          {
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Superior Court of CA, County of Santa Clara",
+            "representing": " Superior Court of California",
+            "barNumber": "000000",
+            "isLead": true
+          },
+          {
+            "firstName": "Tyler",
+            "middleName": "M",
+            "lastName": "Paetkau",
+            "representing": "Jin Yao Huang",
+            "barNumber": "146305",
+            "isLead": true
+          },
+          {
+            "firstName": "Tyler",
+            "middleName": "M",
+            "lastName": "Paetkau",
+            "representing": " YOSHI3 LLC",
+            "barNumber": "146305",
+            "isLead": true
+          },
+          {
+            "firstName": "Tyler",
+            "middleName": "M",
+            "lastName": "Paetkau",
+            "representing": " YOSHI3 LLC",
+            "barNumber": "146305",
+            "isLead": false
+          },
+          {
+            "firstName": "Tyler",
+            "middleName": "M",
+            "lastName": "Paetkau",
+            "representing": " Yoshi Sushi & Grill LLC",
+            "barNumber": "146305",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "130132497",
+            "date": "4/20/2026",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "129986179",
+            "date": "4/8/2026",
+            "type": "Stipulation and Order",
+            "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "GRANTED, signed by Judge McGowen - Stipulation Regarding Deposition Subpoena for Production of Business Records to Chowbus, Inc .and Order",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Lc0J5ghA4gHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "STIPULATION REGARDING CHOWBUS DEPOSITION SUBPEONA"
+              }
+            ]
+          },
+          {
+            "eventId": "129956328",
+            "date": "4/3/2026",
+            "type": "Memorandum: Points and Authorities",
+            "filedBy": "Carlos Chen, ",
+            "comment": "HRG : 11/19/26 1:30PM D22 - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WDGuSdwF8lDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Motion"
+              }
+            ]
+          },
+          {
+            "eventId": "129956329",
+            "date": "4/3/2026",
+            "type": "Motion: Order",
+            "filedBy": "Carlos Chen, ",
+            "comment": "HRG : 11/19/26 1:30PM D22  - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "oAtjR6jSHPnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "129956330",
+            "date": "4/3/2026",
+            "type": "Declaration: In Support",
+            "filedBy": "Carlos Chen, ",
+            "comment": "HRG : 11/19/26 1:30PM D22  - DECLARATION ISO MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "128446760",
+            "date": "11/25/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, ",
+            "comment": "Joint Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "127812999",
+            "date": "9/25/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Joint Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "127830829",
+            "date": "9/25/2025",
+            "type": "Substitution: Attorney",
+            "filedBy": "Jin Huang, ",
+            "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney for Jin yao Huang"
+              }
+            ]
+          },
+          {
+            "eventId": "127830831",
+            "date": "9/25/2025",
+            "type": "Substitution: Attorney",
+            "filedBy": "YOSHI3 LLC, ",
+            "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney for Yoshi3 LLC"
+              }
+            ]
+          },
+          {
+            "eventId": "127830833",
+            "date": "9/25/2025",
+            "type": "Substitution: Attorney",
+            "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney for Yoshi Sushi & Grill LLC"
+              }
+            ]
+          },
+          {
+            "eventId": "127830836",
+            "date": "9/25/2025",
+            "type": "Substitution: Attorney",
+            "filedBy": "Yoshi Japanese Cuisine Inc., ",
+            "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney for Yoshi Japanese Cuisine Inc."
+              }
+            ]
+          },
+          {
+            "eventId": "127798017",
+            "date": "9/15/2025",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "Substitution of Attorney - Each party is required to file a separate Substitution of Attorney.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "126462585",
+            "date": "5/22/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Joint Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "124462847",
+            "date": "1/17/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Joint Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "123204759",
+            "date": "10/9/2024",
+            "type": "Stipulation and Order",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "Stipulated Protective Order - signed by Judge Adams (envelope #16894772)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Stipulated Protective Order"
+              }
+            ]
+          },
+          {
+            "eventId": "123148522",
+            "date": "10/3/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "123003156",
+            "date": "9/20/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, ",
+            "comment": "Joint Initial Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "HRG 9/26/24 Joint CMC Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "121863387",
+            "date": "6/5/2024",
+            "type": "Notice",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "4 DEFENDANTS' NOTICE OF POSTING COMPLEX FEES",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "DEFENDANTS' NOTICE OF POSTING COMPLEX FEES"
+              }
+            ]
+          },
+          {
+            "eventId": "121793982",
+            "date": "5/30/2024",
+            "type": "Notice",
+            "filedBy": "",
+            "comment": "Further CMC set for 9/26/24 at 2:30pm in D7",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Notice Further CMC set for 9/26/24 at 2:30pm in D7"
+              }
+            ]
+          },
+          {
+            "eventId": "121850422",
+            "date": "5/30/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "NOTICE OF POSTING COMPLEX FEES - a complex fee for EACH defendant is required $1,000 x 4 = $4,000",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "121742186",
+            "date": "5/23/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "121685748",
+            "date": "5/20/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Parties Initial Joint Case Managment Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "HRG 5/23/24 Joint CMC Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "121387215",
+            "date": "4/17/2024",
+            "type": "Substitution: Attorney",
+            "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "Old: Cai // New: Paetkau",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney"
+              }
+            ]
+          },
+          {
+            "eventId": "121387216",
+            "date": "4/17/2024",
+            "type": "Substitution: Attorney",
+            "filedBy": "Yoshi Japanese Cuisine Inc., ",
+            "comment": "Old: Cai // New: Paetkau",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney"
+              }
+            ]
+          },
+          {
+            "eventId": "121387217",
+            "date": "4/17/2024",
+            "type": "Substitution: Attorney",
+            "filedBy": "Jin Huang, ",
+            "comment": "Old: Cai // New: Paetkau",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney"
+              }
+            ]
+          },
+          {
+            "eventId": "120673122",
+            "date": "2/26/2024",
+            "type": "Substitution: Attorney",
+            "filedBy": "YOSHI3 LLC, ",
+            "comment": "Old Cai \nNew Paekau",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Substitution of Attorney-Civil (Without Court Order)"
+              }
+            ]
+          },
+          {
+            "eventId": "120673054",
+            "date": "2/21/2024",
+            "type": "Answer (Unlimited) (Fee Applies)",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "To Complaint Atty: Cai ",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "DOC754 (1).pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120530481",
+            "date": "2/13/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "ANSWER - EACH DEF REQUIERES A $435 FIRST FILLING FEE. 435 X 4",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "120447400",
+            "date": "2/6/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+            "comment": "ANSWER - EACH DEF REQUIRES A $435 FIRST FILLING FEE",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "120102652",
+            "date": "1/19/2024",
+            "type": "Order: Deeming Case Complex",
+            "filedBy": "",
+            "comment": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline - signed/SRK.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline"
+              }
+            ]
+          },
+          {
+            "eventId": "119818932",
+            "date": "1/3/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "119818963",
+            "date": "1/3/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "PAGA Representative Action Complaint + Plaintiff's Complex Fee",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "PAGA Representative Action Complaint + Plaintiff's Complex Fee"
+              }
+            ]
+          },
+          {
+            "eventId": "119818965",
+            "date": "1/3/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Civil Cover Sheet * Complex * PAGA",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Civil Cover Sheet * Complex * PAGA"
+              }
+            ]
+          },
+          {
+            "eventId": "119818967",
+            "date": "1/3/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+            "comment": "Summons",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Summons"
+              }
+            ]
+          },
+          {
+            "eventId": "119818968",
+            "date": "1/3/2024",
+            "type": "Civil Lawsuit Notice",
+            "filedBy": "",
+            "comment": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16212195",
+            "calendar": "Department 7",
+            "type": "Conference: Case Management",
+            "date": "5/23/2024",
+            "time": "2:30PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "HRG 5/23/24 Joint CMC Statement"
+              },
+              {
+                "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16399951",
+            "calendar": "Department 7",
+            "type": "Conference: Case Management",
+            "date": "9/26/2024",
+            "time": "2:30PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "HRG 9/26/24 Joint CMC Statement"
+              }
+            ]
+          },
+          {
+            "hearingId": "17120466",
+            "calendar": "Department 22",
+            "type": "Conference: Further Case Management",
+            "date": "4/9/2026",
+            "time": "2:30PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Notice of Reset Hearing"
+              },
+              {
+                "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Notice of Reset Hearing"
+              },
+              {
+                "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "file Notice of Reset Hearing #21801961"
+              },
+              {
+                "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17276626",
+            "calendar": "Department 22",
+            "type": "Motion: Order",
+            "date": "11/19/2026",
+            "time": "1:30PM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          },
+          {
+            "hearingId": "17288365",
+            "calendar": "Department 22",
+            "type": "Reserved: Discovery",
+            "date": "12/10/2026",
+            "time": "1:30PM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5195082",
+        "caseNumber": "24CV428595",
+        "style": "Chen, et al. v. Yoshi Japanese Cuisine Inc., et al. (PAGA)",
+        "caseCategory": 1,
+        "type": "Other Employment Unlimited (15)",
+        "typeId": "15-1B",
+        "fileDate": "1/3/2024",
+        "securityGroup": null,
+        "status": "Active",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T06:27:29Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 4,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 37
+    },
+    "downloaded_documents": [
+      "2026-04-20_minutes-non-criminal_f49ed0490663.pdf",
+      "2026-04-08_stipulation-regarding-chowbus-deposition-subpeona_7e669fc27ab5.pdf",
+      "2026-04-03_motion_b3d8a9994f0d.pdf",
+      "2026-04-03_notice_72cf02bc894c.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Declaration",
+        "date": "2026-04-03",
+        "proceedings": "Declaration: In Support"
+      },
+      {
+        "doc_id": "zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-11-25",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-09-25",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney for Jin yao Huang",
+        "date": "2025-09-25",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney for Yoshi3 LLC",
+        "date": "2025-09-25",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney for Yoshi Sushi & Grill LLC",
+        "date": "2025-09-25",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney for Yoshi Japanese Cuisine Inc.",
+        "date": "2025-09-25",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2025-09-15",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-05-22",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-01-17",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Stipulated Protective Order",
+        "date": "2024-10-09",
+        "proceedings": "Stipulation and Order"
+      },
+      {
+        "doc_id": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-10-03",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "HRG 9/26/24 Joint CMC Statement",
+        "date": "2024-09-20",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "DEFENDANTS' NOTICE OF POSTING COMPLEX FEES",
+        "date": "2024-06-05",
+        "proceedings": "Notice"
+      },
+      {
+        "doc_id": "U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Notice Further CMC set for 9/26/24 at 2:30pm in D7",
+        "date": "2024-05-30",
+        "proceedings": "Notice"
+      },
+      {
+        "doc_id": "3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-05-30",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-05-23",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "HRG 5/23/24 Joint CMC Statement",
+        "date": "2024-05-20",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney",
+        "date": "2024-04-17",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney",
+        "date": "2024-04-17",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney",
+        "date": "2024-04-17",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Substitution of Attorney-Civil (Without Court Order)",
+        "date": "2024-02-26",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "DOC754 (1).pdf",
+        "date": "2024-02-21",
+        "proceedings": "Answer (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-02-13",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-02-06",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline",
+        "date": "2024-01-19",
+        "proceedings": "Order: Deeming Case Complex"
+      },
+      {
+        "doc_id": "Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "PAGA Representative Action Complaint + Plaintiff's Complex Fee",
+        "date": "2024-01-03",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Civil Cover Sheet * Complex * PAGA",
+        "date": "2024-01-03",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Summons",
+        "date": "2024-01-03",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7",
+        "date": "2024-01-03",
+        "proceedings": "Civil Lawsuit Notice"
+      },
+      {
+        "doc_id": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "HRG 5/23/24 Joint CMC Statement",
+        "date": "2024-05-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-05-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-09-26",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "HRG 9/26/24 Joint CMC Statement",
+        "date": "2024-09-26",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Notice of Reset Hearing",
+        "date": "2026-04-09",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "Notice of Reset Hearing",
+        "date": "2026-04-09",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "doc_name": "file Notice of Reset Hearing #21801961",
+        "date": "2026-04-09",
+        "proceedings": "Conference: Further Case Management"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "130132497",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": "2026-04-20_minutes-non-criminal_f49ed0490663.pdf",
+      "raw": {
+        "eventId": "130132497",
+        "date": "4/20/2026",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "date_text": "4/8/2026",
+      "proceedings": "Stipulation and Order",
+      "source_section": "event",
+      "source_row_id": "129986179",
+      "filed_by": "Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "GRANTED, signed by Judge McGowen - Stipulation Regarding Deposition Subpoena for Production of Business Records to Chowbus, Inc .and Order",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Lc0J5ghA4gHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "STIPULATION REGARDING CHOWBUS DEPOSITION SUBPEONA",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Lc0J5ghA4gHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": "2026-04-08_stipulation-regarding-chowbus-deposition-subpeona_7e669fc27ab5.pdf",
+      "raw": {
+        "eventId": "129986179",
+        "date": "4/8/2026",
+        "type": "Stipulation and Order",
+        "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "GRANTED, signed by Judge McGowen - Stipulation Regarding Deposition Subpoena for Production of Business Records to Chowbus, Inc .and Order",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Lc0J5ghA4gHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "STIPULATION REGARDING CHOWBUS DEPOSITION SUBPEONA"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Lc0J5ghA4gHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "STIPULATION REGARDING CHOWBUS DEPOSITION SUBPEONA"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "date_text": "4/3/2026",
+      "proceedings": "Memorandum: Points and Authorities",
+      "source_section": "event",
+      "source_row_id": "129956328",
+      "filed_by": "Carlos Chen, ",
+      "comment": "HRG : 11/19/26 1:30PM D22 - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WDGuSdwF8lDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Motion",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WDGuSdwF8lDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": "2026-04-03_motion_b3d8a9994f0d.pdf",
+      "raw": {
+        "eventId": "129956328",
+        "date": "4/3/2026",
+        "type": "Memorandum: Points and Authorities",
+        "filedBy": "Carlos Chen, ",
+        "comment": "HRG : 11/19/26 1:30PM D22 - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WDGuSdwF8lDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Motion"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WDGuSdwF8lDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Motion"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "date_text": "4/3/2026",
+      "proceedings": "Motion: Order",
+      "source_section": "event",
+      "source_row_id": "129956329",
+      "filed_by": "Carlos Chen, ",
+      "comment": "HRG : 11/19/26 1:30PM D22  - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "oAtjR6jSHPnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=oAtjR6jSHPnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": "2026-04-03_notice_72cf02bc894c.pdf",
+      "raw": {
+        "eventId": "129956329",
+        "date": "4/3/2026",
+        "type": "Motion: Order",
+        "filedBy": "Carlos Chen, ",
+        "comment": "HRG : 11/19/26 1:30PM D22  - MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "oAtjR6jSHPnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "oAtjR6jSHPnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Notice"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "date_text": "4/3/2026",
+      "proceedings": "Declaration: In Support",
+      "source_section": "event",
+      "source_row_id": "129956330",
+      "filed_by": "Carlos Chen, ",
+      "comment": "HRG : 11/19/26 1:30PM D22  - DECLARATION ISO MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129956330",
+        "date": "4/3/2026",
+        "type": "Declaration: In Support",
+        "filedBy": "Carlos Chen, ",
+        "comment": "HRG : 11/19/26 1:30PM D22  - DECLARATION ISO MOTION TO CORRECT MISSPELLING OF PLAINTIFFS NAME IN COMPLAINT",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "97ybrYBu2Gvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-11-25",
+      "date_text": "11/25/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "128446760",
+      "filed_by": "Oscar Cruz Gabriel, ",
+      "comment": "Joint Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128446760",
+        "date": "11/25/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, ",
+        "comment": "Joint Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zVaBVO2c29bl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-25",
+      "date_text": "9/25/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "127812999",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Joint Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127812999",
+        "date": "9/25/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Joint Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "565RVcmrSubl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-25",
+      "date_text": "9/25/2025",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "127830829",
+      "filed_by": "Jin Huang, ",
+      "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney for Jin yao Huang",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127830829",
+        "date": "9/25/2025",
+        "type": "Substitution: Attorney",
+        "filedBy": "Jin Huang, ",
+        "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney for Jin yao Huang"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vp%2BP1vG0gTLl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney for Jin yao Huang"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-25",
+      "date_text": "9/25/2025",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "127830831",
+      "filed_by": "YOSHI3 LLC, ",
+      "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney for Yoshi3 LLC",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127830831",
+        "date": "9/25/2025",
+        "type": "Substitution: Attorney",
+        "filedBy": "YOSHI3 LLC, ",
+        "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney for Yoshi3 LLC"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "V3StRGm4VB%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney for Yoshi3 LLC"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-25",
+      "date_text": "9/25/2025",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "127830833",
+      "filed_by": "Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney for Yoshi Sushi & Grill LLC",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127830833",
+        "date": "9/25/2025",
+        "type": "Substitution: Attorney",
+        "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney for Yoshi Sushi & Grill LLC"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Y9Ibjcmnbsnl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney for Yoshi Sushi & Grill LLC"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-25",
+      "date_text": "9/25/2025",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "127830836",
+      "filed_by": "Yoshi Japanese Cuisine Inc., ",
+      "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney for Yoshi Japanese Cuisine Inc.",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127830836",
+        "date": "9/25/2025",
+        "type": "Substitution: Attorney",
+        "filedBy": "Yoshi Japanese Cuisine Inc., ",
+        "comment": "old: Husch Blackwell LLP\nnew: Paetkau Law Group",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney for Yoshi Japanese Cuisine Inc."
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "l%2FCucFmVGGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney for Yoshi Japanese Cuisine Inc."
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-09-15",
+      "date_text": "9/15/2025",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "127798017",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "Substitution of Attorney - Each party is required to file a separate Substitution of Attorney.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127798017",
+        "date": "9/15/2025",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "Substitution of Attorney - Each party is required to file a separate Substitution of Attorney.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bp2iNkkpMGHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-05-22",
+      "date_text": "5/22/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "126462585",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Joint Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126462585",
+        "date": "5/22/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Joint Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zGLmTzCTT1Tl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-01-17",
+      "date_text": "1/17/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "124462847",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Joint Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124462847",
+        "date": "1/17/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Joint Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KGQrI63manzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-09",
+      "date_text": "10/9/2024",
+      "proceedings": "Stipulation and Order",
+      "source_section": "event",
+      "source_row_id": "123204759",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "Stipulated Protective Order - signed by Judge Adams (envelope #16894772)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Stipulated Protective Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123204759",
+        "date": "10/9/2024",
+        "type": "Stipulation and Order",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "Stipulated Protective Order - signed by Judge Adams (envelope #16894772)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Stipulated Protective Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "t6bLbs8lNkHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Stipulated Protective Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-03",
+      "date_text": "10/3/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123148522",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123148522",
+        "date": "10/3/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-20",
+      "date_text": "9/20/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "123003156",
+      "filed_by": "Oscar Cruz Gabriel, ",
+      "comment": "Joint Initial Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "HRG 9/26/24 Joint CMC Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123003156",
+        "date": "9/20/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, ",
+        "comment": "Joint Initial Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 9/26/24 Joint CMC Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "HRG 9/26/24 Joint CMC Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-05",
+      "date_text": "6/5/2024",
+      "proceedings": "Notice",
+      "source_section": "event",
+      "source_row_id": "121863387",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "4 DEFENDANTS' NOTICE OF POSTING COMPLEX FEES",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "DEFENDANTS' NOTICE OF POSTING COMPLEX FEES",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121863387",
+        "date": "6/5/2024",
+        "type": "Notice",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "4 DEFENDANTS' NOTICE OF POSTING COMPLEX FEES",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "DEFENDANTS' NOTICE OF POSTING COMPLEX FEES"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TH9%2FT89MnYPl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "DEFENDANTS' NOTICE OF POSTING COMPLEX FEES"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-30",
+      "date_text": "5/30/2024",
+      "proceedings": "Notice",
+      "source_section": "event",
+      "source_row_id": "121793982",
+      "filed_by": "",
+      "comment": "Further CMC set for 9/26/24 at 2:30pm in D7",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Notice Further CMC set for 9/26/24 at 2:30pm in D7",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121793982",
+        "date": "5/30/2024",
+        "type": "Notice",
+        "filedBy": "",
+        "comment": "Further CMC set for 9/26/24 at 2:30pm in D7",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice Further CMC set for 9/26/24 at 2:30pm in D7"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "U1Vi5ugPlZHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Notice Further CMC set for 9/26/24 at 2:30pm in D7"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-30",
+      "date_text": "5/30/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "121850422",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "NOTICE OF POSTING COMPLEX FEES - a complex fee for EACH defendant is required $1,000 x 4 = $4,000",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121850422",
+        "date": "5/30/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "NOTICE OF POSTING COMPLEX FEES - a complex fee for EACH defendant is required $1,000 x 4 = $4,000",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3SgQjP9tjsfl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-23",
+      "date_text": "5/23/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "121742186",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121742186",
+        "date": "5/23/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-20",
+      "date_text": "5/20/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "121685748",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Parties Initial Joint Case Managment Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "HRG 5/23/24 Joint CMC Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121685748",
+        "date": "5/20/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Parties Initial Joint Case Managment Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 5/23/24 Joint CMC Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "HRG 5/23/24 Joint CMC Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "121387215",
+      "filed_by": "Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "Old: Cai // New: Paetkau",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121387215",
+        "date": "4/17/2024",
+        "type": "Substitution: Attorney",
+        "filedBy": "Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "Old: Cai // New: Paetkau",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "L%2FHy5ukD9WTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "121387216",
+      "filed_by": "Yoshi Japanese Cuisine Inc., ",
+      "comment": "Old: Cai // New: Paetkau",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121387216",
+        "date": "4/17/2024",
+        "type": "Substitution: Attorney",
+        "filedBy": "Yoshi Japanese Cuisine Inc., ",
+        "comment": "Old: Cai // New: Paetkau",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "AmmX9dwn0Qbl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "121387217",
+      "filed_by": "Jin Huang, ",
+      "comment": "Old: Cai // New: Paetkau",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121387217",
+        "date": "4/17/2024",
+        "type": "Substitution: Attorney",
+        "filedBy": "Jin Huang, ",
+        "comment": "Old: Cai // New: Paetkau",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "B4jkaaF5tp%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-26",
+      "date_text": "2/26/2024",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "120673122",
+      "filed_by": "YOSHI3 LLC, ",
+      "comment": "Old Cai \nNew Paekau",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Substitution of Attorney-Civil (Without Court Order)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120673122",
+        "date": "2/26/2024",
+        "type": "Substitution: Attorney",
+        "filedBy": "YOSHI3 LLC, ",
+        "comment": "Old Cai \nNew Paekau",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Substitution of Attorney-Civil (Without Court Order)"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "HBOC7byYB2%2Fl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Substitution of Attorney-Civil (Without Court Order)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-21",
+      "date_text": "2/21/2024",
+      "proceedings": "Answer (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120673054",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "To Complaint Atty: Cai ",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "DOC754 (1).pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120673054",
+        "date": "2/21/2024",
+        "type": "Answer (Unlimited) (Fee Applies)",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "To Complaint Atty: Cai ",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "DOC754 (1).pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "XICmbZcQ%2BP3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "DOC754 (1).pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "120530481",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "ANSWER - EACH DEF REQUIERES A $435 FIRST FILLING FEE. 435 X 4",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120530481",
+        "date": "2/13/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "ANSWER - EACH DEF REQUIERES A $435 FIRST FILLING FEE. 435 X 4",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "m6v2hg81ivjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "120447400",
+      "filed_by": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+      "comment": "ANSWER - EACH DEF REQUIRES A $435 FIRST FILLING FEE",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120447400",
+        "date": "2/6/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Yoshi Japanese Cuisine Inc., Jin Huang, YOSHI3 LLC, Yoshi Sushi &amp; Grill LLC, ",
+        "comment": "ANSWER - EACH DEF REQUIRES A $435 FIRST FILLING FEE",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5viDLjdGMJDl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-19",
+      "date_text": "1/19/2024",
+      "proceedings": "Order: Deeming Case Complex",
+      "source_section": "event",
+      "source_row_id": "120102652",
+      "filed_by": "",
+      "comment": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline - signed/SRK.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120102652",
+        "date": "1/19/2024",
+        "type": "Order: Deeming Case Complex",
+        "filedBy": "",
+        "comment": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline - signed/SRK.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "rR6m1wPHSyXl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Order Deeming Case Complex and Staying Discovery and Responsive Pleading Deadline"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-03",
+      "date_text": "1/3/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "119818932",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119818932",
+        "date": "1/3/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-01-03",
+      "date_text": "1/3/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "119818963",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "PAGA Representative Action Complaint + Plaintiff's Complex Fee",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "PAGA Representative Action Complaint + Plaintiff's Complex Fee",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119818963",
+        "date": "1/3/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "PAGA Representative Action Complaint + Plaintiff's Complex Fee",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "PAGA Representative Action Complaint + Plaintiff's Complex Fee"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Mwl1h75%2FZfvl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "PAGA Representative Action Complaint + Plaintiff's Complex Fee"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-03",
+      "date_text": "1/3/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "119818965",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Civil Cover Sheet * Complex * PAGA",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Civil Cover Sheet * Complex * PAGA",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119818965",
+        "date": "1/3/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Civil Cover Sheet * Complex * PAGA",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Civil Cover Sheet * Complex * PAGA"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "52h6ea0dGHjl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Civil Cover Sheet * Complex * PAGA"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-03",
+      "date_text": "1/3/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "119818967",
+      "filed_by": "Oscar Cruz Gabriel, Carlos Chen, ",
+      "comment": "Summons",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Summons",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119818967",
+        "date": "1/3/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Oscar Cruz Gabriel, Carlos Chen, ",
+        "comment": "Summons",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Summons"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "XStow%2FxltGTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Summons"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-03",
+      "date_text": "1/3/2024",
+      "proceedings": "Civil Lawsuit Notice",
+      "source_section": "event",
+      "source_row_id": "119818968",
+      "filed_by": "",
+      "comment": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119818968",
+        "date": "1/3/2024",
+        "type": "Civil Lawsuit Notice",
+        "filedBy": "",
+        "comment": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "A3vJnF8VgDzl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Civil Lawsuit Notice 1st CMC 5/23/24 at 2:30pm in D7"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-23",
+      "date_text": "5/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16212195",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 7",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "HRG 5/23/24 Joint CMC Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16212195",
+        "calendar": "Department 7",
+        "type": "Conference: Case Management",
+        "date": "5/23/2024",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 5/23/24 Joint CMC Statement"
+          },
+          {
+            "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "HRG 5/23/24 Joint CMC Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-23",
+      "date_text": "5/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16212195",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 7",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16212195",
+        "calendar": "Department 7",
+        "type": "Conference: Case Management",
+        "date": "5/23/2024",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "ojrKCXyqv3zl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 5/23/24 Joint CMC Statement"
+          },
+          {
+            "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uk2G%2FUGiMHTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-26",
+      "date_text": "9/26/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16399951",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 7",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16399951",
+        "calendar": "Department 7",
+        "type": "Conference: Case Management",
+        "date": "9/26/2024",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 9/26/24 Joint CMC Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-26",
+      "date_text": "9/26/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16399951",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 7",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "HRG 9/26/24 Joint CMC Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16399951",
+        "calendar": "Department 7",
+        "type": "Conference: Case Management",
+        "date": "9/26/2024",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "5OMw1UyOHALl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "HRG 9/26/24 Joint CMC Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "x%2BU7o0yTNzTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "HRG 9/26/24 Joint CMC Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-09",
+      "date_text": "4/9/2026",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "17120466",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Notice of Reset Hearing",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17120466",
+        "calendar": "Department 22",
+        "type": "Conference: Further Case Management",
+        "date": "4/9/2026",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "file Notice of Reset Hearing #21801961"
+          },
+          {
+            "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Notice of Reset Hearing"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-09",
+      "date_text": "4/9/2026",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "17120466",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Notice of Reset Hearing",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17120466",
+        "calendar": "Department 22",
+        "type": "Conference: Further Case Management",
+        "date": "4/9/2026",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "file Notice of Reset Hearing #21801961"
+          },
+          {
+            "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Notice of Reset Hearing"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-09",
+      "date_text": "4/9/2026",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "17120466",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "file Notice of Reset Hearing #21801961",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17120466",
+        "calendar": "Department 22",
+        "type": "Conference: Further Case Management",
+        "date": "4/9/2026",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "file Notice of Reset Hearing #21801961"
+          },
+          {
+            "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "file Notice of Reset Hearing #21801961"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-09",
+      "date_text": "4/9/2026",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "17120466",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "2:30PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+      "doc_filename": "2026-04-20_minutes-non-criminal_f49ed0490663.pdf",
+      "raw": {
+        "hearingId": "17120466",
+        "calendar": "Department 22",
+        "type": "Conference: Further Case Management",
+        "date": "4/9/2026",
+        "time": "2:30PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "8PbXoQhYBFTl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "MGGVktEMn%2FHl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "c10YyPCCCX3l1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "file Notice of Reset Hearing #21801961"
+          },
+          {
+            "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "OLBXgI%2F1K9Pl1%2FJ55Zjuwx7Q2w29GqzkgOpI497Xhrs%3D",
+        "documentName": "Minutes Non-Criminal"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "date_text": "11/19/2026",
+      "proceedings": "Motion: Order",
+      "source_section": "hearing",
+      "source_row_id": "17276626",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "1:30PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17276626",
+        "calendar": "Department 22",
+        "type": "Motion: Order",
+        "date": "11/19/2026",
+        "time": "1:30PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "date_text": "12/10/2026",
+      "proceedings": "Reserved: Discovery",
+      "source_section": "hearing",
+      "source_row_id": "17288365",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 22",
+      "time": "1:30PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17288365",
+        "calendar": "Department 22",
+        "type": "Reserved: Discovery",
+        "date": "12/10/2026",
+        "time": "1:30PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

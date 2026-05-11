@@ -1,0 +1,1304 @@
+{
+  "metadata": {
+    "case_number": "24CV430454",
+    "case_id": "5315937",
+    "case_title": "Cavalry Spv I, LLC, As Assignee of Citibank N.a. vs Darrell Cruz",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNTkzNw%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15349646",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349646",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Darrell Cruz",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15349647",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349647",
+          "type": "Defendant",
+          "firstName": "Darrell",
+          "middleName": "",
+          "lastName": "Cruz",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Darrell Cruz",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Martin Ryan Weingarten",
+        "bar_number": "201906",
+        "represented_party_text": "Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Martin",
+          "middleName": "Ryan",
+          "lastName": "Weingarten",
+          "representing": " Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+          "barNumber": "201906",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Martin Ryan Weingarten",
+        "bar_number": "201906",
+        "party_name": "Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 20,
+    "n_hearings": 0,
+    "n_actions": 20,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5315937",
+        "nodeId": "11110",
+        "caseNumber": "24CV430454",
+        "caseStyle": "Cavalry Spv I, LLC, As Assignee of Citibank N.a. vs Darrell Cruz",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15349646",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349647",
+            "type": "Defendant",
+            "firstName": "Darrell",
+            "middleName": "",
+            "lastName": "Cruz",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Darrell Cruz",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Martin",
+            "middleName": "Ryan",
+            "lastName": "Weingarten",
+            "representing": " Cavalry Spv I, LLC, As Assignee of Citibank N.a.",
+            "barNumber": "201906",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "124394631",
+            "date": "1/13/2025",
+            "type": "Request: Dismissal",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Entire action of all parties and all causes of action",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "4780430 rfd_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122705617",
+            "date": "1/3/2025",
+            "type": "Judgment: Default",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+            "comment": "$7386.00 signed by Judge Manoukian",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Court Judgment"
+              }
+            ]
+          },
+          {
+            "eventId": "122705610",
+            "date": "8/26/2024",
+            "type": "Default Entered",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "122705611",
+            "date": "8/26/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "DOES 1-10",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Mandarich_4780430_does_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122705612",
+            "date": "8/26/2024",
+            "type": "Declaration:  CCP 1033",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration:  CCP 1033"
+              }
+            ]
+          },
+          {
+            "eventId": "122705613",
+            "date": "8/26/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Re: 1788",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "122705614",
+            "date": "8/26/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Re: Copies",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "122705616",
+            "date": "8/26/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Re: Fees",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "122705619",
+            "date": "8/26/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "of mailing",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Mandarich_4780430_dom_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122705620",
+            "date": "8/26/2024",
+            "type": "Declaration: Non-Service",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration: Non-Service"
+              }
+            ]
+          },
+          {
+            "eventId": "121346564",
+            "date": "4/17/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "POS_eABC_TN_0130127226_BatchEfileProofsOfServiceAndMailing_159879466.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121032452",
+            "date": "4/15/2024",
+            "type": "Order",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "**efs 4-15-24 jm**Order for posting",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Proposed Order"
+              }
+            ]
+          },
+          {
+            "eventId": "121032449",
+            "date": "3/21/2024",
+            "type": "Request: Order for Service by Posting/Publication",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Application to Post/Publish Summons and Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "121032455",
+            "date": "3/21/2024",
+            "type": "Memorandum: Points and Authorities",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Memorandum of Points & Authorities",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Memorandum of Points & Authorities"
+              }
+            ]
+          },
+          {
+            "eventId": "121032456",
+            "date": "3/21/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "RE: Efforts to Locate and Serve Defendant in support of Application for Order Permitting Service of Summons on Defendant by Publication",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "120397529",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120397611",
+            "date": "2/6/2024",
+            "type": "Complaint (Limited): Up to $10K",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "Complaint: Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "120397614",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "4780430 sum_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397616",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "4780430 ccs_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397618",
+            "date": "2/6/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+            "comment": "Re: Venue",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+                "documentName": "4780430 ven_eABC.pdf"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5315937",
+        "caseNumber": "24CV430454",
+        "style": "Cavalry Spv I, LLC, As Assignee of Citibank N.a. vs Darrell Cruz",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "typeId": "3.740-1A",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:54:53Z",
+      "sequence_in_day": 9,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 19
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "4780430 rfd_eABC.pdf",
+        "date": "2025-01-13",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Court Judgment",
+        "date": "2025-01-03",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-08-26",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Mandarich_4780430_does_eABC.pdf",
+        "date": "2024-08-26",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration:  CCP 1033",
+        "date": "2024-08-26",
+        "proceedings": "Declaration:  CCP 1033"
+      },
+      {
+        "doc_id": "qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration",
+        "date": "2024-08-26",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration",
+        "date": "2024-08-26",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration",
+        "date": "2024-08-26",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Mandarich_4780430_dom_eABC.pdf",
+        "date": "2024-08-26",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration: Non-Service",
+        "date": "2024-08-26",
+        "proceedings": "Declaration: Non-Service"
+      },
+      {
+        "doc_id": "EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "POS_eABC_TN_0130127226_BatchEfileProofsOfServiceAndMailing_159879466.pdf",
+        "date": "2024-04-17",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Proposed Order",
+        "date": "2024-04-15",
+        "proceedings": "Order"
+      },
+      {
+        "doc_id": "UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Application to Post/Publish Summons and Complaint",
+        "date": "2024-03-21",
+        "proceedings": "Request: Order for Service by Posting/Publication"
+      },
+      {
+        "doc_id": "gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Memorandum of Points & Authorities",
+        "date": "2024-03-21",
+        "proceedings": "Memorandum: Points and Authorities"
+      },
+      {
+        "doc_id": "WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Declaration",
+        "date": "2024-03-21",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "Complaint: Up to $10K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "4780430 sum_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "4780430 ccs_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "doc_name": "4780430 ven_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Declaration"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "date_text": "1/13/2025",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "124394631",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Entire action of all parties and all causes of action",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "4780430 rfd_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124394631",
+        "date": "1/13/2025",
+        "type": "Request: Dismissal",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Entire action of all parties and all causes of action",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "4780430 rfd_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "eK6AR%2B6bwIvEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "4780430 rfd_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-01-03",
+      "date_text": "1/3/2025",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "122705617",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+      "comment": "$7386.00 signed by Judge Manoukian",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Court Judgment",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705617",
+        "date": "1/3/2025",
+        "type": "Judgment: Default",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+        "comment": "$7386.00 signed by Judge Manoukian",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Court Judgment"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "99hRGfbliGPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Court Judgment"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "122705610",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705610",
+        "date": "8/26/2024",
+        "type": "Default Entered",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., Darrell Cruz, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "pb%2Fkv6CKrmbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "122705611",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "DOES 1-10",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Mandarich_4780430_does_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705611",
+        "date": "8/26/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "DOES 1-10",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Mandarich_4780430_does_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "739ua3VshT7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Mandarich_4780430_does_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration:  CCP 1033",
+      "source_section": "event",
+      "source_row_id": "122705612",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration:  CCP 1033",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705612",
+        "date": "8/26/2024",
+        "type": "Declaration:  CCP 1033",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration:  CCP 1033"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "RooW6EuWp7jEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration:  CCP 1033"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "122705613",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Re: 1788",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705613",
+        "date": "8/26/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Re: 1788",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qu%2BMueh%2FUY7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "122705614",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Re: Copies",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705614",
+        "date": "8/26/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Re: Copies",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "M8FPb%2BPvYWLEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "122705616",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Re: Fees",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705616",
+        "date": "8/26/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Re: Fees",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VaW6NfG0RKzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "122705619",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "of mailing",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Mandarich_4780430_dom_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705619",
+        "date": "8/26/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "of mailing",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Mandarich_4780430_dom_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "I%2BQ86G5qndPEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Mandarich_4780430_dom_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-26",
+      "date_text": "8/26/2024",
+      "proceedings": "Declaration: Non-Service",
+      "source_section": "event",
+      "source_row_id": "122705620",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration: Non-Service",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122705620",
+        "date": "8/26/2024",
+        "type": "Declaration: Non-Service",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration: Non-Service"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ohgAOMGKcOzEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration: Non-Service"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "121346564",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "POS_eABC_TN_0130127226_BatchEfileProofsOfServiceAndMailing_159879466.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121346564",
+        "date": "4/17/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "POS_eABC_TN_0130127226_BatchEfileProofsOfServiceAndMailing_159879466.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EUlFmDcIx47EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "POS_eABC_TN_0130127226_BatchEfileProofsOfServiceAndMailing_159879466.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-15",
+      "date_text": "4/15/2024",
+      "proceedings": "Order",
+      "source_section": "event",
+      "source_row_id": "121032452",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "**efs 4-15-24 jm**Order for posting",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Proposed Order",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121032452",
+        "date": "4/15/2024",
+        "type": "Order",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "**efs 4-15-24 jm**Order for posting",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Proposed Order"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "kFPnVCtQfUrEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Proposed Order"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-21",
+      "date_text": "3/21/2024",
+      "proceedings": "Request: Order for Service by Posting/Publication",
+      "source_section": "event",
+      "source_row_id": "121032449",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Application to Post/Publish Summons and Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121032449",
+        "date": "3/21/2024",
+        "type": "Request: Order for Service by Posting/Publication",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Application to Post/Publish Summons and Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UXpRBhQsCg7EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Application to Post/Publish Summons and Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-21",
+      "date_text": "3/21/2024",
+      "proceedings": "Memorandum: Points and Authorities",
+      "source_section": "event",
+      "source_row_id": "121032455",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Memorandum of Points & Authorities",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Memorandum of Points & Authorities",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121032455",
+        "date": "3/21/2024",
+        "type": "Memorandum: Points and Authorities",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Memorandum of Points & Authorities",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Memorandum of Points & Authorities"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "gej3WA6zXf%2FEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Memorandum of Points & Authorities"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-21",
+      "date_text": "3/21/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "121032456",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "RE: Efforts to Locate and Serve Defendant in support of Application for Order Permitting Service of Summons on Defendant by Publication",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121032456",
+        "date": "3/21/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "RE: Efforts to Locate and Serve Defendant in support of Application for Order Permitting Service of Summons on Defendant by Publication",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WexpnoyFNKnEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120397529",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397529",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "120397611",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "Complaint: Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397611",
+        "date": "2/6/2024",
+        "type": "Complaint (Limited): Up to $10K",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "Complaint: Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EXRnHNq0tvjEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "Complaint: Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120397614",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "4780430 sum_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397614",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "4780430 sum_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BKTMNRCg2NbEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "4780430 sum_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120397616",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "4780430 ccs_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397616",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "4780430 ccs_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IlXQ9tvF63fEEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "4780430 ccs_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "120397618",
+      "filed_by": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+      "comment": "Re: Venue",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_name": "4780430 ven_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397618",
+        "date": "2/6/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC, As Assignee of Citibank N.a., ",
+        "comment": "Re: Venue",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+            "documentName": "4780430 ven_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "86vmv2nDBq3EEzMy7tf9CLGTMIbhiPaRx64uBEgoUfo%3D",
+        "documentName": "4780430 ven_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

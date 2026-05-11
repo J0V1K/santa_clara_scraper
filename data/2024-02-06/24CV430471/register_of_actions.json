@@ -1,0 +1,1003 @@
+{
+  "metadata": {
+    "case_number": "24CV430471",
+    "case_id": "5316110",
+    "case_title": "Bank Of America N.a. vs Elizabeth Galvan",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNjExMA%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Bank Of America N.a.",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15350191",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15350191",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Bank Of America N.a.",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Bank Of America N.a.",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Elizabeth Galvan",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15350192",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15350192",
+          "type": "Defendant",
+          "firstName": "Elizabeth",
+          "middleName": "",
+          "lastName": "Galvan",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Elizabeth Galvan",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Flint Corey Zide",
+        "bar_number": "160369",
+        "represented_party_text": "Bank Of America N.a.",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Flint",
+          "middleName": "Corey",
+          "lastName": "Zide",
+          "representing": " Bank Of America N.a.",
+          "barNumber": "160369",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Flint Corey Zide",
+        "bar_number": "160369",
+        "party_name": "Bank Of America N.a.",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 15,
+    "n_hearings": 0,
+    "n_actions": 15,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5316110",
+        "nodeId": "11110",
+        "caseNumber": "24CV430471",
+        "caseStyle": "Bank Of America N.a. vs Elizabeth Galvan",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15350191",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Bank Of America N.a.",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Bank Of America N.a.",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15350192",
+            "type": "Defendant",
+            "firstName": "Elizabeth",
+            "middleName": "",
+            "lastName": "Galvan",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Elizabeth Galvan",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Flint",
+            "middleName": "Corey",
+            "lastName": "Zide",
+            "representing": " Bank Of America N.a.",
+            "barNumber": "160369",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "127446254",
+            "date": "8/19/2025",
+            "type": "Writ: Execution (Filed)",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": "Los Angeles, Issued 12/2/2024, Unsatisfied",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Writ: Execution (Filed)"
+              }
+            ]
+          },
+          {
+            "eventId": "123808301",
+            "date": "12/2/2024",
+            "type": "Writ: Execution (Issued)",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": "Los Angeles $10,986.24",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "123634010",
+            "date": "11/14/2024",
+            "type": "Memorandum of Costs",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Memorandum of Costs"
+              }
+            ]
+          },
+          {
+            "eventId": "121180731",
+            "date": "7/10/2024",
+            "type": "Judgment: Default",
+            "filedBy": "Bank Of America N.a., Elizabeth Galvan, ",
+            "comment": "$10,946.24, signed by Judge Rosen, mailed on 7/10/24",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Judgment pending"
+              }
+            ]
+          },
+          {
+            "eventId": "121180727",
+            "date": "4/4/2024",
+            "type": "LT Court Default Pending",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "121180728",
+            "date": "4/4/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": "DOES 1-5",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "ScottParnell_2507595_does_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121180729",
+            "date": "4/4/2024",
+            "type": "Declaration:  CCP 585",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Declaration:  CCP 585"
+              }
+            ]
+          },
+          {
+            "eventId": "121180730",
+            "date": "4/4/2024",
+            "type": "Affidavit",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": "Re: Fees",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "ScottParnell_2507595_fees_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121180732",
+            "date": "4/4/2024",
+            "type": "Affidavit",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "ScottParnell_2507595_mil_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121244877",
+            "date": "4/4/2024",
+            "type": "Default Entered",
+            "filedBy": "",
+            "comment": "DEFAULT ENTERED - ANNOTATED",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Annotated Default"
+              }
+            ]
+          },
+          {
+            "eventId": "120460960",
+            "date": "2/9/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "POS_eABC_TN_0124283604_Proof_152132411.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120401189",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120401215",
+            "date": "2/6/2024",
+            "type": "Complaint (Limited): Over $10K",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "Complaintbetween $10K and $25K"
+              }
+            ]
+          },
+          {
+            "eventId": "120401216",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "2507595 sum_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120401220",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Bank Of America N.a., ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+                "documentName": "2507595 ccs_eABC.pdf"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5316110",
+        "caseNumber": "24CV430471",
+        "style": "Bank Of America N.a. vs Elizabeth Galvan",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "typeId": "3.740-2A",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:55:41Z",
+      "sequence_in_day": 22,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 13
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Writ: Execution (Filed)",
+        "date": "2025-08-19",
+        "proceedings": "Writ: Execution (Filed)"
+      },
+      {
+        "doc_id": "Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Memorandum of Costs",
+        "date": "2024-11-14",
+        "proceedings": "Memorandum of Costs"
+      },
+      {
+        "doc_id": "vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Judgment pending",
+        "date": "2024-07-10",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-04-04",
+        "proceedings": "LT Court Default Pending"
+      },
+      {
+        "doc_id": "Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "ScottParnell_2507595_does_eABC.pdf",
+        "date": "2024-04-04",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Declaration:  CCP 585",
+        "date": "2024-04-04",
+        "proceedings": "Declaration:  CCP 585"
+      },
+      {
+        "doc_id": "D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "ScottParnell_2507595_fees_eABC.pdf",
+        "date": "2024-04-04",
+        "proceedings": "Affidavit"
+      },
+      {
+        "doc_id": "%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "ScottParnell_2507595_mil_eABC.pdf",
+        "date": "2024-04-04",
+        "proceedings": "Affidavit"
+      },
+      {
+        "doc_id": "ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Annotated Default",
+        "date": "2024-04-04",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "POS_eABC_TN_0124283604_Proof_152132411.pdf",
+        "date": "2024-02-09",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "Complaintbetween $10K and $25K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Limited): Over $10K"
+      },
+      {
+        "doc_id": "WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "2507595 sum_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "doc_name": "2507595 ccs_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2025-08-19",
+      "date_text": "8/19/2025",
+      "proceedings": "Writ: Execution (Filed)",
+      "source_section": "event",
+      "source_row_id": "127446254",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": "Los Angeles, Issued 12/2/2024, Unsatisfied",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Writ: Execution (Filed)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127446254",
+        "date": "8/19/2025",
+        "type": "Writ: Execution (Filed)",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": "Los Angeles, Issued 12/2/2024, Unsatisfied",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Writ: Execution (Filed)"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "0WMn%2BTbOD%2BfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Writ: Execution (Filed)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-12-02",
+      "date_text": "12/2/2024",
+      "proceedings": "Writ: Execution (Issued)",
+      "source_section": "event",
+      "source_row_id": "123808301",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": "Los Angeles $10,986.24",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123808301",
+        "date": "12/2/2024",
+        "type": "Writ: Execution (Issued)",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": "Los Angeles $10,986.24",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-11-14",
+      "date_text": "11/14/2024",
+      "proceedings": "Memorandum of Costs",
+      "source_section": "event",
+      "source_row_id": "123634010",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Memorandum of Costs",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123634010",
+        "date": "11/14/2024",
+        "type": "Memorandum of Costs",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Memorandum of Costs"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Rz%2BpJCjrIAbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Memorandum of Costs"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-10",
+      "date_text": "7/10/2024",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "121180731",
+      "filed_by": "Bank Of America N.a., Elizabeth Galvan, ",
+      "comment": "$10,946.24, signed by Judge Rosen, mailed on 7/10/24",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Judgment pending",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180731",
+        "date": "7/10/2024",
+        "type": "Judgment: Default",
+        "filedBy": "Bank Of America N.a., Elizabeth Galvan, ",
+        "comment": "$10,946.24, signed by Judge Rosen, mailed on 7/10/24",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Judgment pending"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vbOw4bzUqcfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Judgment pending"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "LT Court Default Pending",
+      "source_section": "event",
+      "source_row_id": "121180727",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180727",
+        "date": "4/4/2024",
+        "type": "LT Court Default Pending",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lTPA%2BHfUonPEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "121180728",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": "DOES 1-5",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "ScottParnell_2507595_does_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180728",
+        "date": "4/4/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": "DOES 1-5",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "ScottParnell_2507595_does_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Ox2SjxazaIbEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "ScottParnell_2507595_does_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "Declaration:  CCP 585",
+      "source_section": "event",
+      "source_row_id": "121180729",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Declaration:  CCP 585",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180729",
+        "date": "4/4/2024",
+        "type": "Declaration:  CCP 585",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Declaration:  CCP 585"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "kWKPHY6TdALEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Declaration:  CCP 585"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "Affidavit",
+      "source_section": "event",
+      "source_row_id": "121180730",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": "Re: Fees",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "ScottParnell_2507595_fees_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180730",
+        "date": "4/4/2024",
+        "type": "Affidavit",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": "Re: Fees",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "ScottParnell_2507595_fees_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "D9VWPTr%2BNpvEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "ScottParnell_2507595_fees_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "Affidavit",
+      "source_section": "event",
+      "source_row_id": "121180732",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "ScottParnell_2507595_mil_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121180732",
+        "date": "4/4/2024",
+        "type": "Affidavit",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "ScottParnell_2507595_mil_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BX%2BoBuHgPxDEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "ScottParnell_2507595_mil_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-04",
+      "date_text": "4/4/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "121244877",
+      "filed_by": "",
+      "comment": "DEFAULT ENTERED - ANNOTATED",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Annotated Default",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121244877",
+        "date": "4/4/2024",
+        "type": "Default Entered",
+        "filedBy": "",
+        "comment": "DEFAULT ENTERED - ANNOTATED",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Annotated Default"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ovFWW92g7HfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Annotated Default"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-09",
+      "date_text": "2/9/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120460960",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "POS_eABC_TN_0124283604_Proof_152132411.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120460960",
+        "date": "2/9/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "POS_eABC_TN_0124283604_Proof_152132411.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "cKXwCRcU7LjEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "POS_eABC_TN_0124283604_Proof_152132411.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120401189",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401189",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Limited): Over $10K",
+      "source_section": "event",
+      "source_row_id": "120401215",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "Complaintbetween $10K and $25K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401215",
+        "date": "2/6/2024",
+        "type": "Complaint (Limited): Over $10K",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "Complaintbetween $10K and $25K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yuvslScx5gXEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "Complaintbetween $10K and $25K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120401216",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "2507595 sum_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401216",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "2507595 sum_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WLMTzY3uEFfEEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "2507595 sum_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120401220",
+      "filed_by": "Bank Of America N.a., ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_name": "2507595 ccs_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401220",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Bank Of America N.a., ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+            "documentName": "2507595 ccs_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dT8difd1Ec3EEzMy7tf9CIZjBTHlAp3clGtihUHV9Rw%3D",
+        "documentName": "2507595 ccs_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

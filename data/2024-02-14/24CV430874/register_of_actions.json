@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "case_number": "24CV430874",
+    "case_id": "5331078",
+    "case_title": "In the Matter of Stephanie Chiao et al",
+    "filing_date": "2024-02-14",
+    "filing_date_text": "2/14/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMzMTA3OA%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Stephanie Kay Chiao",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15382782",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15382782",
+          "type": "Petitioner",
+          "firstName": "Stephanie",
+          "middleName": "Kay",
+          "lastName": "Chiao",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Stephanie Kay Chiao",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "Joseph I-Tsun Wang",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15382783",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15382783",
+          "type": "Petitioner",
+          "firstName": "Joseph",
+          "middleName": "I-Tsun",
+          "lastName": "Wang",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Joseph I-Tsun Wang",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "Jacob Lucas Wang",
+        "type": "Minor",
+        "is_defendant": false,
+        "case_party_id": "15382784",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15382784",
+          "type": "Minor",
+          "firstName": "Jacob",
+          "middleName": "Lucas",
+          "lastName": "Wang",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Jacob Lucas Wang",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 3,
+    "n_attorneys": 0,
+    "n_events": 6,
+    "n_hearings": 1,
+    "n_actions": 7,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5331078",
+        "nodeId": "11110",
+        "caseNumber": "24CV430874",
+        "caseStyle": "In the Matter of Stephanie Chiao et al",
+        "filingDate": "2/14/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15382782",
+            "type": "Petitioner",
+            "firstName": "Stephanie",
+            "middleName": "Kay",
+            "lastName": "Chiao",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Stephanie Kay Chiao",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15382783",
+            "type": "Petitioner",
+            "firstName": "Joseph",
+            "middleName": "I-Tsun",
+            "lastName": "Wang",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Joseph I-Tsun Wang",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15382784",
+            "type": "Minor",
+            "firstName": "Jacob",
+            "middleName": "Lucas",
+            "lastName": "Wang",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Jacob Lucas Wang",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120504960",
+            "date": "5/7/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bCNl7ysJExqr0bTrg7GvnHUyC31fwncCVFvgJmYpIrk%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "121083708",
+            "date": "3/25/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "z799Q8CN83ar0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120504842",
+            "date": "2/14/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120504964",
+            "date": "2/14/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120504966",
+            "date": "2/14/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120504970",
+            "date": "2/14/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16259292",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/30/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5331078",
+        "caseNumber": "24CV430874",
+        "style": "In the Matter of Stephanie Chiao et al",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/14/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:43:06Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 2,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 3
+    },
+    "downloaded_documents": [
+      "2024-05-07_order-proposed_1c9268f8d744.pdf",
+      "2024-03-25_affidavit-proof-of-publication_0350f9723066.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-14",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-14",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-14",
+        "proceedings": "Order to Show Cause: Name Change"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-05-07",
+      "date_text": "5/7/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120504960",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bCNl7ysJExqr0bTrg7GvnHUyC31fwncCVFvgJmYpIrk%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bCNl7ysJExqr0bTrg7GvnHUyC31fwncCVFvgJmYpIrk%3D",
+      "doc_filename": "2024-05-07_order-proposed_1c9268f8d744.pdf",
+      "raw": {
+        "eventId": "120504960",
+        "date": "5/7/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bCNl7ysJExqr0bTrg7GvnHUyC31fwncCVFvgJmYpIrk%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bCNl7ysJExqr0bTrg7GvnHUyC31fwncCVFvgJmYpIrk%3D",
+        "documentName": "Order: Proposed"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-03-25",
+      "date_text": "3/25/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "121083708",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "z799Q8CN83ar0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=z799Q8CN83ar0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_filename": "2024-03-25_affidavit-proof-of-publication_0350f9723066.pdf",
+      "raw": {
+        "eventId": "121083708",
+        "date": "3/25/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "z799Q8CN83ar0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "z799Q8CN83ar0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-02-14",
+      "date_text": "2/14/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120504842",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120504842",
+        "date": "2/14/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-14",
+      "date_text": "2/14/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120504964",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120504964",
+        "date": "2/14/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "396DIAO2Z8Kr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-14",
+      "date_text": "2/14/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120504966",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120504966",
+        "date": "2/14/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yW4SI40BQyyr0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-14",
+      "date_text": "2/14/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120504970",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120504970",
+        "date": "2/14/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "RUypiHRRzQ2r0bTrg7GvnHUyC31fwncCcCFqWQ%2F%2BfAc%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-30",
+      "date_text": "4/30/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16259292",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16259292",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/30/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

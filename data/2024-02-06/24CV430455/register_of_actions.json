@@ -1,0 +1,1115 @@
+{
+  "metadata": {
+    "case_number": "24CV430455",
+    "case_id": "5315943",
+    "case_title": "Cavalry Spv I, LLC  vs Gurpreet Singh",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNTk0Mw%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Cavalry Spv I, LLC",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15349665",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349665",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Cavalry Spv I, LLC ",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Cavalry Spv I, LLC ",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Gurpreet Singh",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15349666",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349666",
+          "type": "Defendant",
+          "firstName": "Gurpreet",
+          "middleName": "",
+          "lastName": "Singh",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Gurpreet Singh",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Teona Pipia",
+        "bar_number": "343337",
+        "represented_party_text": "Cavalry Spv I, LLC",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Teona",
+          "middleName": "",
+          "lastName": "Pipia",
+          "representing": " Cavalry Spv I, LLC ",
+          "barNumber": "343337",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Teona Pipia",
+        "bar_number": "343337",
+        "party_name": "Cavalry Spv I, LLC",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 17,
+    "n_hearings": 0,
+    "n_actions": 17,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5315943",
+        "nodeId": "11110",
+        "caseNumber": "24CV430455",
+        "caseStyle": "Cavalry Spv I, LLC  vs Gurpreet Singh",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15349665",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Cavalry Spv I, LLC ",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Cavalry Spv I, LLC ",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349666",
+            "type": "Defendant",
+            "firstName": "Gurpreet",
+            "middleName": "",
+            "lastName": "Singh",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Gurpreet Singh",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Teona",
+            "middleName": "",
+            "lastName": "Pipia",
+            "representing": " Cavalry Spv I, LLC ",
+            "barNumber": "343337",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "129928177",
+            "date": "4/3/2026",
+            "type": "Declaration: Address Verification",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Declaration of Address Verification",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Declaration: Address Verification"
+              }
+            ]
+          },
+          {
+            "eventId": "129066191",
+            "date": "1/29/2026",
+            "type": "Writ: Execution (Issued)",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Santa Clara, $7,351.95",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "128814178",
+            "date": "12/26/2025",
+            "type": "Memorandum of Costs",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Mandarich_4780717_198873362_memo_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125326223",
+            "date": "7/18/2025",
+            "type": "Judgment: Default",
+            "filedBy": "Cavalry Spv I, LLC , Gurpreet Singh, ",
+            "comment": "$7,213.39 - Signed ny Hon. Socrates P. Manoukian\n - Mailed 07/18/2025",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Judgment pending"
+              }
+            ]
+          },
+          {
+            "eventId": "125326212",
+            "date": "3/5/2025",
+            "type": "LT Court Default Pending",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "125326213",
+            "date": "3/5/2025",
+            "type": "Request: Dismissal",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "DOES 1-10",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Mandarich_4780717_159514276_does_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "125326216",
+            "date": "3/5/2025",
+            "type": "Declaration:  CCP 1033",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Declaration:  CCP 1033"
+              }
+            ]
+          },
+          {
+            "eventId": "125326218",
+            "date": "3/5/2025",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Re: 1788",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "125326219",
+            "date": "3/5/2025",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Re: Copies",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "125326221",
+            "date": "3/5/2025",
+            "type": "Declaration: Interest",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Re: Fees",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Declaration: Interest"
+              }
+            ]
+          },
+          {
+            "eventId": "125438322",
+            "date": "3/5/2025",
+            "type": "Default Entered",
+            "filedBy": "",
+            "comment": "DEFAULT ENTERED - ANNOTATED",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Annotated Default"
+              }
+            ]
+          },
+          {
+            "eventId": "120566056",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "POS_eABC_TN_0125062907_BatchEfileProofsOfServiceAndMailing_153140575.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397683",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120397824",
+            "date": "2/6/2024",
+            "type": "Complaint (Limited): Up to $10K",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "Complaint: Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "120397830",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "4780717 sum_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397835",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "4780717 ccs_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397839",
+            "date": "2/6/2024",
+            "type": "Declaration",
+            "filedBy": "Cavalry Spv I, LLC , ",
+            "comment": "Re: Venue",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+                "documentName": "4780717 ven_eABC.pdf"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5315943",
+        "caseNumber": "24CV430455",
+        "style": "Cavalry Spv I, LLC  vs Gurpreet Singh",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "typeId": "3.740-1A",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:54:55Z",
+      "sequence_in_day": 10,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 15
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Declaration: Address Verification",
+        "date": "2026-04-03",
+        "proceedings": "Declaration: Address Verification"
+      },
+      {
+        "doc_id": "1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Mandarich_4780717_198873362_memo_eABC.pdf",
+        "date": "2025-12-26",
+        "proceedings": "Memorandum of Costs"
+      },
+      {
+        "doc_id": "rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Judgment pending",
+        "date": "2025-07-18",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2025-03-05",
+        "proceedings": "LT Court Default Pending"
+      },
+      {
+        "doc_id": "YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Mandarich_4780717_159514276_does_eABC.pdf",
+        "date": "2025-03-05",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Declaration:  CCP 1033",
+        "date": "2025-03-05",
+        "proceedings": "Declaration:  CCP 1033"
+      },
+      {
+        "doc_id": "uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Declaration",
+        "date": "2025-03-05",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Declaration",
+        "date": "2025-03-05",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Declaration: Interest",
+        "date": "2025-03-05",
+        "proceedings": "Declaration: Interest"
+      },
+      {
+        "doc_id": "XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Annotated Default",
+        "date": "2025-03-05",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "POS_eABC_TN_0125062907_BatchEfileProofsOfServiceAndMailing_153140575.pdf",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "Complaint: Up to $10K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "4780717 sum_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "4780717 ccs_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "doc_name": "4780717 ven_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Declaration"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-04-03",
+      "date_text": "4/3/2026",
+      "proceedings": "Declaration: Address Verification",
+      "source_section": "event",
+      "source_row_id": "129928177",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Declaration of Address Verification",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Declaration: Address Verification",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129928177",
+        "date": "4/3/2026",
+        "type": "Declaration: Address Verification",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Declaration of Address Verification",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Declaration: Address Verification"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "j4z6GUARCdnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Declaration: Address Verification"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-01-29",
+      "date_text": "1/29/2026",
+      "proceedings": "Writ: Execution (Issued)",
+      "source_section": "event",
+      "source_row_id": "129066191",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Santa Clara, $7,351.95",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129066191",
+        "date": "1/29/2026",
+        "type": "Writ: Execution (Issued)",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Santa Clara, $7,351.95",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "date_text": "12/26/2025",
+      "proceedings": "Memorandum of Costs",
+      "source_section": "event",
+      "source_row_id": "128814178",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Mandarich_4780717_198873362_memo_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "128814178",
+        "date": "12/26/2025",
+        "type": "Memorandum of Costs",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Mandarich_4780717_198873362_memo_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "1A%2FLBTLQ3zbEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Mandarich_4780717_198873362_memo_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-07-18",
+      "date_text": "7/18/2025",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "125326223",
+      "filed_by": "Cavalry Spv I, LLC , Gurpreet Singh, ",
+      "comment": "$7,213.39 - Signed ny Hon. Socrates P. Manoukian\n - Mailed 07/18/2025",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Judgment pending",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326223",
+        "date": "7/18/2025",
+        "type": "Judgment: Default",
+        "filedBy": "Cavalry Spv I, LLC , Gurpreet Singh, ",
+        "comment": "$7,213.39 - Signed ny Hon. Socrates P. Manoukian\n - Mailed 07/18/2025",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Judgment pending"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "rNXXEXEw3VfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Judgment pending"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "LT Court Default Pending",
+      "source_section": "event",
+      "source_row_id": "125326212",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326212",
+        "date": "3/5/2025",
+        "type": "LT Court Default Pending",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "T6DVUjfi4pPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "125326213",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "DOES 1-10",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Mandarich_4780717_159514276_does_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326213",
+        "date": "3/5/2025",
+        "type": "Request: Dismissal",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "DOES 1-10",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Mandarich_4780717_159514276_does_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "YjSjt%2BSAN7jEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Mandarich_4780717_159514276_does_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Declaration:  CCP 1033",
+      "source_section": "event",
+      "source_row_id": "125326216",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Declaration:  CCP 1033",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326216",
+        "date": "3/5/2025",
+        "type": "Declaration:  CCP 1033",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Declaration:  CCP 1033"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "eBrLxumodiPEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Declaration:  CCP 1033"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "125326218",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Re: 1788",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326218",
+        "date": "3/5/2025",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Re: 1788",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uCB1w2Aozj%2FEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "125326219",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Re: Copies",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326219",
+        "date": "3/5/2025",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Re: Copies",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "YUHTw918UmfEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Declaration: Interest",
+      "source_section": "event",
+      "source_row_id": "125326221",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Re: Fees",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Declaration: Interest",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125326221",
+        "date": "3/5/2025",
+        "type": "Declaration: Interest",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Re: Fees",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Declaration: Interest"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "cTIXkrwNTa7EEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Declaration: Interest"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-03-05",
+      "date_text": "3/5/2025",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "125438322",
+      "filed_by": "",
+      "comment": "DEFAULT ENTERED - ANNOTATED",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Annotated Default",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125438322",
+        "date": "3/5/2025",
+        "type": "Default Entered",
+        "filedBy": "",
+        "comment": "DEFAULT ENTERED - ANNOTATED",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Annotated Default"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "XQF7ROG8GBLEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Annotated Default"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120566056",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "POS_eABC_TN_0125062907_BatchEfileProofsOfServiceAndMailing_153140575.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120566056",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "POS_eABC_TN_0125062907_BatchEfileProofsOfServiceAndMailing_153140575.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "QSe2BQQVRfzEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "POS_eABC_TN_0125062907_BatchEfileProofsOfServiceAndMailing_153140575.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120397683",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397683",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "120397824",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "Complaint: Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397824",
+        "date": "2/6/2024",
+        "type": "Complaint (Limited): Up to $10K",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "Complaint: Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "L%2BIwWP8GxUnEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "Complaint: Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120397830",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "4780717 sum_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397830",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "4780717 sum_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5xnxhUZ%2BvifEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "4780717 sum_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120397835",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "4780717 ccs_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397835",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "4780717 ccs_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "eBEeQyzBrzrEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "4780717 ccs_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "120397839",
+      "filed_by": "Cavalry Spv I, LLC , ",
+      "comment": "Re: Venue",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_name": "4780717 ven_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397839",
+        "date": "2/6/2024",
+        "type": "Declaration",
+        "filedBy": "Cavalry Spv I, LLC , ",
+        "comment": "Re: Venue",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+            "documentName": "4780717 ven_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Sg0ocyWKG8HEEzMy7tf9CLGTMIbhiPaR9OTgk40by%2F8%3D",
+        "documentName": "4780717 ven_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "attorneys": [],
+    "casePartyId": "15090859",
+    "type": "Plaintiff",
+    "firstName": "",
+    "middleName": "",
+    "lastName": "Wells Fargo Bank, N.A.",
+    "nickName": null,
+    "businessName": null,
+    "fullName": " Wells Fargo Bank, N.A.",
+    "isDefendant": false
+  },
+  {
+    "attorneys": [],
+    "casePartyId": "15090860",
+    "type": "Defendant",
+    "firstName": "Virgen",
+    "middleName": "A",
+    "lastName": "Castellanos",
+    "nickName": null,
+    "businessName": null,
+    "fullName": "Virgen A Castellanos",
+    "isDefendant": true
+  }
+]

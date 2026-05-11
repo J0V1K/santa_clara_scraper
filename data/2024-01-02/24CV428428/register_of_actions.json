@@ -1,0 +1,2649 @@
+{
+  "metadata": {
+    "case_number": "24CV428428",
+    "case_id": "5192500",
+    "case_title": "Christian Ortega vs Wanda Serrano",
+    "filing_date": "2024-01-02",
+    "filing_date_text": "1/2/2024",
+    "case_type": "Auto Unlimited (22)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Active",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [
+      "Department 3",
+      "Department 20",
+      "Department 12"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTE5MjUwMA%3D%3D",
+    "portal_search_case_type": "Auto Unlimited (22)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Christian Ortega",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15090849",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15090849",
+          "type": "Plaintiff",
+          "firstName": "Christian",
+          "middleName": "",
+          "lastName": "Ortega",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Christian Ortega",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Wanda Serrano",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15090850",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15090850",
+          "type": "Defendant",
+          "firstName": "Wanda",
+          "middleName": "",
+          "lastName": "Serrano",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Wanda Serrano",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michel R Huff",
+        "bar_number": "269472",
+        "represented_party_text": "Christian Ortega",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Michel",
+          "middleName": "R",
+          "lastName": "Huff",
+          "representing": "Christian Ortega",
+          "barNumber": "269472",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Michel R Huff",
+        "bar_number": "269472",
+        "party_name": "Christian Ortega",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 18,
+    "n_hearings": 7,
+    "n_actions": 41,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5192500",
+        "nodeId": "11110",
+        "caseNumber": "24CV428428",
+        "caseStyle": "Christian Ortega vs Wanda Serrano",
+        "filingDate": "1/2/2024",
+        "caseStatus": "Active",
+        "caseType": "Auto Unlimited (22)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15090849",
+            "type": "Plaintiff",
+            "firstName": "Christian",
+            "middleName": "",
+            "lastName": "Ortega",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Christian Ortega",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15090850",
+            "type": "Defendant",
+            "firstName": "Wanda",
+            "middleName": "",
+            "lastName": "Serrano",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Wanda Serrano",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Michel",
+            "middleName": "R",
+            "lastName": "Huff",
+            "representing": "Christian Ortega",
+            "barNumber": "269472",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "129594846",
+            "date": "3/6/2026",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "128508489",
+            "date": "12/3/2025",
+            "type": "Proof of Service: Electronic",
+            "filedBy": "Christian Ortega, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "x3o05dQTBk7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Proof of Service"
+              }
+            ]
+          },
+          {
+            "eventId": "127981423",
+            "date": "10/10/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "127675857",
+            "date": "10/9/2025",
+            "type": "Order: Motion to be relieved as counsel",
+            "filedBy": "Christian Ortega, ",
+            "comment": "GRANTED -- Effective upon filing of the POS",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "SX3Z2gEcN%2FDl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "MTW"
+              }
+            ]
+          },
+          {
+            "eventId": "127628874",
+            "date": "9/8/2025",
+            "type": "Fee Waiver Application",
+            "filedBy": "Christian Ortega, ",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "127628880",
+            "date": "9/8/2025",
+            "type": "Fee Waiver Order-Grant",
+            "filedBy": "Christian Ortega, ",
+            "comment": "by coutr specialist",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Fee Waiver Order-Grant"
+              }
+            ]
+          },
+          {
+            "eventId": "125977505",
+            "date": "4/18/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "123578590",
+            "date": "11/7/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "123149993",
+            "date": "10/3/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "122718066",
+            "date": "8/27/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Christian Ortega, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "122720513",
+            "date": "8/27/2024",
+            "type": "Motion: Other",
+            "filedBy": "Christian Ortega, ",
+            "comment": "to be relieved as counsel",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Motion"
+              }
+            ]
+          },
+          {
+            "eventId": "122720595",
+            "date": "8/27/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "Christian Ortega, ",
+            "comment": "Your document has been filed, however it appears you have submitted an additional document as a subsequent page to the initial document.  If you would like your additional document to receive a \"FILED\" stamp please resubmit.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "122002023",
+            "date": "6/20/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "121748887",
+            "date": "5/24/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Christian Ortega, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "119788316",
+            "date": "1/2/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "119788342",
+            "date": "1/2/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Christian Ortega, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "119788343",
+            "date": "1/2/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Christian Ortega, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "119788344",
+            "date": "1/2/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Christian Ortega, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Summons"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16204690",
+            "calendar": "Department 3",
+            "type": "Conference: Case Management",
+            "date": "6/18/2024",
+            "time": "4:10PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16435850",
+            "calendar": "Department 3",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "9/19/2024",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16528774",
+            "calendar": "Department 3",
+            "type": "Motion: Withdraw as attorney",
+            "date": "11/7/2024",
+            "time": "9:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              }
+            ]
+          },
+          {
+            "hearingId": "16605716",
+            "calendar": "Department 20",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "4/18/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Notice of Reset Hearing"
+              },
+              {
+                "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              }
+            ]
+          },
+          {
+            "hearingId": "16811825",
+            "calendar": "Department 20",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "10/10/2025",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              }
+            ]
+          },
+          {
+            "hearingId": "17056357",
+            "calendar": "Department 12",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "3/6/2026",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              }
+            ]
+          },
+          {
+            "hearingId": "17253668",
+            "calendar": "Department 12",
+            "type": "OSC: Dismissal Failure to Serve",
+            "date": "7/31/2026",
+            "time": "10:00AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              }
+            ]
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5192500",
+        "caseNumber": "24CV428428",
+        "style": "Christian Ortega vs Wanda Serrano",
+        "caseCategory": 1,
+        "type": "Auto Unlimited (22)",
+        "typeId": "22-1B",
+        "fileDate": "1/2/2024",
+        "securityGroup": null,
+        "status": "Active",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T06:27:10Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 4,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 33
+    },
+    "downloaded_documents": [
+      "2026-03-06_minutes-non-criminal_bc8ddd076bcd.pdf",
+      "2025-12-03_proof-of-service_6d53d0b8cfec.pdf",
+      "2025-10-10_minutes-non-criminal_7bbc4b7f775c.pdf",
+      "2025-10-09_mtw_c4c7a8a38dd8.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Fee Waiver Order-Grant",
+        "date": "2025-09-08",
+        "proceedings": "Fee Waiver Order-Grant"
+      },
+      {
+        "doc_id": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-04-18",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-07",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-10-03",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2024-08-27",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Motion",
+        "date": "2024-08-27",
+        "proceedings": "Motion: Other"
+      },
+      {
+        "doc_id": "GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-08-27",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-06-20",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2024-05-24",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-01-02",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Complaint",
+        "date": "2024-01-02",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Summons",
+        "date": "2024-01-02",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-06-18",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2024-09-19",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2024-09-19",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-09-19",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-07",
+        "proceedings": "Motion: Withdraw as attorney"
+      },
+      {
+        "doc_id": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2024-11-07",
+        "proceedings": "Motion: Withdraw as attorney"
+      },
+      {
+        "doc_id": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2024-11-07",
+        "proceedings": "Motion: Withdraw as attorney"
+      },
+      {
+        "doc_id": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "Notice of Reset Hearing",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-04-18",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-10-10",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-10-10",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-03-06",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-03-06",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-03-06",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-07-31",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-07-31",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      },
+      {
+        "doc_id": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2026-07-31",
+        "proceedings": "OSC: Dismissal Failure to Serve"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-03-06",
+      "date_text": "3/6/2026",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "129594846",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2026-03-06_minutes-non-criminal_bc8ddd076bcd.pdf",
+      "raw": {
+        "eventId": "129594846",
+        "date": "3/6/2026",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "date_text": "12/3/2025",
+      "proceedings": "Proof of Service: Electronic",
+      "source_section": "event",
+      "source_row_id": "128508489",
+      "filed_by": "Christian Ortega, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "x3o05dQTBk7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Proof of Service",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=x3o05dQTBk7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2025-12-03_proof-of-service_6d53d0b8cfec.pdf",
+      "raw": {
+        "eventId": "128508489",
+        "date": "12/3/2025",
+        "type": "Proof of Service: Electronic",
+        "filedBy": "Christian Ortega, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "x3o05dQTBk7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Proof of Service"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "x3o05dQTBk7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Proof of Service"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "date_text": "10/10/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "127981423",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2025-10-10_minutes-non-criminal_7bbc4b7f775c.pdf",
+      "raw": {
+        "eventId": "127981423",
+        "date": "10/10/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2025-10-09",
+      "date_text": "10/9/2025",
+      "proceedings": "Order: Motion to be relieved as counsel",
+      "source_section": "event",
+      "source_row_id": "127675857",
+      "filed_by": "Christian Ortega, ",
+      "comment": "GRANTED -- Effective upon filing of the POS",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "SX3Z2gEcN%2FDl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "MTW",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=SX3Z2gEcN%2FDl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2025-10-09_mtw_c4c7a8a38dd8.pdf",
+      "raw": {
+        "eventId": "127675857",
+        "date": "10/9/2025",
+        "type": "Order: Motion to be relieved as counsel",
+        "filedBy": "Christian Ortega, ",
+        "comment": "GRANTED -- Effective upon filing of the POS",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "SX3Z2gEcN%2FDl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "MTW"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "SX3Z2gEcN%2FDl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "MTW"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      }
+    },
+    {
+      "date": "2025-09-08",
+      "date_text": "9/8/2025",
+      "proceedings": "Fee Waiver Application",
+      "source_section": "event",
+      "source_row_id": "127628874",
+      "filed_by": "Christian Ortega, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127628874",
+        "date": "9/8/2025",
+        "type": "Fee Waiver Application",
+        "filedBy": "Christian Ortega, ",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2025-09-08",
+      "date_text": "9/8/2025",
+      "proceedings": "Fee Waiver Order-Grant",
+      "source_section": "event",
+      "source_row_id": "127628880",
+      "filed_by": "Christian Ortega, ",
+      "comment": "by coutr specialist",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Fee Waiver Order-Grant",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127628880",
+        "date": "9/8/2025",
+        "type": "Fee Waiver Order-Grant",
+        "filedBy": "Christian Ortega, ",
+        "comment": "by coutr specialist",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Fee Waiver Order-Grant"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vyeoSi7InITl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Fee Waiver Order-Grant"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "125977505",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125977505",
+        "date": "4/18/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-07",
+      "date_text": "11/7/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123578590",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123578590",
+        "date": "11/7/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-03",
+      "date_text": "10/3/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123149993",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123149993",
+        "date": "10/3/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122718066",
+      "filed_by": "Christian Ortega, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122718066",
+        "date": "8/27/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Christian Ortega, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KcoO%2F9dKRmXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Motion: Other",
+      "source_section": "event",
+      "source_row_id": "122720513",
+      "filed_by": "Christian Ortega, ",
+      "comment": "to be relieved as counsel",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Motion",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122720513",
+        "date": "8/27/2024",
+        "type": "Motion: Other",
+        "filedBy": "Christian Ortega, ",
+        "comment": "to be relieved as counsel",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Motion"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "F1d4LD0BXVPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Motion"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "122720595",
+      "filed_by": "Christian Ortega, ",
+      "comment": "Your document has been filed, however it appears you have submitted an additional document as a subsequent page to the initial document.  If you would like your additional document to receive a \"FILED\" stamp please resubmit.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122720595",
+        "date": "8/27/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "Christian Ortega, ",
+        "comment": "Your document has been filed, however it appears you have submitted an additional document as a subsequent page to the initial document.  If you would like your additional document to receive a \"FILED\" stamp please resubmit.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "GzX2czE4tu7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-20",
+      "date_text": "6/20/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122002023",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122002023",
+        "date": "6/20/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-24",
+      "date_text": "5/24/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "121748887",
+      "filed_by": "Christian Ortega, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121748887",
+        "date": "5/24/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Christian Ortega, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "nIopLMAC75vl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-02",
+      "date_text": "1/2/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "119788316",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119788316",
+        "date": "1/2/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-01-02",
+      "date_text": "1/2/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "119788342",
+      "filed_by": "Christian Ortega, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119788342",
+        "date": "1/2/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Christian Ortega, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ExgBhN8xuMrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-02",
+      "date_text": "1/2/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "119788343",
+      "filed_by": "Christian Ortega, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119788343",
+        "date": "1/2/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Christian Ortega, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "v8Z5DIO16Mrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-01-02",
+      "date_text": "1/2/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "119788344",
+      "filed_by": "Christian Ortega, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Summons",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "119788344",
+        "date": "1/2/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Christian Ortega, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Summons"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yq90Q0ObP%2Fvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Summons"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-18",
+      "date_text": "6/18/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16204690",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "4:10PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16204690",
+        "calendar": "Department 3",
+        "type": "Conference: Case Management",
+        "date": "6/18/2024",
+        "time": "4:10PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "9peIAlpslQfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-19",
+      "date_text": "9/19/2024",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16435850",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16435850",
+        "calendar": "Department 3",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "9/19/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-19",
+      "date_text": "9/19/2024",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16435850",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16435850",
+        "calendar": "Department 3",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "9/19/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-09-19",
+      "date_text": "9/19/2024",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16435850",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16435850",
+        "calendar": "Department 3",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "9/19/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "yenMhTaFadfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "97UPAQGthhLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "jGmRIkn69I7l1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-07",
+      "date_text": "11/7/2024",
+      "proceedings": "Motion: Withdraw as attorney",
+      "source_section": "hearing",
+      "source_row_id": "16528774",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "9:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16528774",
+        "calendar": "Department 3",
+        "type": "Motion: Withdraw as attorney",
+        "date": "11/7/2024",
+        "time": "9:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-07",
+      "date_text": "11/7/2024",
+      "proceedings": "Motion: Withdraw as attorney",
+      "source_section": "hearing",
+      "source_row_id": "16528774",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "9:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16528774",
+        "calendar": "Department 3",
+        "type": "Motion: Withdraw as attorney",
+        "date": "11/7/2024",
+        "time": "9:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-07",
+      "date_text": "11/7/2024",
+      "proceedings": "Motion: Withdraw as attorney",
+      "source_section": "hearing",
+      "source_row_id": "16528774",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 3",
+      "time": "9:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16528774",
+        "calendar": "Department 3",
+        "type": "Motion: Withdraw as attorney",
+        "date": "11/7/2024",
+        "time": "9:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "SAv5gKNa0S%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "jlI21Q32lhXl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KwmjJ%2FExJYnl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Notice of Reset Hearing",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Notice of Reset Hearing"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-04-18",
+      "date_text": "4/18/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16605716",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16605716",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "4/18/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "upGRWD%2F4oRHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "YSKEvp770OHl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BFX1ooZ576Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Notice of Reset Hearing"
+          },
+          {
+            "documentId": "nqMPDuwDu9Ll1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "mZ3l7%2BAQLZ%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "iiu3bRTHn5Dl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-10-10",
+      "date_text": "10/10/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16811825",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16811825",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "10/10/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-10-10",
+      "date_text": "10/10/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16811825",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2025-10-10_minutes-non-criminal_7bbc4b7f775c.pdf",
+      "raw": {
+        "hearingId": "16811825",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "10/10/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "date_text": "10/10/2025",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "16811825",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 20",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16811825",
+        "calendar": "Department 20",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "10/10/2025",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "HuAGwmYqiSrl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "w4q9JPMObVfl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "aRKWtDEqYIvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-03-06",
+      "date_text": "3/6/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17056357",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17056357",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "3/6/2026",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-03-06",
+      "date_text": "3/6/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17056357",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": "2026-03-06_minutes-non-criminal_bc8ddd076bcd.pdf",
+      "raw": {
+        "hearingId": "17056357",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "3/6/2026",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "Minutes Non-Criminal"
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "date_text": "3/6/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17056357",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17056357",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "3/6/2026",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-03-06",
+      "date_text": "3/6/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17056357",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17056357",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "3/6/2026",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "EpOwrutNWMLl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "WteQKm1MlP%2Fl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "lMaj3CWoY9rl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "MuU3YcnxTgzl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-07-31",
+      "date_text": "7/31/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17253668",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253668",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "7/31/2026",
+        "time": "10:00AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-07-31",
+      "date_text": "7/31/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17253668",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253668",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "7/31/2026",
+        "time": "10:00AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-07-31",
+      "date_text": "7/31/2026",
+      "proceedings": "OSC: Dismissal Failure to Serve",
+      "source_section": "hearing",
+      "source_row_id": "17253668",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 12",
+      "time": "10:00AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17253668",
+        "calendar": "Department 12",
+        "type": "OSC: Dismissal Failure to Serve",
+        "date": "7/31/2026",
+        "time": "10:00AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "untRZkRXXEvl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "NJaPjM%2BMKoPl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Yk7U%2FX9scCTl1%2FJ55Zjuw9j3bcQIEiSpyjSyI9%2F5o04%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "metadata": {
+    "case_number": "24CV430942",
+    "case_id": "5333626",
+    "case_title": "In the Matter of Maria Santoyo",
+    "filing_date": "2024-02-15",
+    "filing_date_text": "2/15/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMzMzYyNg%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Maria de los Angeles Santoyo",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15388826",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15388826",
+          "type": "Petitioner",
+          "firstName": "Maria",
+          "middleName": "de los Angeles",
+          "lastName": "Santoyo",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Maria de los Angeles Santoyo",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 1,
+    "n_attorneys": 0,
+    "n_events": 12,
+    "n_hearings": 2,
+    "n_actions": 14,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5333626",
+        "nodeId": "11110",
+        "caseNumber": "24CV430942",
+        "caseStyle": "In the Matter of Maria Santoyo",
+        "filingDate": "2/15/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15388826",
+            "type": "Petitioner",
+            "firstName": "Maria",
+            "middleName": "de los Angeles",
+            "lastName": "Santoyo",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Maria de los Angeles Santoyo",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120528083",
+            "date": "7/9/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "Maria Santoyo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "mbw%2BX%2BYmfAur0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "122128328",
+            "date": "7/2/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "q6nvuOtmp%2Fmr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "121569948",
+            "date": "5/8/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": "Amended",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "121569957",
+            "date": "5/8/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": "Amended",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "121569961",
+            "date": "5/8/2024",
+            "type": "Order: Proposed",
+            "filedBy": "",
+            "comment": "New Order",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "121129996",
+            "date": "3/29/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120528091",
+            "date": "3/21/2024",
+            "type": "Fee Waiver Order-Grant",
+            "filedBy": "Maria Santoyo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "120526814",
+            "date": "2/15/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120528066",
+            "date": "2/15/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120528071",
+            "date": "2/15/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120528080",
+            "date": "2/15/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120528088",
+            "date": "2/15/2024",
+            "type": "Fee Waiver Application",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16261594",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/30/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          },
+          {
+            "hearingId": "16437833",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "6/18/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5333626",
+        "caseNumber": "24CV430942",
+        "style": "In the Matter of Maria Santoyo",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/15/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:45:32Z",
+      "sequence_in_day": 3,
+      "downloaded_documents": 2,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 8
+    },
+    "downloaded_documents": [
+      "2024-07-09_order-proposed_07df443c3b24.pdf",
+      "2024-07-02_affidavit-proof-of-publication_8aecf26a7c19.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-05-08",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-05-08",
+        "proceedings": "Order to Show Cause: Name Change"
+      },
+      {
+        "doc_id": "mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Order: Proposed",
+        "date": "2024-05-08",
+        "proceedings": "Order: Proposed"
+      },
+      {
+        "doc_id": "UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Affidavit: Proof of Publication",
+        "date": "2024-03-29",
+        "proceedings": "Affidavit: Proof of Publication"
+      },
+      {
+        "doc_id": "xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Order: Proposed",
+        "date": "2024-03-21",
+        "proceedings": "Fee Waiver Order-Grant"
+      },
+      {
+        "doc_id": "c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-15",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-15",
+        "proceedings": "Order to Show Cause: Name Change"
+      },
+      {
+        "doc_id": "tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-15",
+        "proceedings": "Civil Case Cover Sheet"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-07-09",
+      "date_text": "7/9/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120528083",
+      "filed_by": "Maria Santoyo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "mbw%2BX%2BYmfAur0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mbw%2BX%2BYmfAur0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": "2024-07-09_order-proposed_07df443c3b24.pdf",
+      "raw": {
+        "eventId": "120528083",
+        "date": "7/9/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "Maria Santoyo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "mbw%2BX%2BYmfAur0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mbw%2BX%2BYmfAur0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Order: Proposed"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-07-02",
+      "date_text": "7/2/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "122128328",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "q6nvuOtmp%2Fmr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=q6nvuOtmp%2Fmr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": "2024-07-02_affidavit-proof-of-publication_8aecf26a7c19.pdf",
+      "raw": {
+        "eventId": "122128328",
+        "date": "7/2/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "q6nvuOtmp%2Fmr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "q6nvuOtmp%2Fmr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-05-08",
+      "date_text": "5/8/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "121569948",
+      "filed_by": "",
+      "comment": "Amended",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121569948",
+        "date": "5/8/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": "Amended",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "62aDQh4MyT6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-08",
+      "date_text": "5/8/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "121569957",
+      "filed_by": "",
+      "comment": "Amended",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121569957",
+        "date": "5/8/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": "Amended",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UrpVMaQ0i8mr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-08",
+      "date_text": "5/8/2024",
+      "proceedings": "Order: Proposed",
+      "source_section": "event",
+      "source_row_id": "121569961",
+      "filed_by": "",
+      "comment": "New Order",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121569961",
+        "date": "5/8/2024",
+        "type": "Order: Proposed",
+        "filedBy": "",
+        "comment": "New Order",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mHc5xqHjXkOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Order: Proposed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-29",
+      "date_text": "3/29/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "121129996",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121129996",
+        "date": "3/29/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UzOT1bLjhAOr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-21",
+      "date_text": "3/21/2024",
+      "proceedings": "Fee Waiver Order-Grant",
+      "source_section": "event",
+      "source_row_id": "120528091",
+      "filed_by": "Maria Santoyo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120528091",
+        "date": "3/21/2024",
+        "type": "Fee Waiver Order-Grant",
+        "filedBy": "Maria Santoyo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xviDCpvJVxqr0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Order: Proposed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120526814",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120526814",
+        "date": "2/15/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120528066",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120528066",
+        "date": "2/15/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "c4bNLegzbV6r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120528071",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120528071",
+        "date": "2/15/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Pg%2FREjb9x6ir0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120528080",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120528080",
+        "date": "2/15/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "tbH6TBsd966r0bTrg7GvnDMY8TK2BcozLxdaMtUBdH0%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Fee Waiver Application",
+      "source_section": "event",
+      "source_row_id": "120528088",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120528088",
+        "date": "2/15/2024",
+        "type": "Fee Waiver Application",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-04-30",
+      "date_text": "4/30/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16261594",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16261594",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/30/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-06-18",
+      "date_text": "6/18/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16437833",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16437833",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "6/18/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

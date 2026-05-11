@@ -1,0 +1,555 @@
+{
+  "metadata": {
+    "case_number": "24CV430559",
+    "case_id": "5319937",
+    "case_title": "BRENT VENTURA vs EDWARD FIELDS et al",
+    "filing_date": "2024-02-07",
+    "filing_date_text": "2/7/2024",
+    "case_type": "Breach of Contract/Warranty Unlimited  (06)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTkzNw%3D%3D",
+    "portal_search_case_type": "Breach of Contract/Warranty Unlimited  (06)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "BRENT VENTURA",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15358938",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358938",
+          "type": "Plaintiff",
+          "firstName": "BRENT",
+          "middleName": "",
+          "lastName": "VENTURA",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "BRENT VENTURA",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "EDWARD FIELDS",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15358939",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358939",
+          "type": "Defendant",
+          "firstName": "EDWARD",
+          "middleName": "",
+          "lastName": "FIELDS",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "EDWARD FIELDS",
+          "isDefendant": true
+        },
+        "pro_se": true
+      },
+      {
+        "name": "RENEE FIELDS",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15358940",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358940",
+          "type": "Defendant",
+          "firstName": "RENEE",
+          "middleName": "",
+          "lastName": "FIELDS",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "RENEE FIELDS",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "John Arthur Shepardson",
+        "bar_number": "129081",
+        "represented_party_text": "BRENT VENTURA",
+        "is_lead": true,
+        "raw": {
+          "firstName": "John",
+          "middleName": "Arthur",
+          "lastName": "Shepardson",
+          "representing": "BRENT VENTURA",
+          "barNumber": "129081",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "John Arthur Shepardson",
+        "bar_number": "129081",
+        "party_name": "BRENT VENTURA",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 3,
+    "n_attorneys": 1,
+    "n_events": 6,
+    "n_hearings": 0,
+    "n_actions": 6,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319937",
+        "nodeId": "11110",
+        "caseNumber": "24CV430559",
+        "caseStyle": "BRENT VENTURA vs EDWARD FIELDS et al",
+        "filingDate": "2/7/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Breach of Contract/Warranty Unlimited  (06)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15358938",
+            "type": "Plaintiff",
+            "firstName": "BRENT",
+            "middleName": "",
+            "lastName": "VENTURA",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "BRENT VENTURA",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358939",
+            "type": "Defendant",
+            "firstName": "EDWARD",
+            "middleName": "",
+            "lastName": "FIELDS",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "EDWARD FIELDS",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358940",
+            "type": "Defendant",
+            "firstName": "RENEE",
+            "middleName": "",
+            "lastName": "FIELDS",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "RENEE FIELDS",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "John",
+            "middleName": "Arthur",
+            "lastName": "Shepardson",
+            "representing": "BRENT VENTURA",
+            "barNumber": "129081",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "122279187",
+            "date": "7/17/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "BRENT VENTURA, ",
+            "comment": "entire with prejudice by atty Shepardson",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "SWEFrJmu9Iqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "120545202",
+            "date": "2/13/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "BRENT VENTURA, ",
+            "comment": "Summons",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+                "documentName": "Summons"
+              }
+            ]
+          },
+          {
+            "eventId": "120428781",
+            "date": "2/7/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120428817",
+            "date": "2/7/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "BRENT VENTURA, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "120428818",
+            "date": "2/7/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "BRENT VENTURA, ",
+            "comment": "Civil Case Cover Sheet",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120480836",
+            "date": "2/7/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "BRENT VENTURA, ",
+            "comment": "Summons - Renee's name is inconsistent with complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319937",
+        "caseNumber": "24CV430559",
+        "style": "BRENT VENTURA vs EDWARD FIELDS et al",
+        "caseCategory": 1,
+        "type": "Breach of Contract/Warranty Unlimited  (06)",
+        "typeId": "06-1B",
+        "fileDate": "2/7/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:51:13Z",
+      "sequence_in_day": 30,
+      "downloaded_documents": 1,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 4
+    },
+    "downloaded_documents": [
+      "2024-07-17_request-for-dismissal_4d6a7c7d3682.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "doc_name": "Summons",
+        "date": "2024-02-13",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "doc_name": "Complaint",
+        "date": "2024-02-07",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-07",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-02-07",
+        "proceedings": "Clerk Rejection Letter"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-07-17",
+      "date_text": "7/17/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "122279187",
+      "filed_by": "BRENT VENTURA, ",
+      "comment": "entire with prejudice by atty Shepardson",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "SWEFrJmu9Iqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=SWEFrJmu9Iqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_filename": "2024-07-17_request-for-dismissal_4d6a7c7d3682.pdf",
+      "raw": {
+        "eventId": "122279187",
+        "date": "7/17/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "BRENT VENTURA, ",
+        "comment": "entire with prejudice by atty Shepardson",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "SWEFrJmu9Iqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "SWEFrJmu9Iqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120545202",
+      "filed_by": "BRENT VENTURA, ",
+      "comment": "Summons",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_name": "Summons",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120545202",
+        "date": "2/13/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "BRENT VENTURA, ",
+        "comment": "Summons",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+            "documentName": "Summons"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WNHfh6rDIMer0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "documentName": "Summons"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120428781",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428781",
+        "date": "2/7/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120428817",
+      "filed_by": "BRENT VENTURA, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428817",
+        "date": "2/7/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "BRENT VENTURA, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "G7x76hS47Xmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120428818",
+      "filed_by": "BRENT VENTURA, ",
+      "comment": "Civil Case Cover Sheet",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428818",
+        "date": "2/7/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "BRENT VENTURA, ",
+        "comment": "Civil Case Cover Sheet",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xkhpuxciHdmr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "120480836",
+      "filed_by": "BRENT VENTURA, ",
+      "comment": "Summons - Renee's name is inconsistent with complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120480836",
+        "date": "2/7/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "BRENT VENTURA, ",
+        "comment": "Summons - Renee's name is inconsistent with complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mQTfdIzaCjqr0bTrg7GvnNqPjJk6vbO67xapECbpp34%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

@@ -1,0 +1,1466 @@
+{
+  "metadata": {
+    "case_number": "24CV430916",
+    "case_id": "5333381",
+    "case_title": "James Devlin vs Adrian Ramirez",
+    "filing_date": "2024-02-15",
+    "filing_date_text": "2/15/2024",
+    "case_type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 4",
+    "departments": [
+      "Department 4"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMzMzM4MQ%3D%3D",
+    "portal_search_case_type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "James Devlin",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15388053",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15388053",
+          "type": "Plaintiff",
+          "firstName": "James",
+          "middleName": "",
+          "lastName": "Devlin",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "James Devlin",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Adrian Ramirez",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15388054",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15388054",
+          "type": "Defendant",
+          "firstName": "Adrian",
+          "middleName": "",
+          "lastName": "Ramirez",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Adrian Ramirez",
+          "isDefendant": true
+        },
+        "pro_se": true
+      },
+      {
+        "name": "ALL UNNAMED OCCUPANTS",
+        "type": "Notice",
+        "is_defendant": false,
+        "case_party_id": "15388055",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15388055",
+          "type": "Notice",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "ALL UNNAMED OCCUPANTS",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " ALL UNNAMED OCCUPANTS",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Martin N. Lettunich",
+        "bar_number": "50995",
+        "represented_party_text": "James Devlin",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Martin",
+          "middleName": "N.",
+          "lastName": "Lettunich",
+          "representing": "James Devlin",
+          "barNumber": "50995",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Martin N. Lettunich",
+        "bar_number": "50995",
+        "party_name": "James Devlin",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 3,
+    "n_attorneys": 1,
+    "n_events": 20,
+    "n_hearings": 1,
+    "n_actions": 23,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5333381",
+        "nodeId": "11110",
+        "caseNumber": "24CV430916",
+        "caseStyle": "James Devlin vs Adrian Ramirez",
+        "filingDate": "2/15/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Residential Unlawful Detainer Limited (32) - under 10,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15388053",
+            "type": "Plaintiff",
+            "firstName": "James",
+            "middleName": "",
+            "lastName": "Devlin",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "James Devlin",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15388054",
+            "type": "Defendant",
+            "firstName": "Adrian",
+            "middleName": "",
+            "lastName": "Ramirez",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Adrian Ramirez",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15388055",
+            "type": "Notice",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "ALL UNNAMED OCCUPANTS",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " ALL UNNAMED OCCUPANTS",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Martin",
+            "middleName": "N.",
+            "lastName": "Lettunich",
+            "representing": "James Devlin",
+            "barNumber": "50995",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "122384757",
+            "date": "7/30/2024",
+            "type": "Writ: Possession (Filed)",
+            "filedBy": "James Devlin, ",
+            "comment": "Satisfied",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UyRXN5Gqq9yr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Writ: Possession (Filed)"
+              }
+            ]
+          },
+          {
+            "eventId": "122159104",
+            "date": "7/8/2024",
+            "type": "Writ: Possession (Issued)",
+            "filedBy": "James Devlin, ",
+            "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, COUNTY OF SANTA CLARA",
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "122092601",
+            "date": "6/28/2024",
+            "type": "Judgment",
+            "filedBy": "James Devlin, Adrian Ramirez, ",
+            "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, $10,367.27 signed Comm. J. Thai Van Dat",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vcPMgtPH5a%2Br0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Judgment"
+              }
+            ]
+          },
+          {
+            "eventId": "122524423",
+            "date": "6/28/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "121348438",
+            "date": "4/17/2024",
+            "type": "Memorandum: At Issue",
+            "filedBy": "James Devlin, ",
+            "comment": "Request to SetCase for Trial",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Memorandum: At Issue"
+              }
+            ]
+          },
+          {
+            "eventId": "120876727",
+            "date": "3/22/2024",
+            "type": "Request: Order for Service by Posting/Publication",
+            "filedBy": "James Devlin, ",
+            "comment": "SIGNED by Comm. Thai Van Dat",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "DEVLINOTP.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121012852",
+            "date": "3/20/2024",
+            "type": "Answer-Unlawful Detainer (Limited): Up to $10K",
+            "filedBy": "Adrian Ramirez, ",
+            "comment": "to complaint, pro per",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Answer-Unlawful Detainer (Limited): Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "121012859",
+            "date": "3/20/2024",
+            "type": "Fee Waiver Application",
+            "filedBy": "Adrian Ramirez, ",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "121012868",
+            "date": "3/20/2024",
+            "type": "Fee Waiver Order-Grant",
+            "filedBy": "Adrian Ramirez, ",
+            "comment": "Granted by Judge Geffon",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "FW003 - Fee Waiver Adrian Ramirez"
+              }
+            ]
+          },
+          {
+            "eventId": "120906064",
+            "date": "3/18/2024",
+            "type": "Fee Waiver Order-Deny",
+            "filedBy": "Adrian Ramirez, ",
+            "comment": "Signed by Judge Geffon",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "FW-003 PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "120906017",
+            "date": "3/13/2024",
+            "type": "Fee Waiver Application",
+            "filedBy": "Adrian Ramirez, ",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120520805",
+            "date": "2/15/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120520843",
+            "date": "2/15/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "James Devlin, ",
+            "comment": "Civil Case Cover Sheet",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "DEVLIN1.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120520844",
+            "date": "2/15/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "James Devlin, ",
+            "comment": "Summons",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "DEVLIN2.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120520845",
+            "date": "2/15/2024",
+            "type": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+            "filedBy": "James Devlin, ",
+            "comment": "Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "120520846",
+            "date": "2/15/2024",
+            "type": "Plt Mand Cover Sheet -Supp Alleg",
+            "filedBy": "James Devlin, ",
+            "comment": "Plt Mand Cover Sheet -Supp Alleg",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "DEVLIN4.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120520848",
+            "date": "2/15/2024",
+            "type": "Verification by Landlord Re Rental Assistance UD",
+            "filedBy": "James Devlin, ",
+            "comment": "Verification by Landlord Re Rental Assistance UD",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "DEVLIN5.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120531046",
+            "date": "2/15/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "120531048",
+            "date": "2/15/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "120531049",
+            "date": "2/15/2024",
+            "type": "UD Masking Letter",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "CV-5091 UD Masking Notice"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16413815",
+            "calendar": "Department 4",
+            "type": "Trial: Unlawful Detainer",
+            "date": "6/28/2024",
+            "time": "8:45AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+              },
+              {
+                "documentId": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+              },
+              {
+                "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5333381",
+        "caseNumber": "24CV430916",
+        "style": "James Devlin vs Adrian Ramirez",
+        "caseCategory": 1,
+        "type": "Residential Unlawful Detainer Limited (32) - under 10,000",
+        "typeId": "32-1A",
+        "fileDate": "2/15/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:45:14Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 2,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 17
+    },
+    "downloaded_documents": [
+      "2024-07-30_writ-possession-filed_41e0de2da216.pdf",
+      "2024-06-28_judgment_c6c04b1053d2.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-06-28",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "Memorandum: At Issue",
+        "date": "2024-04-17",
+        "proceedings": "Memorandum: At Issue"
+      },
+      {
+        "doc_id": "5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "DEVLINOTP.pdf",
+        "date": "2024-03-22",
+        "proceedings": "Request: Order for Service by Posting/Publication"
+      },
+      {
+        "doc_id": "efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "Answer-Unlawful Detainer (Limited): Up to $10K",
+        "date": "2024-03-20",
+        "proceedings": "Answer-Unlawful Detainer (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "FW003 - Fee Waiver Adrian Ramirez",
+        "date": "2024-03-20",
+        "proceedings": "Fee Waiver Order-Grant"
+      },
+      {
+        "doc_id": "ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "FW-003 PENDING",
+        "date": "2024-03-18",
+        "proceedings": "Fee Waiver Order-Deny"
+      },
+      {
+        "doc_id": "s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "DEVLIN1.pdf",
+        "date": "2024-02-15",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "DEVLIN2.pdf",
+        "date": "2024-02-15",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "Complaint-Unlawful Detainer: Up to $10K",
+        "date": "2024-02-15",
+        "proceedings": "Complaint-Unlawful Detainer (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "DEVLIN4.pdf",
+        "date": "2024-02-15",
+        "proceedings": "Plt Mand Cover Sheet -Supp Alleg"
+      },
+      {
+        "doc_id": "05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "DEVLIN5.pdf",
+        "date": "2024-02-15",
+        "proceedings": "Verification by Landlord Re Rental Assistance UD"
+      },
+      {
+        "doc_id": "rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-15",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-15",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "CV-5091 UD Masking Notice",
+        "date": "2024-02-15",
+        "proceedings": "UD Masking Letter"
+      },
+      {
+        "doc_id": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "CV-5073 Notice of Scheduled Unlawful Detainer Trial",
+        "date": "2024-06-28",
+        "proceedings": "Trial: Unlawful Detainer"
+      },
+      {
+        "doc_id": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "CV-5073 Notice of Scheduled Unlawful Detainer Trial",
+        "date": "2024-06-28",
+        "proceedings": "Trial: Unlawful Detainer"
+      },
+      {
+        "doc_id": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-06-28",
+        "proceedings": "Trial: Unlawful Detainer"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-07-30",
+      "date_text": "7/30/2024",
+      "proceedings": "Writ: Possession (Filed)",
+      "source_section": "event",
+      "source_row_id": "122384757",
+      "filed_by": "James Devlin, ",
+      "comment": "Satisfied",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UyRXN5Gqq9yr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Writ: Possession (Filed)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UyRXN5Gqq9yr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": "2024-07-30_writ-possession-filed_41e0de2da216.pdf",
+      "raw": {
+        "eventId": "122384757",
+        "date": "7/30/2024",
+        "type": "Writ: Possession (Filed)",
+        "filedBy": "James Devlin, ",
+        "comment": "Satisfied",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UyRXN5Gqq9yr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Writ: Possession (Filed)"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UyRXN5Gqq9yr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Writ: Possession (Filed)"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-07-08",
+      "date_text": "7/8/2024",
+      "proceedings": "Writ: Possession (Issued)",
+      "source_section": "event",
+      "source_row_id": "122159104",
+      "filed_by": "James Devlin, ",
+      "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, COUNTY OF SANTA CLARA",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122159104",
+        "date": "7/8/2024",
+        "type": "Writ: Possession (Issued)",
+        "filedBy": "James Devlin, ",
+        "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, COUNTY OF SANTA CLARA",
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Judgment",
+      "source_section": "event",
+      "source_row_id": "122092601",
+      "filed_by": "James Devlin, Adrian Ramirez, ",
+      "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, $10,367.27 signed Comm. J. Thai Van Dat",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vcPMgtPH5a%2Br0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Judgment",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vcPMgtPH5a%2Br0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": "2024-06-28_judgment_c6c04b1053d2.pdf",
+      "raw": {
+        "eventId": "122092601",
+        "date": "6/28/2024",
+        "type": "Judgment",
+        "filedBy": "James Devlin, Adrian Ramirez, ",
+        "comment": "936 DEL MAR AVE. APT 3, SAN JOSE, CA 95128, $10,367.27 signed Comm. J. Thai Van Dat",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vcPMgtPH5a%2Br0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Judgment"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vcPMgtPH5a%2Br0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Judgment"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122524423",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122524423",
+        "date": "6/28/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Memorandum: At Issue",
+      "source_section": "event",
+      "source_row_id": "121348438",
+      "filed_by": "James Devlin, ",
+      "comment": "Request to SetCase for Trial",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Memorandum: At Issue",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121348438",
+        "date": "4/17/2024",
+        "type": "Memorandum: At Issue",
+        "filedBy": "James Devlin, ",
+        "comment": "Request to SetCase for Trial",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Memorandum: At Issue"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VBEsT%2FWV6Amr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Memorandum: At Issue"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-22",
+      "date_text": "3/22/2024",
+      "proceedings": "Request: Order for Service by Posting/Publication",
+      "source_section": "event",
+      "source_row_id": "120876727",
+      "filed_by": "James Devlin, ",
+      "comment": "SIGNED by Comm. Thai Van Dat",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "DEVLINOTP.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120876727",
+        "date": "3/22/2024",
+        "type": "Request: Order for Service by Posting/Publication",
+        "filedBy": "James Devlin, ",
+        "comment": "SIGNED by Comm. Thai Van Dat",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "DEVLINOTP.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5UG74WrIH0ar0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "DEVLINOTP.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-20",
+      "date_text": "3/20/2024",
+      "proceedings": "Answer-Unlawful Detainer (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "121012852",
+      "filed_by": "Adrian Ramirez, ",
+      "comment": "to complaint, pro per",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Answer-Unlawful Detainer (Limited): Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121012852",
+        "date": "3/20/2024",
+        "type": "Answer-Unlawful Detainer (Limited): Up to $10K",
+        "filedBy": "Adrian Ramirez, ",
+        "comment": "to complaint, pro per",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Answer-Unlawful Detainer (Limited): Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "efWwtbmMgLur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Answer-Unlawful Detainer (Limited): Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-20",
+      "date_text": "3/20/2024",
+      "proceedings": "Fee Waiver Application",
+      "source_section": "event",
+      "source_row_id": "121012859",
+      "filed_by": "Adrian Ramirez, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121012859",
+        "date": "3/20/2024",
+        "type": "Fee Waiver Application",
+        "filedBy": "Adrian Ramirez, ",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-03-20",
+      "date_text": "3/20/2024",
+      "proceedings": "Fee Waiver Order-Grant",
+      "source_section": "event",
+      "source_row_id": "121012868",
+      "filed_by": "Adrian Ramirez, ",
+      "comment": "Granted by Judge Geffon",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "FW003 - Fee Waiver Adrian Ramirez",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121012868",
+        "date": "3/20/2024",
+        "type": "Fee Waiver Order-Grant",
+        "filedBy": "Adrian Ramirez, ",
+        "comment": "Granted by Judge Geffon",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "FW003 - Fee Waiver Adrian Ramirez"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "1WJ7Ci50NeWr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "FW003 - Fee Waiver Adrian Ramirez"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-18",
+      "date_text": "3/18/2024",
+      "proceedings": "Fee Waiver Order-Deny",
+      "source_section": "event",
+      "source_row_id": "120906064",
+      "filed_by": "Adrian Ramirez, ",
+      "comment": "Signed by Judge Geffon",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "FW-003 PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120906064",
+        "date": "3/18/2024",
+        "type": "Fee Waiver Order-Deny",
+        "filedBy": "Adrian Ramirez, ",
+        "comment": "Signed by Judge Geffon",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "FW-003 PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ps4WcZlTAuer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "FW-003 PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-13",
+      "date_text": "3/13/2024",
+      "proceedings": "Fee Waiver Application",
+      "source_section": "event",
+      "source_row_id": "120906017",
+      "filed_by": "Adrian Ramirez, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120906017",
+        "date": "3/13/2024",
+        "type": "Fee Waiver Application",
+        "filedBy": "Adrian Ramirez, ",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120520805",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520805",
+        "date": "2/15/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120520843",
+      "filed_by": "James Devlin, ",
+      "comment": "Civil Case Cover Sheet",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "DEVLIN1.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520843",
+        "date": "2/15/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "James Devlin, ",
+        "comment": "Civil Case Cover Sheet",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "DEVLIN1.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "s%2B80iTYRTvir0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "DEVLIN1.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120520844",
+      "filed_by": "James Devlin, ",
+      "comment": "Summons",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "DEVLIN2.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520844",
+        "date": "2/15/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "James Devlin, ",
+        "comment": "Summons",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "DEVLIN2.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "B1qhNw22StGr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "DEVLIN2.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "120520845",
+      "filed_by": "James Devlin, ",
+      "comment": "Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Complaint-Unlawful Detainer: Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520845",
+        "date": "2/15/2024",
+        "type": "Complaint-Unlawful Detainer (Limited): Up to $10K",
+        "filedBy": "James Devlin, ",
+        "comment": "Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "cXRDWfLtr3Wr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Complaint-Unlawful Detainer: Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Plt Mand Cover Sheet -Supp Alleg",
+      "source_section": "event",
+      "source_row_id": "120520846",
+      "filed_by": "James Devlin, ",
+      "comment": "Plt Mand Cover Sheet -Supp Alleg",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "DEVLIN4.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520846",
+        "date": "2/15/2024",
+        "type": "Plt Mand Cover Sheet -Supp Alleg",
+        "filedBy": "James Devlin, ",
+        "comment": "Plt Mand Cover Sheet -Supp Alleg",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "DEVLIN4.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "eTNawRZKpDur0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "DEVLIN4.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "Verification by Landlord Re Rental Assistance UD",
+      "source_section": "event",
+      "source_row_id": "120520848",
+      "filed_by": "James Devlin, ",
+      "comment": "Verification by Landlord Re Rental Assistance UD",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "DEVLIN5.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120520848",
+        "date": "2/15/2024",
+        "type": "Verification by Landlord Re Rental Assistance UD",
+        "filedBy": "James Devlin, ",
+        "comment": "Verification by Landlord Re Rental Assistance UD",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "DEVLIN5.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "05mmeOO6ZdKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "DEVLIN5.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120531046",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120531046",
+        "date": "2/15/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "rxOQxs6UR5Sr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120531048",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120531048",
+        "date": "2/15/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "B%2ByFn6eMIsmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-15",
+      "date_text": "2/15/2024",
+      "proceedings": "UD Masking Letter",
+      "source_section": "event",
+      "source_row_id": "120531049",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "CV-5091 UD Masking Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120531049",
+        "date": "2/15/2024",
+        "type": "UD Masking Letter",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5091 UD Masking Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uhkJXbythpKr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "CV-5091 UD Masking Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Trial: Unlawful Detainer",
+      "source_section": "hearing",
+      "source_row_id": "16413815",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 4",
+      "time": "8:45AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "CV-5073 Notice of Scheduled Unlawful Detainer Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16413815",
+        "calendar": "Department 4",
+        "type": "Trial: Unlawful Detainer",
+        "date": "6/28/2024",
+        "time": "8:45AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Trial: Unlawful Detainer",
+      "source_section": "hearing",
+      "source_row_id": "16413815",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 4",
+      "time": "8:45AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "CV-5073 Notice of Scheduled Unlawful Detainer Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16413815",
+        "calendar": "Department 4",
+        "type": "Trial: Unlawful Detainer",
+        "date": "6/28/2024",
+        "time": "8:45AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-28",
+      "date_text": "6/28/2024",
+      "proceedings": "Trial: Unlawful Detainer",
+      "source_section": "hearing",
+      "source_row_id": "16413815",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 4",
+      "time": "8:45AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16413815",
+        "calendar": "Department 4",
+        "type": "Trial: Unlawful Detainer",
+        "date": "6/28/2024",
+        "time": "8:45AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "tzdMxpl2cvmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "OIq6FuS9Lyer0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "CV-5073 Notice of Scheduled Unlawful Detainer Trial"
+          },
+          {
+            "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "qACJrYITDGmr0bTrg7GvnDMY8TK2Bcoz6kuuID9xvxY%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

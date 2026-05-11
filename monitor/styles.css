@@ -1,0 +1,210 @@
+:root {
+  --bg: #f7f7f5;
+  --fg: #1e1e1e;
+  --muted: #777;
+  --border: #e0e0dc;
+  --panel: #ffffff;
+  --complete: #4caf50;
+  --in-progress: #2196f3;
+  --has-failures: #e53935;
+  --run-error: #6d4c41;
+  --pending: #ffb74d;
+  --no-cases: #bdbdbd;
+  --untouched: #eceae4;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 24px;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+header .meta {
+  color: var(--muted);
+  font-size: 12px;
+  display: flex;
+  gap: 16px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.rate, .totals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 8px;
+}
+
+.stat {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stat .label {
+  color: var(--muted);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.stat .value {
+  font-size: 20px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.legend {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+
+.swatch.complete { background: var(--complete); }
+.swatch.in-progress { background: var(--in-progress); }
+.swatch.has-failures { background: var(--has-failures); }
+.swatch.run-error { background: var(--run-error); }
+.swatch.pending { background: var(--pending); }
+.swatch.no-cases { background: var(--no-cases); }
+.swatch.untouched { background: var(--untouched); border: 1px solid var(--border); }
+
+.year {
+  margin-bottom: 28px;
+}
+
+.year h2 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.year-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.month {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.month h3 {
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.day {
+  aspect-ratio: 1 / 1;
+  min-height: 18px;
+  border-radius: 3px;
+  background: var(--untouched);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: #555;
+  cursor: pointer;
+}
+
+.day.blank { background: transparent; }
+.day.complete { background: var(--complete); color: #fff; }
+.day.in-progress { background: var(--in-progress); color: #fff; }
+.day.has-failures { background: var(--has-failures); color: #fff; }
+.day.run-error { background: var(--run-error); color: #fff; }
+.day.pending { background: var(--pending); color: #333; }
+.day.no-cases { background: var(--no-cases); color: #333; }
+
+.empty {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.tooltip {
+  position: absolute;
+  z-index: 100;
+  min-width: 180px;
+  max-width: 340px;
+  background: #1e1e1e;
+  color: #f2f2f2;
+  border-radius: 5px;
+  padding: 8px 10px;
+  font-size: 12px;
+  line-height: 1.35;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+  pointer-events: none;
+}
+
+.tooltip[hidden] { display: none; }
+
+.tt-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+  font-variant-numeric: tabular-nums;
+}
+
+.tt-line {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.tt-line.tt-muted {
+  color: #a0a0a0;
+  margin-top: 2px;
+}
+
+.tt-error {
+  margin-top: 6px;
+  color: #ffb4a9;
+  white-space: pre-wrap;
+}

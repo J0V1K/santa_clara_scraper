@@ -1,0 +1,57 @@
+{
+  "started_at": "2026-05-10T06:26:53Z",
+  "command": [
+    "/Users/jovik/Desktop/docket_gen/detection_pilot/.venv/bin/python",
+    "/Users/jovik/Desktop/docket_gen/santa_clara_scraper/scraper.py",
+    "--start-date",
+    "2024-01-02",
+    "--end-date",
+    "2024-01-04",
+    "--case-type",
+    "Civil",
+    "--case-prefix",
+    "CV",
+    "--case-type-include-regex",
+    "Auto|Contract|Employment|Fraud|Malpractice",
+    "--max-cases",
+    "1",
+    "--offset-cases",
+    "0",
+    "--max-docs-per-case",
+    "4",
+    "--day-retries",
+    "1",
+    "--day-backoff-s",
+    "25.0",
+    "--min-delay-s",
+    "0.6",
+    "--max-delay-s",
+    "1.4"
+  ],
+  "run_dir": "/Users/jovik/Desktop/docket_gen/santa_clara_scraper/runs/deploy_pilot_20260510T062653Z",
+  "data_root": "/Users/jovik/Desktop/docket_gen/santa_clara_scraper/data",
+  "args": {
+    "start_date": "2024-01-02",
+    "end_date": "2024-01-04",
+    "case_type": "Civil",
+    "case_prefix": [
+      "CV"
+    ],
+    "case_type_include_regex": [
+      "Auto|Contract|Employment|Fraud|Malpractice"
+    ],
+    "case_type_exclude_regex": [],
+    "max_cases": 1,
+    "offset_cases": 0,
+    "max_docs_per_case": 4,
+    "day_retries": 1,
+    "day_backoff_s": 25.0,
+    "min_delay_s": 0.6,
+    "max_delay_s": 1.4,
+    "calibrate": false,
+    "label": "deploy_pilot"
+  },
+  "finished_at": "2026-05-10T06:27:53Z",
+  "returncode": 0,
+  "log_path": "/Users/jovik/Desktop/docket_gen/santa_clara_scraper/runs/deploy_pilot_20260510T062653Z/run.log"
+}

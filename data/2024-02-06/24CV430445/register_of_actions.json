@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "case_number": "24CV430445",
+    "case_id": "5315918",
+    "case_title": "In the Matter of SOLOMON MEHARI et al",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNTkxOA%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "SOLOMON WELDEGIORGIS MEHARI",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15349584",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349584",
+          "type": "Petitioner",
+          "firstName": "SOLOMON",
+          "middleName": "WELDEGIORGIS",
+          "lastName": "MEHARI",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "SOLOMON WELDEGIORGIS MEHARI",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "YERUSALIYEM WELDGIORGIS SOLOMON",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15349585",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349585",
+          "type": "Petitioner",
+          "firstName": "YERUSALIYEM",
+          "middleName": "WELDGIORGIS",
+          "lastName": "SOLOMON",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "YERUSALIYEM WELDGIORGIS SOLOMON",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "MELAWIT MEHARI SOLOMON",
+        "type": "Minor",
+        "is_defendant": false,
+        "case_party_id": "15349586",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349586",
+          "type": "Minor",
+          "firstName": "MELAWIT",
+          "middleName": "MEHARI",
+          "lastName": "SOLOMON",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "MELAWIT MEHARI SOLOMON",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "MELAME MEHARI SOLOMON",
+        "type": "Minor",
+        "is_defendant": false,
+        "case_party_id": "15349587",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349587",
+          "type": "Minor",
+          "firstName": "MELAME",
+          "middleName": "MEHARI",
+          "lastName": "SOLOMON",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "MELAME MEHARI SOLOMON",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "AMEN MEHARI SOLOMON",
+        "type": "Minor",
+        "is_defendant": false,
+        "case_party_id": "15349588",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349588",
+          "type": "Minor",
+          "firstName": "AMEN",
+          "middleName": "MEHARI",
+          "lastName": "SOLOMON",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "AMEN MEHARI SOLOMON",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 5,
+    "n_attorneys": 0,
+    "n_events": 9,
+    "n_hearings": 1,
+    "n_actions": 10,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5315918",
+        "nodeId": "11110",
+        "caseNumber": "24CV430445",
+        "caseStyle": "In the Matter of SOLOMON MEHARI et al",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15349584",
+            "type": "Petitioner",
+            "firstName": "SOLOMON",
+            "middleName": "WELDEGIORGIS",
+            "lastName": "MEHARI",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "SOLOMON WELDEGIORGIS MEHARI",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349585",
+            "type": "Petitioner",
+            "firstName": "YERUSALIYEM",
+            "middleName": "WELDGIORGIS",
+            "lastName": "SOLOMON",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "YERUSALIYEM WELDGIORGIS SOLOMON",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349586",
+            "type": "Minor",
+            "firstName": "MELAWIT",
+            "middleName": "MEHARI",
+            "lastName": "SOLOMON",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "MELAWIT MEHARI SOLOMON",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349587",
+            "type": "Minor",
+            "firstName": "MELAME",
+            "middleName": "MEHARI",
+            "lastName": "SOLOMON",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "MELAME MEHARI SOLOMON",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349588",
+            "type": "Minor",
+            "firstName": "AMEN",
+            "middleName": "MEHARI",
+            "lastName": "SOLOMON",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "AMEN MEHARI SOLOMON",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120397251",
+            "date": "4/25/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "120993569",
+            "date": "3/18/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120397182",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120397242",
+            "date": "2/6/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120397245",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120397250",
+            "date": "2/6/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120397268",
+            "date": "2/6/2024",
+            "type": "Minor's Consent to Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Minor's Consent to Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120397278",
+            "date": "2/6/2024",
+            "type": "Minor's Consent to Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Minor's Consent to Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120397283",
+            "date": "2/6/2024",
+            "type": "Minor's Consent to Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+                "documentName": "Minor's Consent to Name Change"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16249857",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/23/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5315918",
+        "caseNumber": "24CV430445",
+        "style": "In the Matter of SOLOMON MEHARI et al",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:54:22Z",
+      "sequence_in_day": 2,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 8
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Order: Proposed",
+        "date": "2024-04-25",
+        "proceedings": "Decree: Name Change"
+      },
+      {
+        "doc_id": "0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Affidavit: Proof of Publication",
+        "date": "2024-03-18",
+        "proceedings": "Affidavit: Proof of Publication"
+      },
+      {
+        "doc_id": "Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Order to Show Cause: Name Change"
+      },
+      {
+        "doc_id": "eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Minor's Consent to Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Minor's Consent to Name Change"
+      },
+      {
+        "doc_id": "RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Minor's Consent to Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Minor's Consent to Name Change"
+      },
+      {
+        "doc_id": "S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "doc_name": "Minor's Consent to Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Minor's Consent to Name Change"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-04-25",
+      "date_text": "4/25/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120397251",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397251",
+        "date": "4/25/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dK0ovfjuGA7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Order: Proposed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-18",
+      "date_text": "3/18/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "120993569",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120993569",
+        "date": "3/18/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "0tAA0mijjs7EEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120397182",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397182",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120397242",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397242",
+        "date": "2/6/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Q8YqZxiXnivEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120397245",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397245",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lLUkl0UHLxDEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120397250",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397250",
+        "date": "2/6/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yEbXFEFQKJzEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Minor's Consent to Name Change",
+      "source_section": "event",
+      "source_row_id": "120397268",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Minor's Consent to Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397268",
+        "date": "2/6/2024",
+        "type": "Minor's Consent to Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Minor's Consent to Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "eydAxJ%2FNpiPEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Minor's Consent to Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Minor's Consent to Name Change",
+      "source_section": "event",
+      "source_row_id": "120397278",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Minor's Consent to Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397278",
+        "date": "2/6/2024",
+        "type": "Minor's Consent to Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Minor's Consent to Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "RYusdMQRDELEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Minor's Consent to Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Minor's Consent to Name Change",
+      "source_section": "event",
+      "source_row_id": "120397283",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_name": "Minor's Consent to Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397283",
+        "date": "2/6/2024",
+        "type": "Minor's Consent to Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+            "documentName": "Minor's Consent to Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "S0Xfuy%2FUOTLEEzMy7tf9CLGTMIbhiPaR%2BvY6N3erio4%3D",
+        "documentName": "Minor's Consent to Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-23",
+      "date_text": "4/23/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16249857",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16249857",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/23/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

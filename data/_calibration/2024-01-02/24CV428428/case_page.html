@@ -1,0 +1,723 @@
+<!DOCTYPE html><html lang="en" ng-app="mcsPortal" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-time input{width:50px;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-datepicker-popup.dropdown-menu{display:block;float:none;margin:0;}.uib-button-bar{padding:10px 9px 2px;}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">.uib-datepicker .uib-title{width:100%;}.uib-day button,.uib-month button,.uib-year button{min-width:100%;}.uib-left,.uib-right{width:100%}</style><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8,IE=EmulateIE9,IE=EmulateIE10,chrome=1">
+    <meta name="description" content="Superior Court of California, County of Santa Clara Case Portal">
+    <meta name="author" content="Coderthemes">
+    <base href="/">
+    <title>Public Portal - Superior Court of California, County of Santa Clara </title>
+
+    <link href="/Content/css/bootstrap.min.css" rel="stylesheet">
+<link href="/Content/css/angular-toastr.css" rel="stylesheet">
+<link href="/Content/css/angular-datatables.css" rel="stylesheet">
+<link href="/Content/css/datatables.bootstrap.min.css" rel="stylesheet">
+<link href="/Content/css/buttons.dataTables.css" rel="stylesheet">
+<link href="/Content/css/ngDialog.css" rel="stylesheet">
+<link href="/Content/css/ngDialog-theme-default.css" rel="stylesheet">
+<link href="/Content/css/bootstrap-switch.css" rel="stylesheet">
+
+    <link href="/Content/css/core.css" rel="stylesheet">
+<link href="/Content/css/components.css" rel="stylesheet">
+<link href="/Content/css/icons.css" rel="stylesheet">
+<link href="/Content/css/pages.css" rel="stylesheet">
+<link href="/Content/css/menu.css" rel="stylesheet">
+<link href="/Content/css/favorites.css" rel="stylesheet">
+<link href="/Content/css/responsive.css" rel="stylesheet">
+<link href="/Content/css/bootstrap-nav-wizard.css" rel="stylesheet">
+<link href="/Content/css/menu.custom.css" rel="stylesheet">
+<link href="/Content/css/angularPrint.css" rel="stylesheet">
+<link href="/Content/css/custom.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/Scripts/tools/web/viewer.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <script async="" src="https://www.clarity.ms/tag/r1ms5es0c4"></script><script async="" src="//cdn.raygun.io/raygun4js/raygun.min.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-RlZBF+DceOCqWmazqOb46XLCUaBCQCOelQ6x5Vp23p2IQF2OluFH9XDriL4JIqbh"></script><script src="/Scripts/libs/html5shiv.js"></script>
+<script src="/Scripts/libs/respond.js"></script>
+
+    <script src="/Scripts/libs/modernizr.js"></script>
+
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script type="text/javascript">
+        !function (a, b, c, d, e, f, g, h) {
+            a.RaygunObject = e, a[e] = a[e] || function () {
+                (a[e].o = a[e].o || []).push(arguments)
+            }, f = b.createElement(c), g = b.getElementsByTagName(c)[0],
+                f.async = 1, f.src = d, g.parentNode.insertBefore(f, g), h = a.onerror, a.onerror = function (b, c, d, f, g) {
+                    h && h(b, c, d, f, g), g || (g = new Error(b)), a[e].q = a[e].q || [], a[e].q.push({
+                        e: g
+                    })
+                }
+        }(window, document, "script", "//cdn.raygun.io/raygun4js/raygun.min.js", "rg4js");
+    </script>
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "r1ms5es0c4");
+    </script>
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+
+    <!-- Navigation Bar-->
+    <header ng-controller="navigationController as vm" id="topnav">
+        <div class="topbar-main">
+            <div class="container">
+                <!-- Logo container-->
+                <!-- ngIf: vm.profile.loggedIn === false --><div class="logo" ng-if="vm.profile.loggedIn === false">
+                    <a ui-sref="home" class="logo" aria-label="Go to Public Portal homepage" href="/">
+                        <img src="/Content/images/publicPortalLogo.svg" class="sealPP" alt="Public Portal Logo">
+                    </a>
+                </div><!-- end ngIf: vm.profile.loggedIn === false -->
+                <!-- ngIf: vm.profile.loggedIn === true -->
+                <div class="menu-extras">
+                    <div class="menu-item">
+                        <!-- Mobile menu toggle-->
+                        <a tabindex="0" class="navbar-toggle" href="#">
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </a>
+                        <!-- End mobile menu toggle-->
+                    </div>
+                </div>
+                <!-- End Logo container-->
+            </div>
+        </div>
+        <!-- End topbar -->
+        <!-- Navbar Start -->
+        <nav class="navbar-custom">
+            <div class="container nav-container">
+                <div id="navigation" data-ng-init="vm.init()">
+                    <!-- Navigation Menu-->
+                    <ul class="navigation-menu">
+                        <!-- ngIf: vm.profile.loggedIn == false --><li class="has-submenu" ng-if="vm.profile.loggedIn == false" ui-sref-active="active">
+                            <a ui-sref="home" href="/"><i class="md md-home"></i>HOME</a>
+                        </li><!-- end ngIf: vm.profile.loggedIn == false -->
+                        <!-- ngIf: vm.profile.loggedIn == true -->
+                        <li class="dropdown" ui-sref-active="active">
+                            <a href="#" id="searchDropdown" class="dropdown-toggle" role="combobox" aria-controls="searchDropdownList" aria-label="Open search options" data-toggle="dropdown" aria-expanded="false" ng-mouseover="vm.toggleAriaExpandedHover('searchDropdown', true)" ng-mouseleave="vm.toggleAriaExpandedHover('searchDropdown', false)" aria-haspopup="true">
+                                <i class="md md-search"></i>SEARCH
+                            </a>
+                            <ul class="dropdown-menu" id="searchDropdownList">
+                                <li><a ui-sref="search" href="/search">CASE INFORMATION</a></li>
+                                <!-- ngIf: vm.profile.loggedIn -->
+                                
+
+                            </ul>
+
+                        </li>
+                        <li class="has-submenu hidden" ui-sref-active="active">
+                            <a ui-sref="document" href="/document"><i class="md md-document"></i>Document Viewer</a>
+                        </li>
+                        <!-- ngIf: vm.profile.loggedIn && vm.payload.jpawrole == 'ADMIN' -->
+
+                        <li class="dropdown" ui-sref-active="active">
+                            <a href="#" id="calendarDropdown" class="dropdown-toggle" role="combobox" aria-controls="calendarDropdownList" aria-label="Open calendar options" data-toggle="dropdown" aria-expanded="false" ng-mouseover="vm.toggleAriaExpandedHover('calendarDropdown', true)" ng-mouseleave="vm.toggleAriaExpandedHover('calendarDropdown', false)" aria-haspopup="true">
+                                <i class="md md-event"></i>CALENDARS
+                            </a>
+                            <ul class="dropdown-menu" id="calendarDropdownList">
+                                <li><a ui-sref="calendar({casetype: 'Civil'})" href="/calendar/Civil">Civil</a> </li>
+                                <li><a ui-sref="calendar({casetype: 'Probate'})" href="/calendar/Probate">Probate</a> </li>
+                                <li><a ui-sref="calendar({casetype: 'Family'})" href="/calendar/Family">Family – Juvenile Dependency</a> </li>
+                                <li><a ui-sref="calendar({casetype: 'Juvenile'})" href="/calendar/Juvenile">Juvenile Justice</a> </li>
+                                <li><a ui-sref="calendar({casetype: 'Traffic'})" href="/calendar/Traffic">Traffic</a></li>
+                                <li><a ui-sref="calendar({casetype: 'Criminal - Hall of Justice'})" href="/calendar/Criminal%20-%20Hall%20of%20Justice">Criminal - Hall of Justice</a></li>
+                                <li><a ui-sref="calendar({casetype: 'Criminal - Palo Alto'})" href="/calendar/Criminal%20-%20Palo%20Alto">Criminal - Palo Alto</a></li>
+                                <li><a ui-sref="calendar({casetype: 'Criminal - South County'})" href="/calendar/Criminal%20-%20South%20County">Criminal - South County</a></li>
+                            </ul>
+                        </li>
+
+                        <li ng-show="vm.getFeatureFlag('trafficRedirect') === 'false'" class="has-submenu" ui-sref-active="active" style="">
+                            <a ui-sref="traffic" aria-label="Traffic payment pay your traffic ticket" href="/traffic"><i class="md md-directions-car"></i>TRAFFIC PAYMENT</a>
+                        </li>
+                        <li ng-show="vm.getFeatureFlag('trafficRedirect')=== 'true'" class="has-submenu ng-hide" ui-sref-active="active">
+                            <a href="https://traffic.scscourt.org/traffic" aria-label="Traffic payment pay your traffic ticket"><i class="md md-directions-car"></i>TRAFFIC PAYMENT</a>
+                        </li>
+                        <!-- ngIf: !vm.profile.loggedIn --><li ng-if="!vm.profile.loggedIn" class="has-submenu" ui-sref-active="active">
+                            <a ui-sref="remotehearing" href="/remotehearing"><i class="md md-videocam"></i>REMOTE HEARING LOOKUP</a>
+                        </li><!-- end ngIf: !vm.profile.loggedIn -->
+                        <li class="dropdown" ui-sref-active="active">
+                            <a href="#" id="reservationDropdown" class="dropdown-toggle" role="combobox" data-toggle="dropdown" aria-expanded="false" ng-mouseover="vm.toggleAriaExpandedHover('reservationDropdown', true)" ng-mouseleave="vm.toggleAriaExpandedHover('reservationDropdown', false)" aria-label="Open reservation options" aria-haspopup="true" aria-controls="reservationDropdownList"><i class="far fa-calendar-plus fa-xs"></i>RESERVE</a>
+                            <ul class="dropdown-menu" id="reservationDropdownList">
+                                <!-- ngRepeat: cat in vm.courtScheduleOptions --><li ng-repeat="cat in vm.courtScheduleOptions" class="" style="">
+                                    <a ng-href="https://reservations.scscourt.org/create-reservation/1" href="https://reservations.scscourt.org/create-reservation/1">Court Hearing</a>
+                                </li><!-- end ngRepeat: cat in vm.courtScheduleOptions -->
+                            </ul>
+                        </li>
+
+                        <!-- ngIf: !vm.profile.loggedIn --><li ng-if="!vm.profile.loggedIn" class="has-submenu nav-item-float" ui-sref-active="active">
+                            <a ui-sref="login" href="/login"><i class="md md-person"></i>LOGIN </a>
+                        </li><!-- end ngIf: !vm.profile.loggedIn -->
+                        <!-- ngIf: vm.profile.loggedIn -->
+                        <!-- ngIf: vm.profile.loggedIn -->
+
+                    </ul>
+                    <!-- End navigation menu -->
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End Navigation Bar-->
+    <!-- =======================
+             ===== START PAGE ======
+             ======================= -->
+
+    <div class="wrapper" id="main-wrapper">
+        <main class="container" id="main-content">
+
+            
+<!-- uiView:  --><div ui-view="" autoscroll="true" class="" style=""><div class="row" ng-controller="caseViewController as vm" ng-init="vm.init()">
+    <div class="col-md-12">
+        <div class="card-box">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="mc-case-details"><mc-case-details id="5192500"><div ng-init="vm.init()" print-section="">
+
+
+<!-- ngIf: vm.isLoadingCase -->
+    
+<!-- ngIf: !vm.isLoadingCase && !vm.caseFound -->
+
+<!-- ngIf: !vm.isLoadingCase && vm.caseFound -->
+<div print-hide="">
+    <br><br><br>
+    <!-- ngIf: vm.calendarNavObject == null && vm.caseFound -->
+    <!-- ngIf: vm.calendarNavObject !== null && vm.caseFound -->
+    <br><br>
+</div>
+    
+    
+<div id="courtModal" role="dialog" aria-modal="true" print-hide="" ng-class="{'court-modal-show': vm.showDocViewMode, 'court-modal': !vm.showDocViewMode}">
+    <div class="court-modal-content">
+        <div class="row court-model-title">
+            <div class="col-md-8">
+                <h3 style="color: #fff;">Document Viewer</h3>
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-default pull-right" ng-click="vm.hideViewer()" type="button">
+                    <i class="md md-close"></i> CLOSE
+                </button>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center" style="padding:0;">
+                <!-- ngIf: vm.promiseAwaitLoad -->
+                <!-- ngIf: !vm.promiseAwaitLoad && vm.showBanner && !vm.profile.loggedIn -->
+                <div style="height: 700px; overflow: hidden;">
+                    <pdfjs-viewer data="vm.data"><pdfjs-wrapper>
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton group toggled" title="Show Thumbnails" tabindex="0" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton group" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="0" data-l10n-id="document_outline">
+               <span data-l10n-id="document_outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton group" title="Show Attachments" tabindex="0" data-l10n-id="attachments">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView">
+          </div>
+          <div id="outlineView" class="hidden">
+          </div>
+          <div id="attachmentsView" class="hidden">
+          </div>
+        </div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger hiddenSmallView" id="findbar">
+          <label for="findInput" class="toolbarLabel" data-l10n-id="find_label">Find:</label>
+          <input autocomplete="off" id="findInput" class="toolbarField" tabindex="0">
+          <div class="splitToolbarButton">
+            <button class="toolbarButton findPrevious" title="" id="findPrevious" tabindex="0" data-l10n-id="find_previous">
+              <span data-l10n-id="find_previous_label">Previous</span>
+            </button>
+            <div class="splitToolbarButtonSeparator"></div>
+            <button class="toolbarButton findNext" title="" id="findNext" tabindex="0" data-l10n-id="find_next">
+              <span data-l10n-id="find_next_label">Next</span>
+            </button>
+          </div>
+          <input type="checkbox" id="findHighlightAll" class="toolbarField" tabindex="0">
+          <label for="findHighlightAll" class="toolbarLabel" data-l10n-id="find_highlight">Highlight all</label>
+          <input type="checkbox" id="findMatchCase" class="toolbarField" tabindex="0">
+          <label for="findMatchCase" class="toolbarLabel" data-l10n-id="find_match_case_label">Match case</label>
+          <span id="findResultsCount" class="toolbarLabel hidden"></span>
+          <span id="findMsg" class="toolbarLabel"></span>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView" title="Switch to Presentation Mode" tabindex="0" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="0" data-l10n-id="open_file">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="0" data-l10n-id="print">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="0" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="#" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="0" data-l10n-id="bookmark">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="0" data-l10n-id="first_page">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="0" data-l10n-id="last_page">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="0" data-l10n-id="page_rotate_cw">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="0" data-l10n-id="page_rotate_ccw">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="toggleHandTool" class="secondaryToolbarButton handTool" title="Enable hand tool" tabindex="0" data-l10n-id="hand_tool_enable">
+              <span data-l10n-id="hand_tool_enable_label">Enable hand tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="0" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="0" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer"></div>
+                <button id="viewFind" class="toolbarButton group hiddenSmallView" title="Find in Document" tabindex="0" data-l10n-id="findbar">
+                   <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="0" data-l10n-id="previous">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="0" data-l10n-id="next">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <label for="pageNumber" class="toolbarLabel">Page:</label>
+                <input autocomplete="off" type="number" id="pageNumber" class="toolbarField pageNumber" title="Page" value="1" size="4" min="1" tabindex="0" data-l10n-id="page">
+                <span id="numPages" class="toolbarLabel"></span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView" title="Switch to Presentation Mode" tabindex="0" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="0" data-l10n-id="open_file">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class=" hide toolbarButton print hiddenMediumView" title="Print" tabindex="0" data-l10n-id="print">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="printer" ng-click="printer()" class="toolbarButton print hiddenMediumView" title="Print" tabindex="0" data-l10n-id="printer">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="0" data-l10n-id="download">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="#" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="0" data-l10n-id="bookmark">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="0" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div id="toolbarViewerMiddle">
+                <div class="splitToolbarButton">
+                  <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="0" data-l10n-id="zoom_out">
+                    <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="0" data-l10n-id="zoom_in">
+                    <span data-l10n-id="zoom_in_label">Zoom In</span>
+                   </button>
+                </div>
+                <label for="scaleSelect" class="toolbarLabel">Scale:</label>
+                <span id="scaleSelectContainer" class="dropdownToolbarButton">
+                  <select id="scaleSelect" title="Zoom" tabindex="0" data-l10n-id="zoom">
+                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                    <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Fit Page</option>
+                    <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Full Width</option>
+                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                    <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                    <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                    <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                    <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                    <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                    <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                    <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                  </select>
+                </span>
+              </div>
+            </div>
+            <div id="loadingBar">
+              <div class="progress">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page"></menuitem>
+          <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer" role="dialog" aria-label="Document Viewer"></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">
+              More Information
+            </button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">
+              Less Information
+            </button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">
+              Close
+            </button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" hidden="true" readonly="readonly"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file:</p>
+            </div>
+            <div class="row">
+              <!-- The type="password" attribute is set via script, to prevent warnings in Firefox for all http:// documents. -->
+              <input id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="printServiceOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="print_progress_message">Preparing document for printing…</span>
+            </div>
+            <div class="row">
+              <progress value="0" max="100"></progress>
+              <span data-l10n-id="print_progress_percent" data-l10n-args="{ &quot;progress&quot;: 0 }" class="relative-progress">0%</span>
+            </div>
+            <div class="buttonRow">
+              <button id="printCancel" class="overlayButton"><span data-l10n-id="print_progress_close">Cancel</span></button>
+            </div>
+          </div>
+        </div>
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+  </pdfjs-wrapper></pdfjs-viewer>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <button class="btn btn-primary btn-block " ng-click="vm.hideViewer()" type="button">
+                    <i class="md md-close"></i> CLOSE
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/ng-template" id="popoverTemplateFlags.html">
+    <div class="col-lg-12">
+        <span ng-repeat="flag in vm.case.caseFlags">
+            <b>{{flag.flagDescription}}</b><br />
+            <i ng-if="flag.comment !== null && flag.comment !== ''" class="tab-space"><i class="md md-keyboard-return fa-flip-horizontal"></i>{{flag.comment}}<br /></i>
+        </span>
+    </div>
+</script>
+
+<script type="text/ng-template" id="popoverTemplatePartyInJailFlags.html">
+    <div class="col-lg-12">
+        <span ng-repeat="flag in vm.case.partyInJailFlags">
+            <b>{{flag.flagDescription}}</b><br />
+            <i ng-if="flag.comment !== null && flag.comment !== '' && flag.comment !== ' '" class="tab-space"><i class="md md-keyboard-return fa-flip-horizontal"></i>{{flag.comment}}<br /></i>
+        </span>
+    </div>
+</script>
+
+<script type="text/ng-template" id="popoverTemplateActiveWarrants.html">
+    <div class="col-lg-12">
+        <span ng-repeat="warrant in vm.activeWarrants">
+            <b>{{warrant.type}}</b><br />
+            <i class="tab-space"><i class="md md-keyboard-return fa-flip-horizontal"></i>Warrant #: {{warrant.number}}<br /></i>
+        </span>
+    </div>
+</script></mc-case-details></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ngIf: false -->
+</div>
+<!-- End of Row --></div>
+
+
+        </main>
+        <!-- end container -->
+        <!-- Footer -->
+        <footer class="footer text-right">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        2026 © Superior Court of California, County of Santa Clara <br>
+
+                            Build Information: Local - 0 <br>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+    </div>
+    <!-- End wrapper -->
+    <script src="/Scripts/libs/jquery.js"></script>
+<script src="/Scripts/libs/jQuery.print.js"></script>
+<script src="/Scripts/libs/bootstrap.js"></script>
+<script src="/Scripts/libs/jquery.dataTables.js"></script>
+<script src="/Scripts/libs/dataTables.buttons.js"></script>
+<script src="/Scripts/libs/numeric-comma.js"></script>
+<script src="/Scripts/libs/buttons.print.js"></script>
+<script src="/Scripts/libs/chart.js"></script>
+<script src="/Scripts/libs/underscore.js"></script>
+<script src="/Scripts/libs/moment.js"></script>
+<script src="/Scripts/libs/bootstrap-switch.js"></script>
+<script src="/Scripts/libs/vis.js"></script>
+<script src="/Scripts/libs/angular.js"></script>
+<script src="/Scripts/libs/angular-animate.js"></script>
+<script src="/Scripts/libs/print.min.js"></script>
+<script src="/Scripts/libs/angular-touch.js"></script>
+<script src="/Scripts/libs/restangular.js"></script>
+<script src="/Scripts/libs/angular-ui-router.js"></script>
+<script src="/Scripts/libs/angular-moment.js"></script>
+<script src="/Scripts/libs/angular-chart.js"></script>
+<script src="/Scripts/libs/angular-toastr.js"></script>
+<script src="/Scripts/libs/angular-toastr.tpls.js"></script>
+<script src="/Scripts/libs/ngDialog.js"></script>
+<script src="/Scripts/libs/angular-jwt.js"></script>
+<script src="/Scripts/libs/angular-datatables.js"></script>
+<script src="/Scripts/libs/angular-datatables.bootstrap.js"></script>
+<script src="/Scripts/libs/angular-datatables.buttons.js"></script>
+<script src="/Scripts/libs/ui-bootstrap.js"></script>
+<script src="/Scripts/libs/ui-bootstrap-tpls.js"></script>
+<script src="/Scripts/libs/angular-bootstrap-switch.js"></script>
+<script src="/Scripts/libs/angular-base64.js"></script>
+<script src="/Scripts/libs/angular-pdfjs-viewer.js"></script>
+<script src="/Scripts/libs/angular-filter.js"></script>
+<script src="/Scripts/libs/calendar.js"></script>
+<script src="/Scripts/libs/ng-currency.js"></script>
+<script src="/Scripts/libs/ngMask.js"></script>
+<script src="/Scripts/libs/fullcalendar.js"></script>
+<script src="/Scripts/libs/gcal.js"></script>
+<script src="/Scripts/libs/angular-file-upload.js"></script>
+<script src="/Scripts/libs/angular-vis.js"></script>
+<script src="/Scripts/libs/time.js"></script>
+<script src="/Scripts/libs/angular-pretty-xml.js"></script>
+<script src="/Scripts/libs/api-check.min.js"></script>
+<script src="/Scripts/libs/formly.min.js"></script>
+<script src="/Scripts/libs/angular-formly-templates-bootstrap.min.js"></script>
+<script src="/Scripts/libs/angular-sanitize.js"></script>
+<script src="/Scripts/libs/angular-recaptcha.min.js"></script>
+
+    <script src="/Scripts/tools/web/pdf.js"></script>
+    <script src="/Content/js/jquery.app.js"></script>
+<script src="/Content/js/angularPrint.js"></script>
+<script src="/Scripts/app.js"></script>
+<script src="/Scripts/constants/partners.constants.js"></script>
+<script src="/Scripts/constants/routes.constants.js"></script>
+<script src="/Scripts/constants/ui.constants.js"></script>
+<script src="/Scripts/app.routes.js"></script>
+<script src="/Scripts/services/accessibilityService.js"></script>
+<script src="/Scripts/services/announcementService.js"></script>
+<script src="/Scripts/services/authTokenService.js"></script>
+<script src="/Scripts/services/caseTokenService.js"></script>
+<script src="/Scripts/services/currentUserService.js"></script>
+<script src="/Scripts/services/featureFlagService.js"></script>
+<script src="/Scripts/services/formEncoderService.js"></script>
+<script src="/Scripts/services/hearingLookupService.js"></script>
+<script src="/Scripts/services/localStorage.js"></script>
+<script src="/Scripts/services/notifyService.js"></script>
+<script src="/Scripts/services/oAuthService.js"></script>
+<script src="/Scripts/services/reportService.js"></script>
+<script src="/Scripts/services/restAngularOAuthService.js"></script>
+<script src="/Scripts/services/rtEventsService.js"></script>
+<script src="/Scripts/services/searchDataTablesHelpers.js"></script>
+<script src="/Scripts/services/sessionStorage.js"></script>
+<script src="/Scripts/services/userModel.js"></script>
+<script src="/Scripts/directives/announcements.js"></script>
+<script src="/Scripts/directives/case-details.js"></script>
+<script src="/Scripts/directives/change-password.js"></script>
+<script src="/Scripts/directives/pwCheck.js"></script>
+<script src="/Scripts/directives/search-by-casenumber.js"></script>
+<script src="/Scripts/directives/security-policy.js"></script>
+<script src="/Scripts/directives/true-false-shield.js"></script>
+<script src="/Scripts/directives/warrant-details.js"></script>
+<script src="/Scripts/filters/location.js"></script>
+<script src="/Scripts/administration/administration.routes.js"></script>
+<script src="/Scripts/controllers/advancedSearchController.js"></script>
+<script src="/Scripts/controllers/alphaSortController.js"></script>
+<script src="/Scripts/controllers/attorneyConsentDialogController.js"></script>
+<script src="/Scripts/controllers/attorneyConsentSearchController.js"></script>
+<script src="/Scripts/controllers/attorneySearchController.js"></script>
+<script src="/Scripts/controllers/businessSearchController.js"></script>
+<script src="/Scripts/controllers/calendarController.js"></script>
+<script src="/Scripts/controllers/calendarLanding.js"></script>
+<script src="/Scripts/controllers/calendarSearchController.js"></script>
+<script src="/Scripts/controllers/caseResultController.js"></script>
+<script src="/Scripts/controllers/caseViewController.js"></script>
+<script src="/Scripts/controllers/criminalProtectiveOrdersController.js"></script>
+<script src="/Scripts/controllers/dashboardController.js"></script>
+<script src="/Scripts/controllers/dcssLongController.js"></script>
+<script src="/Scripts/controllers/docsController.js"></script>
+<script src="/Scripts/controllers/favoritesController.js"></script>
+<script src="/Scripts/controllers/felonyArraignmentController.js"></script>
+<script src="/Scripts/controllers/fileDateSearchController.js"></script>
+<script src="/Scripts/controllers/hearingsSearchController.js"></script>
+<script src="/Scripts/controllers/homeController.js"></script>
+<script src="/Scripts/controllers/loginController.js"></script>
+<script src="/Scripts/controllers/logoffController.js"></script>
+<script src="/Scripts/controllers/minuteOrderController.js"></script>
+<script src="/Scripts/controllers/navController.js"></script>
+<script src="/Scripts/controllers/partyAgencySearchController.js"></script>
+<script src="/Scripts/controllers/partySearchController.js"></script>
+<script src="/Scripts/controllers/pfnSearchController.js"></script>
+<script src="/Scripts/controllers/probateNotesController.js"></script>
+<script src="/Scripts/controllers/probationController.js"></script>
+<script src="/Scripts/controllers/profileController.js"></script>
+<script src="/Scripts/controllers/reportController.js"></script>
+<script src="/Scripts/controllers/searchAttorneyHearingController.js"></script>
+<script src="/Scripts/controllers/searchController.js"></script>
+<script src="/Scripts/controllers/trafficSearchController.js"></script>
+<script src="/Scripts/controllers/warrantsController.js"></script>
+<script src="/Scripts/controllers/warrantSearchController.js"></script>
+<script src="/Scripts/controllers/warrantView.js"></script>
+<script src="/Scripts/partners/partners.routes.js"></script>
+<script src="/Scripts/partners/controllers/caHomeController.js"></script>
+<script src="/Scripts/partners/controllers/cpHomeController.js"></script>
+<script src="/Scripts/partners/controllers/daHomeController.js"></script>
+<script src="/Scripts/partners/controllers/pdHomeController.js"></script>
+<script src="/Scripts/partners/controllers/pdidoadoHomeController.js"></script>
+<script src="/Scripts/partners/controllers/prHomeController.js"></script>
+<script src="/Scripts/administration/controllers/adminEventsController.js"></script>
+<script src="/Scripts/administration/controllers/adminStatsController.js"></script>
+<script src="/Scripts/administration/controllers/manageAccountsController.js"></script>
+<script src="/Scripts/administration/controllers/manageAgenciesController.js"></script>
+<script src="/Scripts/administration/controllers/manageAgencyController.js"></script>
+<script src="/Scripts/googleAnalytics.js"></script>
+<script src="/Scripts/angular-pdfjs-viewer.js"></script>
+
+
+
+</body></html>

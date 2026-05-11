@@ -1,0 +1,6 @@
+{
+  "status": "timeout",
+  "reason": "Page.wait_for_selector: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"#caseDetails, .big-danger-text\") to be visible\n",
+  "url": "https://portal.scscourt.org/case/NTE5MjQ4Ng==",
+  "title": "Public Portal - Superior Court of California, County of Santa Clara"
+}

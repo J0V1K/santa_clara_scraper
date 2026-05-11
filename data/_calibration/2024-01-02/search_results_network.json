@@ -1,0 +1,1850 @@
+[
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/search/filedate?dateFrom=2024-01-02&dateTo=2024-01-02&caseType=Civil",
+    "method": "GET",
+    "resource_type": "document"
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/search/filedate?dateFrom=2024-01-02&dateTo=2024-01-02&caseType=Civil",
+    "status": 200
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap.min.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/angular-toastr.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/angular-datatables.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/datatables.bootstrap.min.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/buttons.dataTables.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/ngDialog.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/ngDialog-theme-default.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap-switch.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/core.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/components.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/icons.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/pages.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/menu.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/favorites.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/responsive.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap-nav-wizard.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/menu.custom.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/angularPrint.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/css/custom.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/tools/web/viewer.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/html5shiv.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/respond.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/modernizr.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/jquery.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/jQuery.print.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/bootstrap.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/jquery.dataTables.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/dataTables.buttons.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/numeric-comma.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/buttons.print.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/chart.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/underscore.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/moment.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/bootstrap-switch.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/vis.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-animate.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/print.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-touch.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/restangular.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-ui-router.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-moment.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-chart.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-toastr.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-toastr.tpls.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/ngDialog.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-jwt.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.bootstrap.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.buttons.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/ui-bootstrap.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/ui-bootstrap-tpls.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-bootstrap-switch.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-base64.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-pdfjs-viewer.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-filter.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/calendar.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/ng-currency.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/ngMask.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/fullcalendar.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/gcal.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-file-upload.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-vis.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/time.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-pretty-xml.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/api-check.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/formly.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-formly-templates-bootstrap.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-sanitize.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-recaptcha.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/tools/web/pdf.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/js/jquery.app.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/js/angularPrint.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/app.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/constants/partners.constants.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/constants/routes.constants.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/constants/ui.constants.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/app.routes.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/accessibilityService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/announcementService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/authTokenService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/caseTokenService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/currentUserService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/featureFlagService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/formEncoderService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/hearingLookupService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/localStorage.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/notifyService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/oAuthService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/reportService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/restAngularOAuthService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/rtEventsService.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/searchDataTablesHelpers.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/sessionStorage.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/services/userModel.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/announcements.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/case-details.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/change-password.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/pwCheck.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/search-by-casenumber.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/security-policy.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/true-false-shield.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/directives/warrant-details.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/filters/location.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/administration.routes.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/advancedSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/alphaSortController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneyConsentDialogController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneyConsentSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneySearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/businessSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarLanding.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/caseResultController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/caseViewController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/criminalProtectiveOrdersController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/dashboardController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/dcssLongController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/docsController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/favoritesController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/felonyArraignmentController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/fileDateSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/hearingsSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/homeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/loginController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/logoffController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/minuteOrderController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/navController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/partyAgencySearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/partySearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/pfnSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/probateNotesController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/probationController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/profileController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/reportController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/searchAttorneyHearingController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/searchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/trafficSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantsController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantSearchController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantView.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/partners.routes.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/caHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/cpHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/daHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/pdHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/pdidoadoHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/prHomeController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/adminEventsController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/adminStatsController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAccountsController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAgenciesController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAgencyController.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/angular-pdfjs-viewer.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://www.google.com/recaptcha/api.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "response",
+    "url": "https://www.google.com/recaptcha/api.js",
+    "status": 200
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap.min.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/angular-toastr.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/angular-datatables.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/datatables.bootstrap.min.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/buttons.dataTables.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/ngDialog.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap-switch.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/ngDialog-theme-default.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/core.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/components.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/icons.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/pages.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/menu.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/favorites.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/bootstrap-nav-wizard.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/responsive.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/menu.custom.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/angularPrint.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/css/custom.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/tools/web/viewer.css",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/respond.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/html5shiv.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/modernizr.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/jquery.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/jQuery.print.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/bootstrap.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/jquery.dataTables.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/dataTables.buttons.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/numeric-comma.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/buttons.print.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/chart.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/underscore.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/moment.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/bootstrap-switch.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/vis.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular.js",
+    "status": 304
+  },
+  {
+    "kind": "request",
+    "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "request",
+    "url": "https://cdn.raygun.io/raygun4js/raygun.min.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "kind": "response",
+    "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+    "status": 200
+  },
+  {
+    "kind": "response",
+    "url": "https://cdn.raygun.io/raygun4js/raygun.min.js",
+    "status": 200
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/images/publicPortalLogo.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/images/JPPortalLogo.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-animate.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/print.min.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/restangular.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-touch.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-ui-router.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-chart.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-toastr.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-toastr.tpls.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/ngDialog.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-jwt.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.bootstrap.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-datatables.buttons.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/ui-bootstrap.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-bootstrap-switch.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/ui-bootstrap-tpls.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-base64.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-filter.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-pdfjs-viewer.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/ng-currency.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/calendar.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/ngMask.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/fullcalendar.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/gcal.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-file-upload.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/time.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-vis.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-pretty-xml.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/api-check.min.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-formly-templates-bootstrap.min.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/formly.min.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-sanitize.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/navController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/partySearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/partyAgencySearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/probateNotesController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/pfnSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/profileController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/probationController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/searchAttorneyHearingController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/reportController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/searchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/trafficSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantsController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/partners.routes.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/warrantView.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/adminStatsController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAccountsController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAgenciesController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/manageAgencyController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/angular-pdfjs-viewer.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/caHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/cpHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/daHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/pdHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/pdidoadoHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/partners/controllers/prHomeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/controllers/adminEventsController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-moment.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/tools/web/pdf.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/libs/angular-recaptcha.min.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/constants/partners.constants.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/js/jquery.app.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/js/angularPrint.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/constants/routes.constants.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/constants/ui.constants.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/app.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/app.routes.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/caseTokenService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/announcementService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/authTokenService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/featureFlagService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/accessibilityService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/localStorage.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/currentUserService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/formEncoderService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/hearingLookupService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/notifyService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/oAuthService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/restAngularOAuthService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/reportService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/sessionStorage.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/rtEventsService.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/searchDataTablesHelpers.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/announcements.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/case-details.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/services/userModel.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/change-password.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/security-policy.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/pwCheck.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/true-false-shield.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/warrant-details.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/directives/search-by-casenumber.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/filters/location.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/administration/administration.routes.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneyConsentDialogController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/advancedSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/alphaSortController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/businessSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneySearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarLanding.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/caseViewController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/dcssLongController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/fileDateSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/docsController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/felonyArraignmentController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/criminalProtectiveOrdersController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/homeController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/loginController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/attorneyConsentSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/calendarController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/caseResultController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/dashboardController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/images/publicPortalLogo.svg",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/images/JPPortalLogo.svg",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/logoffController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/hearingsSearchController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/favoritesController.js",
+    "status": 304
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/controllers/minuteOrderController.js",
+    "status": 304
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/api/siteverify/key",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/api/siteverify/key",
+    "status": 200
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/api/features",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/api/announcement/",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/api/courtScheduleOptions",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Scripts/views/search-filedate.html",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/api/courtScheduleOptions",
+    "status": 404
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Scripts/views/search-filedate.html",
+    "status": 200
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/api/features",
+    "status": 200
+  },
+  {
+    "kind": "request",
+    "url": "https://portal.scscourt.org/Content/images/loading.gif",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "kind": "request",
+    "url": "https://reservationsapi-scscourts.msappproxy.net/api/v1/ConfigurationTypes/categories",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/api/announcement/",
+    "status": 200
+  },
+  {
+    "kind": "response",
+    "url": "https://portal.scscourt.org/Content/images/loading.gif",
+    "status": 200
+  },
+  {
+    "kind": "response",
+    "url": "https://reservationsapi-scscourts.msappproxy.net/api/v1/ConfigurationTypes/categories",
+    "status": 200
+  }
+]

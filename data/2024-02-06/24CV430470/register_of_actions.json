@@ -1,0 +1,502 @@
+{
+  "metadata": {
+    "case_number": "24CV430470",
+    "case_id": "5316102",
+    "case_title": "In the Matter of Timothy Martinez Chavez",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNjEwMg%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Timothy Andrew Martinez Chavez",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15350169",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15350169",
+          "type": "Petitioner",
+          "firstName": "Timothy",
+          "middleName": "Andrew",
+          "lastName": "Martinez Chavez",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Timothy Andrew Martinez Chavez",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 1,
+    "n_attorneys": 0,
+    "n_events": 6,
+    "n_hearings": 1,
+    "n_actions": 7,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5316102",
+        "nodeId": "11110",
+        "caseNumber": "24CV430470",
+        "caseStyle": "In the Matter of Timothy Martinez Chavez",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15350169",
+            "type": "Petitioner",
+            "firstName": "Timothy",
+            "middleName": "Andrew",
+            "lastName": "Martinez Chavez",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Timothy Andrew Martinez Chavez",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120401222",
+            "date": "4/24/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "120864218",
+            "date": "3/11/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120401051",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120401203",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120401204",
+            "date": "2/6/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120401214",
+            "date": "2/6/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16250230",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/23/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5316102",
+        "caseNumber": "24CV430470",
+        "style": "In the Matter of Timothy Martinez Chavez",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:55:39Z",
+      "sequence_in_day": 21,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 5
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "doc_name": "Order: Proposed",
+        "date": "2024-04-24",
+        "proceedings": "Decree: Name Change"
+      },
+      {
+        "doc_id": "5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "doc_name": "Affidavit: Proof of Publication",
+        "date": "2024-03-11",
+        "proceedings": "Affidavit: Proof of Publication"
+      },
+      {
+        "doc_id": "JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-06",
+        "proceedings": "Order to Show Cause: Name Change"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120401222",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401222",
+        "date": "4/24/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "u9qcKGs93A7EEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "documentName": "Order: Proposed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-11",
+      "date_text": "3/11/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "120864218",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120864218",
+        "date": "3/11/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5RHR1u9rtHTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120401051",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401051",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120401203",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401203",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "JigyM6VzGXHEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120401204",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401204",
+        "date": "2/6/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "m49ivduHn%2FTEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120401214",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120401214",
+        "date": "2/6/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "By6%2BOd5FzrfEEzMy7tf9CIZjBTHlAp3ccbdQeuGSSpw%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-23",
+      "date_text": "4/23/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16250230",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16250230",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/23/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

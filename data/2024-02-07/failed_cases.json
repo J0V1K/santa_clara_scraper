@@ -1,0 +1,110 @@
+[
+  {
+    "case_number": "24CV430519",
+    "case_id": "5319529",
+    "title": "TD Bank USA, N.A. vs S LAUMEISTER",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTUyOQ%3D%3D",
+    "reason": "GET https://portal.scscourt.org/api/case/5319529 blocked on attempt 3: 'Access denied.'",
+    "search_row": {
+      "caseId": "5319529",
+      "nodeId": "11110",
+      "caseNumber": "24CV430519",
+      "caseStyle": "TD Bank USA, N.A. vs S LAUMEISTER",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Closed/Inactive",
+      "caseType": "Collections Rule 3.740 Limited (09) - under 10,000",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  },
+  {
+    "case_number": "24CV430520",
+    "case_id": "5319531",
+    "title": "TD Bank USA, N.A. vs CHRISTINA LAZZOTTI",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTUzMQ%3D%3D",
+    "reason": "Unable to refresh case token: status=403 body='Access denied.'",
+    "search_row": {
+      "caseId": "5319531",
+      "nodeId": "11110",
+      "caseNumber": "24CV430520",
+      "caseStyle": "TD Bank USA, N.A. vs CHRISTINA LAZZOTTI",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Active",
+      "caseType": "Collections Rule 3.740 Limited (09) - under 10,000",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  },
+  {
+    "case_number": "24CV430534",
+    "case_id": "5319677",
+    "title": "Zheng Liu vs Selina Andrews et al",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTY3Nw%3D%3D",
+    "reason": "GET https://portal.scscourt.org/api/case/5319677 blocked on attempt 3: 'Access denied.'",
+    "search_row": {
+      "caseId": "5319677",
+      "nodeId": "11110",
+      "caseNumber": "24CV430534",
+      "caseStyle": "Zheng Liu vs Selina Andrews et al",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Active",
+      "caseType": "Breach of Contract/Warranty  Limited (06) - 10,000 to 25,000",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  },
+  {
+    "case_number": "24CV430537",
+    "case_id": "5319708",
+    "title": "U.S. Bank National Association vs Aries Padilla",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTcwOA%3D%3D",
+    "reason": "Unable to refresh case token: status=403 body='Access denied.'",
+    "search_row": {
+      "caseId": "5319708",
+      "nodeId": "11110",
+      "caseNumber": "24CV430537",
+      "caseStyle": "U.S. Bank National Association vs Aries Padilla",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Closed/Inactive",
+      "caseType": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  },
+  {
+    "case_number": "24CV430553",
+    "case_id": "5319914",
+    "title": "Westlake Services, LLC vs Jose Escobar",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTkxNA%3D%3D",
+    "reason": "GET https://portal.scscourt.org/api/case/5319914 blocked on attempt 3: 'Access denied.'",
+    "search_row": {
+      "caseId": "5319914",
+      "nodeId": "11110",
+      "caseNumber": "24CV430553",
+      "caseStyle": "Westlake Services, LLC vs Jose Escobar",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Closed/Inactive",
+      "caseType": "Collections Limited by assignee of record",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  },
+  {
+    "case_number": "24CV430554",
+    "case_id": "5319918",
+    "title": "LVNV Funding LLC vs Daria Ignateva",
+    "case_url": "https://portal.scscourt.org/case/NTMxOTkxOA%3D%3D",
+    "reason": "Unable to refresh case token: status=403 body='Access denied.'",
+    "search_row": {
+      "caseId": "5319918",
+      "nodeId": "11110",
+      "caseNumber": "24CV430554",
+      "caseStyle": "LVNV Funding LLC vs Daria Ignateva",
+      "filingDate": "2/7/2024",
+      "caseStatus": "Active",
+      "caseType": "Collections Limited by assignee of record",
+      "caseSecurityGroup": null,
+      "caseLocation": null
+    }
+  }
+]

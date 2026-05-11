@@ -1,0 +1,804 @@
+{
+  "metadata": {
+    "case_number": "24CV430556",
+    "case_id": "5319925",
+    "case_title": "U.S. Bank National Association vs Amir Jastan",
+    "filing_date": "2024-02-07",
+    "filing_date_text": "2/7/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTkyNQ%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "U.S. Bank National Association",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15358895",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358895",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "U.S. Bank National Association",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " U.S. Bank National Association",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Amir Jastan",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15358896",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358896",
+          "type": "Defendant",
+          "firstName": "Amir",
+          "middleName": "",
+          "lastName": "Jastan",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Amir Jastan",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Thomas S Van",
+        "bar_number": "209632",
+        "represented_party_text": "U.S. Bank National Association",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Thomas",
+          "middleName": "S",
+          "lastName": "Van",
+          "representing": " U.S. Bank National Association",
+          "barNumber": "209632",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Thomas S Van",
+        "bar_number": "209632",
+        "party_name": "U.S. Bank National Association",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 11,
+    "n_hearings": 0,
+    "n_actions": 11,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319925",
+        "nodeId": "11110",
+        "caseNumber": "24CV430556",
+        "caseStyle": "U.S. Bank National Association vs Amir Jastan",
+        "filingDate": "2/7/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15358895",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "U.S. Bank National Association",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " U.S. Bank National Association",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358896",
+            "type": "Defendant",
+            "firstName": "Amir",
+            "middleName": "",
+            "lastName": "Jastan",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Amir Jastan",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Thomas",
+            "middleName": "S",
+            "lastName": "Van",
+            "representing": " U.S. Bank National Association",
+            "barNumber": "209632",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "129162228",
+            "date": "3/2/2026",
+            "type": "Judgment: Default",
+            "filedBy": "U.S. Bank National Association, Amir Jastan, ",
+            "comment": "$17,268.77 SIGNED BY CLERK MAILED 3/2/25",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zt1s5Cw1r%2BOr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "JUDGMENT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "129162226",
+            "date": "2/5/2026",
+            "type": "Default Entered",
+            "filedBy": "U.S. Bank National Association, Amir Jastan, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "129162227",
+            "date": "2/5/2026",
+            "type": "Declaration: In Support",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": "Declaration: In Support of application for entry of judgment",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "24-017505 client decl. - signed.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "129162230",
+            "date": "2/5/2026",
+            "type": "Proof of Service: Mail",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": "Proof of Service: Mail",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "24-017505 pos040 re DJP - signed.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122590026",
+            "date": "8/9/2024",
+            "type": "Substitution: Attorney",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": "Old: Levy // New: Van",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "Executed SOC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121736627",
+            "date": "5/23/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "Proof of Service of Summons/Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "121334835",
+            "date": "4/16/2024",
+            "type": "Declaration: Non-Service",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "Declaration: Non-Service"
+              }
+            ]
+          },
+          {
+            "eventId": "120428528",
+            "date": "2/7/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120428584",
+            "date": "2/7/2024",
+            "type": "Complaint (Limited): Over $10K",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "Complaintbetween $10K and $25K"
+              }
+            ]
+          },
+          {
+            "eventId": "120428586",
+            "date": "2/7/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "JasCover.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120428588",
+            "date": "2/7/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "U.S. Bank National Association, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+                "documentName": "JasSummons.pdf"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319925",
+        "caseNumber": "24CV430556",
+        "style": "U.S. Bank National Association vs Amir Jastan",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - 10,000 - 35,000",
+        "typeId": "3.740-2A",
+        "fileDate": "2/7/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:50:59Z",
+      "sequence_in_day": 27,
+      "downloaded_documents": 1,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 9
+    },
+    "downloaded_documents": [
+      "2026-03-02_judgment-pending_669da3d32684.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2026-02-05",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "24-017505 client decl. - signed.pdf",
+        "date": "2026-02-05",
+        "proceedings": "Declaration: In Support"
+      },
+      {
+        "doc_id": "ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "24-017505 pos040 re DJP - signed.pdf",
+        "date": "2026-02-05",
+        "proceedings": "Proof of Service: Mail"
+      },
+      {
+        "doc_id": "NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "Executed SOC.pdf",
+        "date": "2024-08-09",
+        "proceedings": "Substitution: Attorney"
+      },
+      {
+        "doc_id": "TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "Proof of Service of Summons/Complaint",
+        "date": "2024-05-23",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "Declaration: Non-Service",
+        "date": "2024-04-16",
+        "proceedings": "Declaration: Non-Service"
+      },
+      {
+        "doc_id": "vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "Complaintbetween $10K and $25K",
+        "date": "2024-02-07",
+        "proceedings": "Complaint (Limited): Over $10K"
+      },
+      {
+        "doc_id": "W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "JasCover.pdf",
+        "date": "2024-02-07",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "doc_name": "JasSummons.pdf",
+        "date": "2024-02-07",
+        "proceedings": "Summons: Issued/Filed"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "date_text": "3/2/2026",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "129162228",
+      "filed_by": "U.S. Bank National Association, Amir Jastan, ",
+      "comment": "$17,268.77 SIGNED BY CLERK MAILED 3/2/25",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zt1s5Cw1r%2BOr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "JUDGMENT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zt1s5Cw1r%2BOr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": "2026-03-02_judgment-pending_669da3d32684.pdf",
+      "raw": {
+        "eventId": "129162228",
+        "date": "3/2/2026",
+        "type": "Judgment: Default",
+        "filedBy": "U.S. Bank National Association, Amir Jastan, ",
+        "comment": "$17,268.77 SIGNED BY CLERK MAILED 3/2/25",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zt1s5Cw1r%2BOr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "JUDGMENT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zt1s5Cw1r%2BOr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "JUDGMENT PENDING"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2026-02-05",
+      "date_text": "2/5/2026",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "129162226",
+      "filed_by": "U.S. Bank National Association, Amir Jastan, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129162226",
+        "date": "2/5/2026",
+        "type": "Default Entered",
+        "filedBy": "U.S. Bank National Association, Amir Jastan, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uwne1mitsiSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-05",
+      "date_text": "2/5/2026",
+      "proceedings": "Declaration: In Support",
+      "source_section": "event",
+      "source_row_id": "129162227",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": "Declaration: In Support of application for entry of judgment",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "24-017505 client decl. - signed.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129162227",
+        "date": "2/5/2026",
+        "type": "Declaration: In Support",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": "Declaration: In Support of application for entry of judgment",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "24-017505 client decl. - signed.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ttfFy9SVsxGr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "24-017505 client decl. - signed.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-05",
+      "date_text": "2/5/2026",
+      "proceedings": "Proof of Service: Mail",
+      "source_section": "event",
+      "source_row_id": "129162230",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": "Proof of Service: Mail",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "24-017505 pos040 re DJP - signed.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129162230",
+        "date": "2/5/2026",
+        "type": "Proof of Service: Mail",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": "Proof of Service: Mail",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "24-017505 pos040 re DJP - signed.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ahRbMhyt2wSr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "24-017505 pos040 re DJP - signed.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-09",
+      "date_text": "8/9/2024",
+      "proceedings": "Substitution: Attorney",
+      "source_section": "event",
+      "source_row_id": "122590026",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": "Old: Levy // New: Van",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "Executed SOC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122590026",
+        "date": "8/9/2024",
+        "type": "Substitution: Attorney",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": "Old: Levy // New: Van",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "Executed SOC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "NMxg5dEt%2Flmr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "Executed SOC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-23",
+      "date_text": "5/23/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "121736627",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "Proof of Service of Summons/Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121736627",
+        "date": "5/23/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "Proof of Service of Summons/Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TfPprC2xjVur0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "Proof of Service of Summons/Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-16",
+      "date_text": "4/16/2024",
+      "proceedings": "Declaration: Non-Service",
+      "source_section": "event",
+      "source_row_id": "121334835",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "Declaration: Non-Service",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121334835",
+        "date": "4/16/2024",
+        "type": "Declaration: Non-Service",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "Declaration: Non-Service"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BELmdHTdrxar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "Declaration: Non-Service"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120428528",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428528",
+        "date": "2/7/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Complaint (Limited): Over $10K",
+      "source_section": "event",
+      "source_row_id": "120428584",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "Complaintbetween $10K and $25K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428584",
+        "date": "2/7/2024",
+        "type": "Complaint (Limited): Over $10K",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "Complaintbetween $10K and $25K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "vmaBkl5sI3qr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "Complaintbetween $10K and $25K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120428586",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "JasCover.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428586",
+        "date": "2/7/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "JasCover.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "W6uVLEepgzqr0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "JasCover.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120428588",
+      "filed_by": "U.S. Bank National Association, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_name": "JasSummons.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120428588",
+        "date": "2/7/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "U.S. Bank National Association, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+            "documentName": "JasSummons.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "gvF9sUs2Ooar0bTrg7GvnIsOJouL2XeZh0e0qm%2FQhhs%3D",
+        "documentName": "JasSummons.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

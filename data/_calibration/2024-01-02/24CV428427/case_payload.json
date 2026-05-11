@@ -1,0 +1,257 @@
+{
+  "caseParties": [
+    {
+      "attorneys": [],
+      "casePartyId": "15090807",
+      "type": "Plaintiff",
+      "firstName": "",
+      "middleName": "",
+      "lastName": "Wells Fargo Bank, N.A.",
+      "nickName": null,
+      "businessName": null,
+      "fullName": " Wells Fargo Bank, N.A.",
+      "isDefendant": false
+    },
+    {
+      "attorneys": [],
+      "casePartyId": "15090808",
+      "type": "Defendant",
+      "firstName": "Agnes",
+      "middleName": "V",
+      "lastName": "Sughayar",
+      "nickName": null,
+      "businessName": null,
+      "fullName": "Agnes V Sughayar",
+      "isDefendant": true
+    }
+  ],
+  "caseAttornies": [
+    {
+      "firstName": "Ashley",
+      "middleName": "",
+      "lastName": "Mulhorn",
+      "representing": " Wells Fargo Bank, N.A.",
+      "barNumber": "334640",
+      "isLead": true
+    }
+  ],
+  "caseEvents": [
+    {
+      "eventId": "123097086",
+      "date": "9/30/2024",
+      "type": "Judgment: Satisfaction",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "FULL",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "Vduqv3ELXwPl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Judgment: Satisfaction"
+        }
+      ]
+    },
+    {
+      "eventId": "122115838",
+      "date": "7/2/2024",
+      "type": "Abstract of Judgment: Issued",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": null,
+      "documentId": null,
+      "documents": []
+    },
+    {
+      "eventId": "121782528",
+      "date": "5/31/2024",
+      "type": "Judgment: Default",
+      "filedBy": "Wells Fargo Bank, N.A., Agnes Sughayar, ",
+      "comment": "$6,637.05, signed by clerk, mailed on 5/31/24",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "N5aDNlMinhHl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Judgment Pending"
+        }
+      ]
+    },
+    {
+      "eventId": "121782522",
+      "date": "5/29/2024",
+      "type": "Default Entered",
+      "filedBy": "Wells Fargo Bank, N.A., Agnes Sughayar, ",
+      "comment": null,
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "2KiYd2l9donl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "DEFAULT PENDING"
+        }
+      ]
+    },
+    {
+      "eventId": "121782524",
+      "date": "5/29/2024",
+      "type": "Declaration: In Support",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": null,
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "O7%2BJopWy3kbl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "98872DECLARAT010e1d5"
+        }
+      ]
+    },
+    {
+      "eventId": "121782525",
+      "date": "5/29/2024",
+      "type": "Declaration",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "Re: nonmilitary status",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "xe7tAFbFLr3l1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Declaration"
+        }
+      ]
+    },
+    {
+      "eventId": "121782527",
+      "date": "5/29/2024",
+      "type": "Declaration:  CCP 1033",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": null,
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "%2Fmk58LSrlLrl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Declaration:  CCP 1033"
+        }
+      ]
+    },
+    {
+      "eventId": "121152643",
+      "date": "4/2/2024",
+      "type": "Default Entered",
+      "filedBy": "Wells Fargo Bank, N.A., Agnes Sughayar, ",
+      "comment": "Basic",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "8K0G3cWm%2BGbl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "DEFAULT PENDING"
+        }
+      ]
+    },
+    {
+      "eventId": "120869694",
+      "date": "3/8/2024",
+      "type": "Proof of Service: Summons DLR (Civil)",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "Proof of Service (Comment)",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "DL1GWCw22ufl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Proof of Service: Summons DLR"
+        }
+      ]
+    },
+    {
+      "eventId": "119788198",
+      "date": "1/2/2024",
+      "type": "New Filed Case",
+      "filedBy": "",
+      "comment": null,
+      "documentId": null,
+      "documents": []
+    },
+    {
+      "eventId": "119788216",
+      "date": "1/2/2024",
+      "type": "Complaint (Limited): Up to $10K",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "Complaint (Case Initiation)",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "F%2FvFu%2F5CK2Xl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "Complaint: Up to $10K"
+        }
+      ]
+    },
+    {
+      "eventId": "119788217",
+      "date": "1/2/2024",
+      "type": "Civil Case Cover Sheet",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "Civil Case Cover Sheet (Comment)",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "sbxdZ%2Fzq7%2Frl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "89209CivilCas010ac10"
+        }
+      ]
+    },
+    {
+      "eventId": "119788218",
+      "date": "1/2/2024",
+      "type": "Summons: Issued/Filed",
+      "filedBy": "Wells Fargo Bank, N.A., ",
+      "comment": "Summons (Summons)",
+      "documentId": null,
+      "documents": [
+        {
+          "documentId": "EhuQJ24ovUTl1%2FJ55Zjuw%2FL%2BQurV464Y3ynOnVQfUb0%3D",
+          "documentName": "89209SummonsS0309682"
+        }
+      ]
+    }
+  ],
+  "caseHearings": [],
+  "caseOtherDocuments": [],
+  "caseCharges": [],
+  "caseFinancials": [],
+  "caseFinancialTransactions": [],
+  "caseArrestInfomation": [],
+  "casePartyDemographics": {
+    "race": null,
+    "sex": null,
+    "dateOfBirth": null,
+    "height": null,
+    "weight": null,
+    "hairColor": null,
+    "eyeColor": null
+  },
+  "casePartyAddress": {
+    "streetName": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "casePartyIdentification": [],
+  "caseDocuments": [],
+  "minuteOrders": [],
+  "caseFlags": [],
+  "partyInJailFlags": [],
+  "caseBonds": [],
+  "caseWarrants": [],
+  "caseCrossReferenceNumbers": [],
+  "relatedCases": [],
+  "id": "5192486",
+  "caseNumber": "24CV428427",
+  "style": "Wells Fargo Bank, N.A. vs Agnes Sughayar",
+  "caseCategory": 1,
+  "type": "Collections Rule 3.740 Limited (09) - under 10,000",
+  "typeId": "3.740-1A",
+  "fileDate": "1/2/2024",
+  "securityGroup": null,
+  "status": "Closed/Inactive",
+  "courtLocation": "Civil",
+  "caseSubType": null,
+  "nodeId": 11110,
+  "permission": 0,
+  "isSecuredAccess": false,
+  "isCriminal": false
+}

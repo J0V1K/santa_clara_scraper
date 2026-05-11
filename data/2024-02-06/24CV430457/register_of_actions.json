@@ -1,0 +1,1059 @@
+{
+  "metadata": {
+    "case_number": "24CV430457",
+    "case_id": "5315947",
+    "case_title": "LVNV Funding LLC vs Francisco Maya",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Collections Limited by assignee of record",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxNTk0Nw%3D%3D",
+    "portal_search_case_type": "Collections Limited by assignee of record",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "LVNV Funding LLC",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15349678",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349678",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "LVNV Funding LLC",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " LVNV Funding LLC",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Francisco Valdes Maya",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15349679",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15349679",
+          "type": "Defendant",
+          "firstName": "Francisco",
+          "middleName": "Valdes",
+          "lastName": "Maya",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Francisco Valdes Maya",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Martin Ryan Weingarten",
+        "bar_number": "201906",
+        "represented_party_text": "LVNV Funding LLC",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Martin",
+          "middleName": "Ryan",
+          "lastName": "Weingarten",
+          "representing": " LVNV Funding LLC",
+          "barNumber": "201906",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Martin Ryan Weingarten",
+        "bar_number": "201906",
+        "party_name": "LVNV Funding LLC",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 16,
+    "n_hearings": 0,
+    "n_actions": 16,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5315947",
+        "nodeId": "11110",
+        "caseNumber": "24CV430457",
+        "caseStyle": "LVNV Funding LLC vs Francisco Maya",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Limited by assignee of record",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15349678",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "LVNV Funding LLC",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " LVNV Funding LLC",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15349679",
+            "type": "Defendant",
+            "firstName": "Francisco",
+            "middleName": "Valdes",
+            "lastName": "Maya",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Francisco Valdes Maya",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Martin",
+            "middleName": "Ryan",
+            "lastName": "Weingarten",
+            "representing": " LVNV Funding LLC",
+            "barNumber": "201906",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "121425221",
+            "date": "9/17/2024",
+            "type": "Judgment: Default",
+            "filedBy": "LVNV Funding LLC, Francisco Maya, ",
+            "comment": "$4,381.43, signed by Judge Manoukian, mailed on 9/17/24",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Judgment PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "121425213",
+            "date": "4/24/2024",
+            "type": "LT Court Default Pending",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "121425214",
+            "date": "4/24/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "DOES",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "121425215",
+            "date": "4/24/2024",
+            "type": "Declaration:  CCP 1033",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: 1033",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Declaration:  CCP 1033"
+              }
+            ]
+          },
+          {
+            "eventId": "121425216",
+            "date": "4/24/2024",
+            "type": "Affidavit",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: 1788",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Mandarich_4789234_d1788_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121425217",
+            "date": "4/24/2024",
+            "type": "Affidavit",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: Copies",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Mandarich_4789234_copies_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121425219",
+            "date": "4/24/2024",
+            "type": "Affidavit",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: Fees",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Mandarich_4789234_fees_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121489859",
+            "date": "4/24/2024",
+            "type": "Default Entered",
+            "filedBy": "",
+            "comment": "DEFAULT ENTERED - ANNOTATED",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Annotated Default"
+              }
+            ]
+          },
+          {
+            "eventId": "120568262",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "POS_eABC_TN_0125140718_Proof_153208802.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397856",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120397857",
+            "date": "2/6/2024",
+            "type": "Declaration",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120397901",
+            "date": "2/6/2024",
+            "type": "Complaint (Limited): Filed by Assignee <$5K",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Complaint: Filed by Assignee <$5K"
+              }
+            ]
+          },
+          {
+            "eventId": "120397905",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "4789234 sum_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397906",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "4789234 ccs_eABC.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120397907",
+            "date": "2/6/2024",
+            "type": "Affidavit:  Venue",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: Declaration of Venue",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "Affidavit:  Venue"
+              }
+            ]
+          },
+          {
+            "eventId": "120397909",
+            "date": "2/6/2024",
+            "type": "Declaration",
+            "filedBy": "LVNV Funding LLC, ",
+            "comment": "Re: Fee",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+                "documentName": "4789234 rfe_eABC.pdf"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5315947",
+        "caseNumber": "24CV430457",
+        "style": "LVNV Funding LLC vs Francisco Maya",
+        "caseCategory": 1,
+        "type": "Collections Limited by assignee of record",
+        "typeId": "CVLC",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:55:02Z",
+      "sequence_in_day": 12,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 14
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Judgment PENDING",
+        "date": "2024-09-17",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-04-24",
+        "proceedings": "LT Court Default Pending"
+      },
+      {
+        "doc_id": "2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Request for Dismissal",
+        "date": "2024-04-24",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Declaration:  CCP 1033",
+        "date": "2024-04-24",
+        "proceedings": "Declaration:  CCP 1033"
+      },
+      {
+        "doc_id": "WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Mandarich_4789234_d1788_eABC.pdf",
+        "date": "2024-04-24",
+        "proceedings": "Affidavit"
+      },
+      {
+        "doc_id": "Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Mandarich_4789234_copies_eABC.pdf",
+        "date": "2024-04-24",
+        "proceedings": "Affidavit"
+      },
+      {
+        "doc_id": "9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Mandarich_4789234_fees_eABC.pdf",
+        "date": "2024-04-24",
+        "proceedings": "Affidavit"
+      },
+      {
+        "doc_id": "V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Annotated Default",
+        "date": "2024-04-24",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "POS_eABC_TN_0125140718_Proof_153208802.pdf",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Complaint: Filed by Assignee <$5K",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Limited): Filed by Assignee <$5K"
+      },
+      {
+        "doc_id": "baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "4789234 sum_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "4789234 ccs_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "Affidavit:  Venue",
+        "date": "2024-02-06",
+        "proceedings": "Affidavit:  Venue"
+      },
+      {
+        "doc_id": "olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "doc_name": "4789234 rfe_eABC.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Declaration"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-09-17",
+      "date_text": "9/17/2024",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "121425221",
+      "filed_by": "LVNV Funding LLC, Francisco Maya, ",
+      "comment": "$4,381.43, signed by Judge Manoukian, mailed on 9/17/24",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Judgment PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425221",
+        "date": "9/17/2024",
+        "type": "Judgment: Default",
+        "filedBy": "LVNV Funding LLC, Francisco Maya, ",
+        "comment": "$4,381.43, signed by Judge Manoukian, mailed on 9/17/24",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Judgment PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "kUhFo%2FStFJ%2FEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Judgment PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "LT Court Default Pending",
+      "source_section": "event",
+      "source_row_id": "121425213",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425213",
+        "date": "4/24/2024",
+        "type": "LT Court Default Pending",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "ysItkcOS3fDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "121425214",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "DOES",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425214",
+        "date": "4/24/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "DOES",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "2hUJOlmLrUvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Declaration:  CCP 1033",
+      "source_section": "event",
+      "source_row_id": "121425215",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: 1033",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Declaration:  CCP 1033",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425215",
+        "date": "4/24/2024",
+        "type": "Declaration:  CCP 1033",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: 1033",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Declaration:  CCP 1033"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mLOF76m%2F%2BjPEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Declaration:  CCP 1033"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Affidavit",
+      "source_section": "event",
+      "source_row_id": "121425216",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: 1788",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Mandarich_4789234_d1788_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425216",
+        "date": "4/24/2024",
+        "type": "Affidavit",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: 1788",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Mandarich_4789234_d1788_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WqHDNSwuICbEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Mandarich_4789234_d1788_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Affidavit",
+      "source_section": "event",
+      "source_row_id": "121425217",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: Copies",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Mandarich_4789234_copies_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425217",
+        "date": "4/24/2024",
+        "type": "Affidavit",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: Copies",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Mandarich_4789234_copies_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Vio0saGVHUjEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Mandarich_4789234_copies_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Affidavit",
+      "source_section": "event",
+      "source_row_id": "121425219",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: Fees",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Mandarich_4789234_fees_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121425219",
+        "date": "4/24/2024",
+        "type": "Affidavit",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: Fees",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Mandarich_4789234_fees_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "9rCOJEAddB3EEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Mandarich_4789234_fees_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-24",
+      "date_text": "4/24/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "121489859",
+      "filed_by": "",
+      "comment": "DEFAULT ENTERED - ANNOTATED",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Annotated Default",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121489859",
+        "date": "4/24/2024",
+        "type": "Default Entered",
+        "filedBy": "",
+        "comment": "DEFAULT ENTERED - ANNOTATED",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Annotated Default"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "V7%2FB8wSdwZvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Annotated Default"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120568262",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "POS_eABC_TN_0125140718_Proof_153208802.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120568262",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "POS_eABC_TN_0125140718_Proof_153208802.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "CAqHjXglgYvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "POS_eABC_TN_0125140718_Proof_153208802.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120397856",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397856",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "120397857",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397857",
+        "date": "2/6/2024",
+        "type": "Declaration",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Limited): Filed by Assignee <$5K",
+      "source_section": "event",
+      "source_row_id": "120397901",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Complaint: Filed by Assignee <$5K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397901",
+        "date": "2/6/2024",
+        "type": "Complaint (Limited): Filed by Assignee <$5K",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Complaint: Filed by Assignee <$5K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "GjMarIOKv0LEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Complaint: Filed by Assignee <$5K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120397905",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "4789234 sum_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397905",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "4789234 sum_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "baIGVO%2F5yxnEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "4789234 sum_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120397906",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "4789234 ccs_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397906",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "4789234 ccs_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WhjOjQhlIhDEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "4789234 ccs_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Affidavit:  Venue",
+      "source_section": "event",
+      "source_row_id": "120397907",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: Declaration of Venue",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "Affidavit:  Venue",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397907",
+        "date": "2/6/2024",
+        "type": "Affidavit:  Venue",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: Declaration of Venue",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "Affidavit:  Venue"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zTjdDZXL4jfEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "Affidavit:  Venue"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "120397909",
+      "filed_by": "LVNV Funding LLC, ",
+      "comment": "Re: Fee",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_name": "4789234 rfe_eABC.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120397909",
+        "date": "2/6/2024",
+        "type": "Declaration",
+        "filedBy": "LVNV Funding LLC, ",
+        "comment": "Re: Fee",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+            "documentName": "4789234 rfe_eABC.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "olI%2F6jVT0wvEEzMy7tf9CIZjBTHlAp3cr9Q23L0JU3w%3D",
+        "documentName": "4789234 rfe_eABC.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

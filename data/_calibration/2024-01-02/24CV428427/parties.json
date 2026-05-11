@@ -1,0 +1,26 @@
+[
+  {
+    "attorneys": [],
+    "casePartyId": "15090807",
+    "type": "Plaintiff",
+    "firstName": "",
+    "middleName": "",
+    "lastName": "Wells Fargo Bank, N.A.",
+    "nickName": null,
+    "businessName": null,
+    "fullName": " Wells Fargo Bank, N.A.",
+    "isDefendant": false
+  },
+  {
+    "attorneys": [],
+    "casePartyId": "15090808",
+    "type": "Defendant",
+    "firstName": "Agnes",
+    "middleName": "V",
+    "lastName": "Sughayar",
+    "nickName": null,
+    "businessName": null,
+    "fullName": "Agnes V Sughayar",
+    "isDefendant": true
+  }
+]

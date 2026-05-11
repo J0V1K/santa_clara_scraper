@@ -1,0 +1,1883 @@
+{
+  "metadata": {
+    "case_number": "24CV430499",
+    "case_id": "5319352",
+    "case_title": "Yin Chen-Guerra vs Dean Poshard et al",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Other Real Property Unlimited (26)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Active",
+    "court_location": "Civil",
+    "department": "Department 6",
+    "departments": [
+      "Department 6"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTM1Mg%3D%3D",
+    "portal_search_case_type": "Other Real Property Unlimited (26)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Yin Tung Chen-Guerra",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15356932",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356932",
+          "type": "Plaintiff",
+          "firstName": "Yin",
+          "middleName": "Tung",
+          "lastName": "Chen-Guerra",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Yin Tung Chen-Guerra",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Dean Poshard",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15356933",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356933",
+          "type": "Defendant",
+          "firstName": "Dean",
+          "middleName": "",
+          "lastName": "Poshard",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Dean Poshard",
+          "isDefendant": true
+        },
+        "pro_se": true
+      },
+      {
+        "name": "Platte River Insurance Company",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15356934",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356934",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "Platte River Insurance Company",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " Platte River Insurance Company",
+          "isDefendant": true
+        },
+        "pro_se": false
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Matthew Emmett Coleman",
+        "bar_number": "187264",
+        "represented_party_text": "Yin Tung Chen-Guerra",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Matthew",
+          "middleName": "Emmett",
+          "lastName": "Coleman",
+          "representing": "Yin Tung Chen-Guerra",
+          "barNumber": "187264",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Stacie Louise Brandt",
+        "bar_number": "166399",
+        "represented_party_text": "Platte River Insurance Company",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Stacie",
+          "middleName": "Louise",
+          "lastName": "Brandt",
+          "representing": " Platte River Insurance Company",
+          "barNumber": "166399",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Matthew Emmett Coleman",
+        "bar_number": "187264",
+        "party_name": "Yin Tung Chen-Guerra",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Stacie Louise Brandt",
+        "bar_number": "166399",
+        "party_name": "Platte River Insurance Company",
+        "party_role": "Defendant"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": true,
+    "n_parties": 3,
+    "n_attorneys": 2,
+    "n_events": 26,
+    "n_hearings": 2,
+    "n_actions": 29,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319352",
+        "nodeId": "11110",
+        "caseNumber": "24CV430499",
+        "caseStyle": "Yin Chen-Guerra vs Dean Poshard et al",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Active",
+        "caseType": "Other Real Property Unlimited (26)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15356932",
+            "type": "Plaintiff",
+            "firstName": "Yin",
+            "middleName": "Tung",
+            "lastName": "Chen-Guerra",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Yin Tung Chen-Guerra",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356933",
+            "type": "Defendant",
+            "firstName": "Dean",
+            "middleName": "",
+            "lastName": "Poshard",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Dean Poshard",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356934",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "Platte River Insurance Company",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " Platte River Insurance Company",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Matthew",
+            "middleName": "Emmett",
+            "lastName": "Coleman",
+            "representing": "Yin Tung Chen-Guerra",
+            "barNumber": "187264",
+            "isLead": true
+          },
+          {
+            "firstName": "Stacie",
+            "middleName": "Louise",
+            "lastName": "Brandt",
+            "representing": " Platte River Insurance Company",
+            "barNumber": "166399",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "130133434",
+            "date": "4/20/2026",
+            "type": "UN Court Default Pending",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "130133442",
+            "date": "4/20/2026",
+            "type": "Memorandum: Points and Authorities",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Memorandum of Points & Authorities",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Memorandum In Support of Judgment.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "130133447",
+            "date": "4/20/2026",
+            "type": "Declaration",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Declaration",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Dec of Chen Guerra Final with Ex.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "130133450",
+            "date": "4/20/2026",
+            "type": "Declaration",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Declaration",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "MEC Dec re Judgment Final.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "130133452",
+            "date": "4/20/2026",
+            "type": "Declaration",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Declaration",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "MEC Dec re Interest Final.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "130133454",
+            "date": "4/20/2026",
+            "type": "Judgment: Default",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": " PROPOSED",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "JUDGMENT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "130133455",
+            "date": "4/20/2026",
+            "type": "Request: Dismissal",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Request for Dismissal of Does ",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Request for Dismissal- DOES Signed.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "130133457",
+            "date": "4/20/2026",
+            "type": "Proof of Service: Electronic",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Proof of Service",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Proof of Service .pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "127250117",
+            "date": "7/30/2025",
+            "type": "Default Entered",
+            "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+            "comment": "Basic",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Default Pending"
+              }
+            ]
+          },
+          {
+            "eventId": "126989296",
+            "date": "7/8/2025",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Proof of Service of Summons/Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "POS Poshard Updated.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "123864327",
+            "date": "12/5/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Request for Partial Dismissal * Complaint as to Defendant Platte River Insurance Company only",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Request for Dismissal- Platte.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "123684146",
+            "date": "11/19/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "123648831",
+            "date": "11/15/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "CMC111924 Signed.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122311586",
+            "date": "7/23/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Proof of Service of Summons/Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Poshard,Dean DGP Innovations-PROOF 7.15.2024.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122316455",
+            "date": "7/23/2024",
+            "type": "Default Not Entered",
+            "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+            "comment": "No affidavit of due diligence provided with POS010 filed on 07/23/2024. Date of mailing is not valid on item 5b(4).",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "122337465",
+            "date": "7/23/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "122283423",
+            "date": "7/19/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "CMC072324 Signed.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "122161862",
+            "date": "7/8/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Platte River Insurance Company, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "CMC Stmt 07-08-24.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121963198",
+            "date": "6/17/2024",
+            "type": "Default Not Entered",
+            "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+            "comment": "def's name in item #6b2 of the CIV-100 and item #3a on the POS-010 do not match the Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "121671430",
+            "date": "5/16/2024",
+            "type": "Answer/Response (No Fee)",
+            "filedBy": "Platte River Insurance Company, ",
+            "comment": "to complaint, Atty Brandt",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Answer Platte River 24-0516.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121461685",
+            "date": "4/29/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Yin Chen-Guerra, Platte River Insurance Company, ",
+            "comment": "Proof of Service of Summons/Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "POS Platte.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "121347477",
+            "date": "4/17/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+            "comment": "Proof of Service of Summons/Complaint",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Poshard,Dean-PROOF.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120417557",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120417580",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Summons: Issued/Filed"
+              }
+            ]
+          },
+          {
+            "eventId": "120417581",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Civil Case Cover Sheet.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "120417582",
+            "date": "2/6/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Yin Chen-Guerra, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16251577",
+            "calendar": "Department 6",
+            "type": "Conference: Case Management",
+            "date": "7/23/2024",
+            "time": "2:10PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16485818",
+            "calendar": "Department 6",
+            "type": "Conference: Further Case Management",
+            "date": "11/19/2024",
+            "time": "10:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+                "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+              }
+            ]
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319352",
+        "caseNumber": "24CV430499",
+        "style": "Yin Chen-Guerra vs Dean Poshard et al",
+        "caseCategory": 1,
+        "type": "Other Real Property Unlimited (26)",
+        "typeId": "26-1B",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Active",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:57:08Z",
+      "sequence_in_day": 48,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 28
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2026-04-20",
+        "proceedings": "UN Court Default Pending"
+      },
+      {
+        "doc_id": "5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Memorandum In Support of Judgment.pdf",
+        "date": "2026-04-20",
+        "proceedings": "Memorandum: Points and Authorities"
+      },
+      {
+        "doc_id": "lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Dec of Chen Guerra Final with Ex.pdf",
+        "date": "2026-04-20",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "MEC Dec re Judgment Final.pdf",
+        "date": "2026-04-20",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "MEC Dec re Interest Final.pdf",
+        "date": "2026-04-20",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "JUDGMENT PENDING",
+        "date": "2026-04-20",
+        "proceedings": "Judgment: Default"
+      },
+      {
+        "doc_id": "erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Request for Dismissal- DOES Signed.pdf",
+        "date": "2026-04-20",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Proof of Service .pdf",
+        "date": "2026-04-20",
+        "proceedings": "Proof of Service: Electronic"
+      },
+      {
+        "doc_id": "O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Default Pending",
+        "date": "2025-07-30",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "POS Poshard Updated.pdf",
+        "date": "2025-07-08",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Request for Dismissal- Platte.pdf",
+        "date": "2024-12-05",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-19",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "CMC111924 Signed.pdf",
+        "date": "2024-11-15",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Poshard,Dean DGP Innovations-PROOF 7.15.2024.pdf",
+        "date": "2024-07-23",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-07-23",
+        "proceedings": "Default Not Entered"
+      },
+      {
+        "doc_id": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "CMC072324 Signed.pdf",
+        "date": "2024-07-19",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "CMC Stmt 07-08-24.pdf",
+        "date": "2024-07-08",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-06-17",
+        "proceedings": "Default Not Entered"
+      },
+      {
+        "doc_id": "2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Answer Platte River 24-0516.pdf",
+        "date": "2024-05-16",
+        "proceedings": "Answer/Response (No Fee)"
+      },
+      {
+        "doc_id": "w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "POS Platte.pdf",
+        "date": "2024-04-29",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Poshard,Dean-PROOF.pdf",
+        "date": "2024-04-17",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Summons: Issued/Filed",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Civil Case Cover Sheet.pdf",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Complaint",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-11-19",
+        "proceedings": "Conference: Further Case Management"
+      },
+      {
+        "doc_id": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+        "date": "2024-11-19",
+        "proceedings": "Conference: Further Case Management"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "UN Court Default Pending",
+      "source_section": "event",
+      "source_row_id": "130133434",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133434",
+        "date": "4/20/2026",
+        "type": "UN Court Default Pending",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "i8ssTePGQX3EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Memorandum: Points and Authorities",
+      "source_section": "event",
+      "source_row_id": "130133442",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Memorandum of Points & Authorities",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Memorandum In Support of Judgment.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133442",
+        "date": "4/20/2026",
+        "type": "Memorandum: Points and Authorities",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Memorandum of Points & Authorities",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Memorandum In Support of Judgment.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5umKtk7TNOPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Memorandum In Support of Judgment.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "130133447",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Declaration",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Dec of Chen Guerra Final with Ex.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133447",
+        "date": "4/20/2026",
+        "type": "Declaration",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Declaration",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Dec of Chen Guerra Final with Ex.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lcAMwTKBs9DEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Dec of Chen Guerra Final with Ex.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "130133450",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Declaration",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "MEC Dec re Judgment Final.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133450",
+        "date": "4/20/2026",
+        "type": "Declaration",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Declaration",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "MEC Dec re Judgment Final.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "7CjpI%2Bb9VGTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "MEC Dec re Judgment Final.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "130133452",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Declaration",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "MEC Dec re Interest Final.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133452",
+        "date": "4/20/2026",
+        "type": "Declaration",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Declaration",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "MEC Dec re Interest Final.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zNDSrCFtUQPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "MEC Dec re Interest Final.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "130133454",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": " PROPOSED",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "JUDGMENT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133454",
+        "date": "4/20/2026",
+        "type": "Judgment: Default",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": " PROPOSED",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "JUDGMENT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "a5iSMUPQVSzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "JUDGMENT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "130133455",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Request for Dismissal of Does ",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Request for Dismissal- DOES Signed.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133455",
+        "date": "4/20/2026",
+        "type": "Request: Dismissal",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Request for Dismissal of Does ",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Request for Dismissal- DOES Signed.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "erKvynYW2QjEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Request for Dismissal- DOES Signed.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-04-20",
+      "date_text": "4/20/2026",
+      "proceedings": "Proof of Service: Electronic",
+      "source_section": "event",
+      "source_row_id": "130133457",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Proof of Service",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Proof of Service .pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130133457",
+        "date": "4/20/2026",
+        "type": "Proof of Service: Electronic",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Proof of Service",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Proof of Service .pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "2Ts%2Bq9PqYebEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Proof of Service .pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-07-30",
+      "date_text": "7/30/2025",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "127250117",
+      "filed_by": "Yin Chen-Guerra, Dean Poshard, ",
+      "comment": "Basic",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Default Pending",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "127250117",
+        "date": "7/30/2025",
+        "type": "Default Entered",
+        "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+        "comment": "Basic",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Default Pending"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "O22QyZlIt7nEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Default Pending"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-07-08",
+      "date_text": "7/8/2025",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "126989296",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Proof of Service of Summons/Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "POS Poshard Updated.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126989296",
+        "date": "7/8/2025",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Proof of Service of Summons/Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "POS Poshard Updated.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "SjYqC%2F6SpE7EEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "POS Poshard Updated.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-12-05",
+      "date_text": "12/5/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "123864327",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Request for Partial Dismissal * Complaint as to Defendant Platte River Insurance Company only",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Request for Dismissal- Platte.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123864327",
+        "date": "12/5/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Request for Partial Dismissal * Complaint as to Defendant Platte River Insurance Company only",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Request for Dismissal- Platte.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "itVMEApR15TEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Request for Dismissal- Platte.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-19",
+      "date_text": "11/19/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "123684146",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123684146",
+        "date": "11/19/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-15",
+      "date_text": "11/15/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "123648831",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "CMC111924 Signed.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123648831",
+        "date": "11/15/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "CMC111924 Signed.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "BUsdnJOYgwHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "CMC111924 Signed.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "122311586",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Proof of Service of Summons/Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Poshard,Dean DGP Innovations-PROOF 7.15.2024.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122311586",
+        "date": "7/23/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Proof of Service of Summons/Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Poshard,Dean DGP Innovations-PROOF 7.15.2024.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "OOOHSfzr2xPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Poshard,Dean DGP Innovations-PROOF 7.15.2024.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Default Not Entered",
+      "source_section": "event",
+      "source_row_id": "122316455",
+      "filed_by": "Yin Chen-Guerra, Dean Poshard, ",
+      "comment": "No affidavit of due diligence provided with POS010 filed on 07/23/2024. Date of mailing is not valid on item 5b(4).",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122316455",
+        "date": "7/23/2024",
+        "type": "Default Not Entered",
+        "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+        "comment": "No affidavit of due diligence provided with POS010 filed on 07/23/2024. Date of mailing is not valid on item 5b(4).",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zXVPYE3aVCTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122337465",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122337465",
+        "date": "7/23/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-19",
+      "date_text": "7/19/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122283423",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "CMC072324 Signed.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122283423",
+        "date": "7/19/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "CMC072324 Signed.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "RTy3iIzQG2XEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "CMC072324 Signed.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-08",
+      "date_text": "7/8/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122161862",
+      "filed_by": "Platte River Insurance Company, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "CMC Stmt 07-08-24.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122161862",
+        "date": "7/8/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Platte River Insurance Company, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "CMC Stmt 07-08-24.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xlyVwlT3YFLEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "CMC Stmt 07-08-24.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-17",
+      "date_text": "6/17/2024",
+      "proceedings": "Default Not Entered",
+      "source_section": "event",
+      "source_row_id": "121963198",
+      "filed_by": "Yin Chen-Guerra, Dean Poshard, ",
+      "comment": "def's name in item #6b2 of the CIV-100 and item #3a on the POS-010 do not match the Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121963198",
+        "date": "6/17/2024",
+        "type": "Default Not Entered",
+        "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+        "comment": "def's name in item #6b2 of the CIV-100 and item #3a on the POS-010 do not match the Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "8%2BlQjJux3kTEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-16",
+      "date_text": "5/16/2024",
+      "proceedings": "Answer/Response (No Fee)",
+      "source_section": "event",
+      "source_row_id": "121671430",
+      "filed_by": "Platte River Insurance Company, ",
+      "comment": "to complaint, Atty Brandt",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Answer Platte River 24-0516.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121671430",
+        "date": "5/16/2024",
+        "type": "Answer/Response (No Fee)",
+        "filedBy": "Platte River Insurance Company, ",
+        "comment": "to complaint, Atty Brandt",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Answer Platte River 24-0516.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "2Fmx45AvStzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Answer Platte River 24-0516.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-29",
+      "date_text": "4/29/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "121461685",
+      "filed_by": "Yin Chen-Guerra, Platte River Insurance Company, ",
+      "comment": "Proof of Service of Summons/Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "POS Platte.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121461685",
+        "date": "4/29/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Yin Chen-Guerra, Platte River Insurance Company, ",
+        "comment": "Proof of Service of Summons/Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "POS Platte.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "w%2B5XCTS3rFzEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "POS Platte.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-17",
+      "date_text": "4/17/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "121347477",
+      "filed_by": "Yin Chen-Guerra, Dean Poshard, ",
+      "comment": "Proof of Service of Summons/Complaint",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Poshard,Dean-PROOF.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121347477",
+        "date": "4/17/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Yin Chen-Guerra, Dean Poshard, ",
+        "comment": "Proof of Service of Summons/Complaint",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Poshard,Dean-PROOF.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dMhDxMBwtbDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Poshard,Dean-PROOF.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120417557",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417557",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120417580",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Summons: Issued/Filed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417580",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Summons: Issued/Filed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "5qUD4sfu5OPEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Summons: Issued/Filed"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120417581",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Civil Case Cover Sheet.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417581",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Civil Case Cover Sheet.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "KGjLauHhUtHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Civil Case Cover Sheet.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120417582",
+      "filed_by": "Yin Chen-Guerra, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417582",
+        "date": "2/6/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Yin Chen-Guerra, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Rmwa5s1vipHEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16251577",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "2:10PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16251577",
+        "calendar": "Department 6",
+        "type": "Conference: Case Management",
+        "date": "7/23/2024",
+        "time": "2:10PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IPWYGvmDTvDEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-19",
+      "date_text": "11/19/2024",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16485818",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16485818",
+        "calendar": "Department 6",
+        "type": "Conference: Further Case Management",
+        "date": "11/19/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-11-19",
+      "date_text": "11/19/2024",
+      "proceedings": "Conference: Further Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16485818",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_name": "CV-5063 Notice of Further CMC no Local Rule",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16485818",
+        "calendar": "Department 6",
+        "type": "Conference: Further Case Management",
+        "date": "11/19/2024",
+        "time": "10:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "uJslIfXXnvbEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+            "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2BuXwmiZTJibEEzMy7tf9CNkm5TuDcJA5opUhzb1JLfg%3D",
+        "documentName": "CV-5063 Notice of Further CMC no Local Rule"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

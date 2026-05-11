@@ -1,0 +1,743 @@
+{
+  "metadata": {
+    "case_number": "24CV431008",
+    "case_id": "5337193",
+    "case_title": "In the Matter of Thi Hang Nguyen",
+    "filing_date": "2024-02-16",
+    "filing_date_text": "2/16/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMzNzE5Mw%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Thi Hang Nguyen",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15396339",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15396339",
+          "type": "Petitioner",
+          "firstName": "Thi Hang",
+          "middleName": "",
+          "lastName": "Nguyen",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Thi Hang Nguyen",
+          "isDefendant": false
+        },
+        "pro_se": true
+      },
+      {
+        "name": "An Tuan Nhuien",
+        "type": "Minor",
+        "is_defendant": false,
+        "case_party_id": "15396340",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15396340",
+          "type": "Minor",
+          "firstName": "An",
+          "middleName": "Tuan",
+          "lastName": "Nhuien",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "An Tuan Nhuien",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 0,
+    "n_events": 10,
+    "n_hearings": 1,
+    "n_actions": 11,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5337193",
+        "nodeId": "11110",
+        "caseNumber": "24CV431008",
+        "caseStyle": "In the Matter of Thi Hang Nguyen",
+        "filingDate": "2/16/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15396339",
+            "type": "Petitioner",
+            "firstName": "Thi Hang",
+            "middleName": "",
+            "lastName": "Nguyen",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Thi Hang Nguyen",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15396340",
+            "type": "Minor",
+            "firstName": "An",
+            "middleName": "Tuan",
+            "lastName": "Nhuien",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "An Tuan Nhuien",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120546259",
+            "date": "9/3/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "An Nhuien, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "IIahFZMDYimr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "122682380",
+            "date": "8/23/2024",
+            "type": "Proof of Service",
+            "filedBy": "",
+            "comment": "Order to show cause",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TmHgLBrPuTOr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Proof of Service"
+              }
+            ]
+          },
+          {
+            "eventId": "122682386",
+            "date": "8/23/2024",
+            "type": "Minor's Consent to Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Minor's Consent to Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120978582",
+            "date": "3/18/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "Thi Hang Nguyen, ",
+            "comment": "Affidavit: Proof of Publication",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120588524",
+            "date": "2/21/2024",
+            "type": "Proof of Service",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Proof of Service"
+              }
+            ]
+          },
+          {
+            "eventId": "120544422",
+            "date": "2/16/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120544620",
+            "date": "2/16/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120544626",
+            "date": "2/16/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120546162",
+            "date": "2/16/2024",
+            "type": "Fee Waiver Application",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120546175",
+            "date": "2/16/2024",
+            "type": "Fee Waiver Order-Grant",
+            "filedBy": "Thi Hang Nguyen, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+                "documentName": "Fee Waiver Order-Grant"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16262740",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/30/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5337193",
+        "caseNumber": "24CV431008",
+        "style": "In the Matter of Thi Hang Nguyen",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/16/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:45:48Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 2,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 6
+    },
+    "downloaded_documents": [
+      "2024-09-03_order-proposed_55f96c9b9569.pdf",
+      "2024-08-23_proof-of-service_9f9bfd6a4429.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Minor's Consent to Name Change",
+        "date": "2024-08-23",
+        "proceedings": "Minor's Consent to Name Change"
+      },
+      {
+        "doc_id": "N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Affidavit: Proof of Publication",
+        "date": "2024-03-18",
+        "proceedings": "Affidavit: Proof of Publication"
+      },
+      {
+        "doc_id": "Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Proof of Service",
+        "date": "2024-02-21",
+        "proceedings": "Proof of Service"
+      },
+      {
+        "doc_id": "bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-16",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-16",
+        "proceedings": "Order to Show Cause: Name Change"
+      },
+      {
+        "doc_id": "Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "doc_name": "Fee Waiver Order-Grant",
+        "date": "2024-02-16",
+        "proceedings": "Fee Waiver Order-Grant"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-09-03",
+      "date_text": "9/3/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120546259",
+      "filed_by": "An Nhuien, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "IIahFZMDYimr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IIahFZMDYimr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": "2024-09-03_order-proposed_55f96c9b9569.pdf",
+      "raw": {
+        "eventId": "120546259",
+        "date": "9/3/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "An Nhuien, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "IIahFZMDYimr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IIahFZMDYimr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Order: Proposed"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-08-23",
+      "date_text": "8/23/2024",
+      "proceedings": "Proof of Service",
+      "source_section": "event",
+      "source_row_id": "122682380",
+      "filed_by": "",
+      "comment": "Order to show cause",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TmHgLBrPuTOr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Proof of Service",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TmHgLBrPuTOr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": "2024-08-23_proof-of-service_9f9bfd6a4429.pdf",
+      "raw": {
+        "eventId": "122682380",
+        "date": "8/23/2024",
+        "type": "Proof of Service",
+        "filedBy": "",
+        "comment": "Order to show cause",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TmHgLBrPuTOr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Proof of Service"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TmHgLBrPuTOr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Proof of Service"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-08-23",
+      "date_text": "8/23/2024",
+      "proceedings": "Minor's Consent to Name Change",
+      "source_section": "event",
+      "source_row_id": "122682386",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Minor's Consent to Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122682386",
+        "date": "8/23/2024",
+        "type": "Minor's Consent to Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Minor's Consent to Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Fjb6NdJlDVqr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Minor's Consent to Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-18",
+      "date_text": "3/18/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "120978582",
+      "filed_by": "Thi Hang Nguyen, ",
+      "comment": "Affidavit: Proof of Publication",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120978582",
+        "date": "3/18/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "Thi Hang Nguyen, ",
+        "comment": "Affidavit: Proof of Publication",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "N4P2mLr2PhGr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-21",
+      "date_text": "2/21/2024",
+      "proceedings": "Proof of Service",
+      "source_section": "event",
+      "source_row_id": "120588524",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Proof of Service",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120588524",
+        "date": "2/21/2024",
+        "type": "Proof of Service",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Proof of Service"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Za9udgFbIFKr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Proof of Service"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-16",
+      "date_text": "2/16/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120544422",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120544422",
+        "date": "2/16/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-16",
+      "date_text": "2/16/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120544620",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120544620",
+        "date": "2/16/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bp0B2Oyzl6mr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-16",
+      "date_text": "2/16/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120544626",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120544626",
+        "date": "2/16/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2FgVhBUqk4Yar0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-16",
+      "date_text": "2/16/2024",
+      "proceedings": "Fee Waiver Application",
+      "source_section": "event",
+      "source_row_id": "120546162",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120546162",
+        "date": "2/16/2024",
+        "type": "Fee Waiver Application",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-16",
+      "date_text": "2/16/2024",
+      "proceedings": "Fee Waiver Order-Grant",
+      "source_section": "event",
+      "source_row_id": "120546175",
+      "filed_by": "Thi Hang Nguyen, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_name": "Fee Waiver Order-Grant",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120546175",
+        "date": "2/16/2024",
+        "type": "Fee Waiver Order-Grant",
+        "filedBy": "Thi Hang Nguyen, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+            "documentName": "Fee Waiver Order-Grant"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Pap9k9F2I8Kr0bTrg7GvnDMY8TK2BcozSRPDNESwGHY%3D",
+        "documentName": "Fee Waiver Order-Grant"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-30",
+      "date_text": "4/30/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16262740",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16262740",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/30/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

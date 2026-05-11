@@ -1,0 +1,3830 @@
+{
+  "metadata": {
+    "case_number": "24CV430502",
+    "case_id": "5319367",
+    "case_title": "Monte Massolo et al vs COUNTY OF SANTA CLARA et al",
+    "filing_date": "2024-02-06",
+    "filing_date_text": "2/6/2024",
+    "case_type": "Auto Unlimited (22)",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Active",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [
+      "Department 6",
+      "Department 18"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTM2Nw%3D%3D",
+    "portal_search_case_type": "Auto Unlimited (22)",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Monte M. Massolo",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15356976",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356976",
+          "type": "Plaintiff",
+          "firstName": "Monte",
+          "middleName": "M.",
+          "lastName": "Massolo",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Monte M. Massolo",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Sheri Massolo",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15356977",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356977",
+          "type": "Plaintiff",
+          "firstName": "Sheri",
+          "middleName": "",
+          "lastName": "Massolo",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Sheri Massolo",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "COUNTY OF SANTA CLARA",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15356978",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356978",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "COUNTY OF SANTA CLARA",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " COUNTY OF SANTA CLARA",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "STATE OF CALIFORNIA",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15356979",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356979",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "STATE OF CALIFORNIA",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " STATE OF CALIFORNIA",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15356980",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15356980",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "isDefendant": true
+        },
+        "pro_se": false
+      },
+      {
+        "name": "Monte M Massolo",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15879671",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15879671",
+          "type": "Plaintiff",
+          "firstName": "Monte",
+          "middleName": "M",
+          "lastName": "Massolo",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Monte M Massolo",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "James Joseph Romag",
+        "bar_number": "241887",
+        "represented_party_text": "Monte M. Massolo",
+        "is_lead": true,
+        "raw": {
+          "firstName": "James",
+          "middleName": "Joseph",
+          "lastName": "Romag",
+          "representing": "Monte M. Massolo",
+          "barNumber": "241887",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Steven Jay Brady",
+        "bar_number": "116651",
+        "represented_party_text": "Monte M. Massolo",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Steven",
+          "middleName": "Jay",
+          "lastName": "Brady",
+          "representing": "Monte M. Massolo",
+          "barNumber": "116651",
+          "isLead": false
+        }
+      },
+      {
+        "name": "James Joseph Romag",
+        "bar_number": "241887",
+        "represented_party_text": "Sheri Massolo",
+        "is_lead": true,
+        "raw": {
+          "firstName": "James",
+          "middleName": "Joseph",
+          "lastName": "Romag",
+          "representing": "Sheri Massolo",
+          "barNumber": "241887",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Steven Jay Brady",
+        "bar_number": "116651",
+        "represented_party_text": "Sheri Massolo",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Steven",
+          "middleName": "Jay",
+          "lastName": "Brady",
+          "representing": "Sheri Massolo",
+          "barNumber": "116651",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Anthony J Lopresti",
+        "bar_number": "289269",
+        "represented_party_text": "COUNTY OF SANTA CLARA",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Anthony",
+          "middleName": "J",
+          "lastName": "Lopresti",
+          "representing": " COUNTY OF SANTA CLARA",
+          "barNumber": "289269",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Helen Yoon Cramer",
+        "bar_number": "238421",
+        "represented_party_text": "STATE OF CALIFORNIA",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Helen",
+          "middleName": "Yoon",
+          "lastName": "Cramer",
+          "representing": " STATE OF CALIFORNIA",
+          "barNumber": "238421",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Helen Yoon Cramer",
+        "bar_number": "238421",
+        "represented_party_text": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Helen",
+          "middleName": "Yoon",
+          "lastName": "Cramer",
+          "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "barNumber": "238421",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Gregory J. Charles",
+        "bar_number": "208583",
+        "represented_party_text": "COUNTY OF SANTA CLARA",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Gregory",
+          "middleName": "J.",
+          "lastName": "Charles",
+          "representing": " COUNTY OF SANTA CLARA",
+          "barNumber": "208583",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Manelki Anthony",
+        "bar_number": "326205",
+        "represented_party_text": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Manelki",
+          "middleName": "",
+          "lastName": "Anthony",
+          "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "barNumber": "326205",
+          "isLead": false
+        }
+      },
+      {
+        "name": "Larnell W. France",
+        "bar_number": "340678",
+        "represented_party_text": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Larnell",
+          "middleName": "W.",
+          "lastName": "France",
+          "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "barNumber": "340678",
+          "isLead": true
+        }
+      },
+      {
+        "name": "Sandeep Singh",
+        "bar_number": "335467",
+        "represented_party_text": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "is_lead": false,
+        "raw": {
+          "firstName": "Sandeep",
+          "middleName": "",
+          "lastName": "Singh",
+          "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+          "barNumber": "335467",
+          "isLead": false
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "James Joseph Romag",
+        "bar_number": "241887",
+        "party_name": "Monte M. Massolo",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Steven Jay Brady",
+        "bar_number": "116651",
+        "party_name": "Monte M. Massolo",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "James Joseph Romag",
+        "bar_number": "241887",
+        "party_name": "Sheri Massolo",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Steven Jay Brady",
+        "bar_number": "116651",
+        "party_name": "Sheri Massolo",
+        "party_role": "Plaintiff"
+      },
+      {
+        "attorney_name": "Anthony J Lopresti",
+        "bar_number": "289269",
+        "party_name": "COUNTY OF SANTA CLARA",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Helen Yoon Cramer",
+        "bar_number": "238421",
+        "party_name": "STATE OF CALIFORNIA",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Helen Yoon Cramer",
+        "bar_number": "238421",
+        "party_name": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Gregory J. Charles",
+        "bar_number": "208583",
+        "party_name": "COUNTY OF SANTA CLARA",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Manelki Anthony",
+        "bar_number": "326205",
+        "party_name": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Larnell W. France",
+        "bar_number": "340678",
+        "party_name": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "party_role": "Defendant"
+      },
+      {
+        "attorney_name": "Sandeep Singh",
+        "bar_number": "335467",
+        "party_name": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "party_role": "Defendant"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": true,
+    "n_parties": 6,
+    "n_attorneys": 11,
+    "n_events": 40,
+    "n_hearings": 6,
+    "n_actions": 55,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319367",
+        "nodeId": "11110",
+        "caseNumber": "24CV430502",
+        "caseStyle": "Monte Massolo et al vs COUNTY OF SANTA CLARA et al",
+        "filingDate": "2/6/2024",
+        "caseStatus": "Active",
+        "caseType": "Auto Unlimited (22)",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15356976",
+            "type": "Plaintiff",
+            "firstName": "Monte",
+            "middleName": "M.",
+            "lastName": "Massolo",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Monte M. Massolo",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356977",
+            "type": "Plaintiff",
+            "firstName": "Sheri",
+            "middleName": "",
+            "lastName": "Massolo",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Sheri Massolo",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356978",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "COUNTY OF SANTA CLARA",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " COUNTY OF SANTA CLARA",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356979",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "STATE OF CALIFORNIA",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " STATE OF CALIFORNIA",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15356980",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "isDefendant": true
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15879671",
+            "type": "Plaintiff",
+            "firstName": "Monte",
+            "middleName": "M",
+            "lastName": "Massolo",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Monte M Massolo",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "James",
+            "middleName": "Joseph",
+            "lastName": "Romag",
+            "representing": "Monte M. Massolo",
+            "barNumber": "241887",
+            "isLead": true
+          },
+          {
+            "firstName": "Steven",
+            "middleName": "Jay",
+            "lastName": "Brady",
+            "representing": "Monte M. Massolo",
+            "barNumber": "116651",
+            "isLead": false
+          },
+          {
+            "firstName": "James",
+            "middleName": "Joseph",
+            "lastName": "Romag",
+            "representing": "Sheri Massolo",
+            "barNumber": "241887",
+            "isLead": true
+          },
+          {
+            "firstName": "Steven",
+            "middleName": "Jay",
+            "lastName": "Brady",
+            "representing": "Sheri Massolo",
+            "barNumber": "116651",
+            "isLead": false
+          },
+          {
+            "firstName": "Anthony",
+            "middleName": "J",
+            "lastName": "Lopresti",
+            "representing": " COUNTY OF SANTA CLARA",
+            "barNumber": "289269",
+            "isLead": false
+          },
+          {
+            "firstName": "Helen",
+            "middleName": "Yoon",
+            "lastName": "Cramer",
+            "representing": " STATE OF CALIFORNIA",
+            "barNumber": "238421",
+            "isLead": true
+          },
+          {
+            "firstName": "Helen",
+            "middleName": "Yoon",
+            "lastName": "Cramer",
+            "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "barNumber": "238421",
+            "isLead": false
+          },
+          {
+            "firstName": "Gregory",
+            "middleName": "J.",
+            "lastName": "Charles",
+            "representing": " COUNTY OF SANTA CLARA",
+            "barNumber": "208583",
+            "isLead": true
+          },
+          {
+            "firstName": "Manelki",
+            "middleName": "",
+            "lastName": "Anthony",
+            "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "barNumber": "326205",
+            "isLead": false
+          },
+          {
+            "firstName": "Larnell",
+            "middleName": "W.",
+            "lastName": "France",
+            "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "barNumber": "340678",
+            "isLead": true
+          },
+          {
+            "firstName": "Sandeep",
+            "middleName": "",
+            "lastName": "Singh",
+            "representing": " CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "barNumber": "335467",
+            "isLead": false
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "130178593",
+            "date": "4/23/2026",
+            "type": "Notice: Settlement",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Notice: Settlement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice of Settlement 4.23.26.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "129520784",
+            "date": "3/10/2026",
+            "type": "Application and Order: Ex Parte",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Granted---FOR AN ORDER ON\nSTIPULATION FOR TRIAL CONTINUANCE",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Ex Parte Application??????????????????????????????????????????????"
+              }
+            ]
+          },
+          {
+            "eventId": "129382223",
+            "date": "2/20/2026",
+            "type": "Notice: Remote Appearance",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "NOTICE OF REMOTE APPEARANCE",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice: Remote Appearance"
+              }
+            ]
+          },
+          {
+            "eventId": "129437082",
+            "date": "2/20/2026",
+            "type": "Notice",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATIONS NOTICE OF  CHANGE OF HANDLING ATTORNEY AND NOTICE OF CHANGE OF ELECTRONIC  SERVICE ADDRESS (Code Civ. Proc.  1010.6)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "126886693",
+            "date": "6/24/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "126847314",
+            "date": "6/18/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CMC Statement for 6.24.25.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "126774257",
+            "date": "6/17/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "125219080",
+            "date": "2/27/2025",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "124855333",
+            "date": "2/7/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Case Management Conference Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "124575081",
+            "date": "1/24/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "AMENDED Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CMC Statement for 2.27.25 AMEND.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "124628429",
+            "date": "1/24/2025",
+            "type": "Notice",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Notice of Change of Handling Attorney",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "124553880",
+            "date": "1/23/2025",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Case Management Statement",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CMC Statement for 2.27.25.pdf"
+              }
+            ]
+          },
+          {
+            "eventId": "123303821",
+            "date": "10/16/2024",
+            "type": "Notice: Association/Co-Counsel",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "NOTICE OF ASSOCIATION OF COUNSEL",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Association of Attorney/Counsel"
+              }
+            ]
+          },
+          {
+            "eventId": "122337476",
+            "date": "7/23/2024",
+            "type": "Minute Order",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "eventId": "122546593",
+            "date": "7/23/2024",
+            "type": "Referral: Mediation",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "122156751",
+            "date": "7/8/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "Sheri Massolo, Monte Massolo, ",
+            "comment": "Case Management Statement (Statements)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "10136CaseMana009e092"
+              }
+            ]
+          },
+          {
+            "eventId": "122158858",
+            "date": "7/8/2024",
+            "type": "Statement: Case Management Conference",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "CASE MANAGEMENT STATEMENT",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Case Management Statement"
+              }
+            ]
+          },
+          {
+            "eventId": "121976466",
+            "date": "6/14/2024",
+            "type": "Notice: Association/Co-Counsel",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "10000NOTICEOF003b663"
+              }
+            ]
+          },
+          {
+            "eventId": "121907063",
+            "date": "6/11/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "Monte Massolo, ",
+            "comment": "Request for Partial Dismissal * Dismissal as to Defendant, County of Santa Clara, only;",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "99745Requestf00fb528"
+              }
+            ]
+          },
+          {
+            "eventId": "121670415",
+            "date": "5/16/2024",
+            "type": "Answer/Response (No Fee)",
+            "filedBy": "COUNTY OF SANTA CLARA, ",
+            "comment": "To: First Amended Complaint // Atty: Charles",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Answer/Response/Denial"
+              }
+            ]
+          },
+          {
+            "eventId": "121628137",
+            "date": "5/10/2024",
+            "type": "Answer (Unlimited) (Fee Applies)",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATION'S ANSWER TO PLAINTIFFS' FIRST AMENDED COMPLAINANT FOR DAMAGES",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+              }
+            ]
+          },
+          {
+            "eventId": "121273051",
+            "date": "5/8/2024",
+            "type": "Order",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Order on stipuation to file FAC - GRANTED by Judge Pennypacker",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "95454Proposed0192bf1"
+              }
+            ]
+          },
+          {
+            "eventId": "121572704",
+            "date": "5/8/2024",
+            "type": "Amended Complaint Filed - No Fee",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "FIRST AMENDED COMPLAINT FOR DAMAGES (Amendments)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "97558FIRSTAME0034089"
+              }
+            ]
+          },
+          {
+            "eventId": "121366832",
+            "date": "4/15/2024",
+            "type": "Notice: Change Address/Firm Name",
+            "filedBy": "COUNTY OF SANTA CLARA, ",
+            "comment": "Defendant County of Santa Clara's Notice of Change in Counsel",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice of Change of Firm Name"
+              }
+            ]
+          },
+          {
+            "eventId": "121366859",
+            "date": "4/15/2024",
+            "type": "Advance Jury Fee (Nonrefundable)",
+            "filedBy": "COUNTY OF SANTA CLARA, ",
+            "comment": "$150 Posting Jury Fees by: DEF: Atty: Lopresti",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice of Posting Jury Fees"
+              }
+            ]
+          },
+          {
+            "eventId": "121273050",
+            "date": "4/5/2024",
+            "type": "Stipulation and Order",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "STIPULATION BY AND BETWEEN THE PARTIES ALLOWING PLAINTIFFS TO FILE FIRST AMENDED COMPLAINT FOR DAMAGES (Orders)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "95454STIPULAT003c720"
+              }
+            ]
+          },
+          {
+            "eventId": "121116910",
+            "date": "3/27/2024",
+            "type": "Notice",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "RE: DEFENDANT DEPARTMENT OF TRANSPORTATION'S NOTICE OF POSTING JURY FEES",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Notice"
+              }
+            ]
+          },
+          {
+            "eventId": "121087795",
+            "date": "3/26/2024",
+            "type": "Answer (Unlimited) (Fee Applies)",
+            "filedBy": "COUNTY OF SANTA CLARA, ",
+            "comment": "To Complain Atty: Lopresti",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+              }
+            ]
+          },
+          {
+            "eventId": "121058930",
+            "date": "3/22/2024",
+            "type": "Advance Jury Fee (Nonrefundable)",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "$150 jury fee deposited by defendant CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Advance jury fee (Nonrefundable)"
+              }
+            ]
+          },
+          {
+            "eventId": "120926688",
+            "date": "3/14/2024",
+            "type": "Declaration",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "DECLARATION OF DEMURRING OR MOVING PARTY IN SUPPORT OF AUTOMATIC EXTENSION",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Declaration"
+              }
+            ]
+          },
+          {
+            "eventId": "120906683",
+            "date": "3/7/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Decl RE: automatic extension - Name is inconsistent on document.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "120815639",
+            "date": "2/28/2024",
+            "type": "Clerk Rejection Letter",
+            "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+            "comment": "Decl RE: automatic extension - state is missing from court address in caption. Also, name is inconsistent on document.",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Clerk Rejection Letter"
+              }
+            ]
+          },
+          {
+            "eventId": "120576562",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Proof of Service of Summons (Proof of Service)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "92315ProofofS007f509"
+              }
+            ]
+          },
+          {
+            "eventId": "120576564",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Proof of Service of Summons (Proof of Service)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "92315ProofofS017203f"
+              }
+            ]
+          },
+          {
+            "eventId": "120576567",
+            "date": "2/20/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "Proof of Service of Summons (Proof of Service)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "92315ProofofS02ceb8f"
+              }
+            ]
+          },
+          {
+            "eventId": "120512484",
+            "date": "2/8/2024",
+            "type": "Advance Jury Fee (Nonrefundable)",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": "$150 JURY FEES DEPOSITED BY PLA ATTY: ROMAG ",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Advance Jury Fee"
+              }
+            ]
+          },
+          {
+            "eventId": "120417653",
+            "date": "2/6/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120417674",
+            "date": "2/6/2024",
+            "type": "Complaint (Unlimited) (Fee Applies)",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Complaint"
+              }
+            ]
+          },
+          {
+            "eventId": "120417675",
+            "date": "2/6/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "91471CivilCas01f39a4"
+              }
+            ]
+          },
+          {
+            "eventId": "120417676",
+            "date": "2/6/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "Monte Massolo, Sheri Massolo, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "91471SummonsS02af075"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16251764",
+            "calendar": "Department 6",
+            "type": "Conference: Case Management",
+            "date": "7/23/2024",
+            "time": "2:10PM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "16691168",
+            "calendar": "Department 6",
+            "type": "Review: Mediation Status",
+            "date": "2/27/2025",
+            "time": "10:30AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              },
+              {
+                "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5093 Notice of Mediation Status Conference"
+              },
+              {
+                "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5093 Notice of Mediation Status Conference"
+              },
+              {
+                "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5093 Notice of Mediation Status Conference"
+              },
+              {
+                "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5065 Notice to Appear Civil"
+              },
+              {
+                "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5093 Notice of Mediation Status Conference"
+              }
+            ]
+          },
+          {
+            "hearingId": "16768820",
+            "calendar": "Department 6",
+            "type": "Conference: Trial Setting",
+            "date": "6/24/2025",
+            "time": "11:00AM",
+            "hearingResult": "Held",
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "Minutes Non-Criminal"
+              }
+            ]
+          },
+          {
+            "hearingId": "17251766",
+            "calendar": "Department 6",
+            "type": "Conference: Settlement Jury",
+            "date": "8/12/2026",
+            "time": "1:34PM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": [
+              {
+                "documentId": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+              },
+              {
+                "documentId": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+              },
+              {
+                "documentId": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+                "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+              }
+            ]
+          },
+          {
+            "hearingId": "17251763",
+            "calendar": "Department 18",
+            "type": "Trial Assignment",
+            "date": "8/13/2026",
+            "time": "1:31PM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          },
+          {
+            "hearingId": "17251759",
+            "calendar": "Department 18",
+            "type": "Jury Trial: Long Cause",
+            "date": "8/17/2026",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319367",
+        "caseNumber": "24CV430502",
+        "style": "Monte Massolo et al vs COUNTY OF SANTA CLARA et al",
+        "caseCategory": 1,
+        "type": "Auto Unlimited (22)",
+        "typeId": "22-1B",
+        "fileDate": "2/6/2024",
+        "securityGroup": null,
+        "status": "Active",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-10T16:57:30Z",
+      "sequence_in_day": 51,
+      "downloaded_documents": 0,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 51
+    },
+    "downloaded_documents": [],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice of Settlement 4.23.26.pdf",
+        "date": "2026-04-23",
+        "proceedings": "Notice: Settlement"
+      },
+      {
+        "doc_id": "4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Ex Parte Application??????????????????????????????????????????????",
+        "date": "2026-03-10",
+        "proceedings": "Application and Order: Ex Parte"
+      },
+      {
+        "doc_id": "6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice: Remote Appearance",
+        "date": "2026-02-20",
+        "proceedings": "Notice: Remote Appearance"
+      },
+      {
+        "doc_id": "J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice",
+        "date": "2026-02-20",
+        "proceedings": "Notice"
+      },
+      {
+        "doc_id": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-06-24",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CMC Statement for 6.24.25.pdf",
+        "date": "2025-06-18",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-06-17",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-02-27",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2025-02-07",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CMC Statement for 2.27.25 AMEND.pdf",
+        "date": "2025-01-24",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice",
+        "date": "2025-01-24",
+        "proceedings": "Notice"
+      },
+      {
+        "doc_id": "JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CMC Statement for 2.27.25.pdf",
+        "date": "2025-01-23",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Association of Attorney/Counsel",
+        "date": "2024-10-16",
+        "proceedings": "Notice: Association/Co-Counsel"
+      },
+      {
+        "doc_id": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Minute Order"
+      },
+      {
+        "doc_id": "7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "10136CaseMana009e092",
+        "date": "2024-07-08",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Case Management Statement",
+        "date": "2024-07-08",
+        "proceedings": "Statement: Case Management Conference"
+      },
+      {
+        "doc_id": "yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "10000NOTICEOF003b663",
+        "date": "2024-06-14",
+        "proceedings": "Notice: Association/Co-Counsel"
+      },
+      {
+        "doc_id": "Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "99745Requestf00fb528",
+        "date": "2024-06-11",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Answer/Response/Denial",
+        "date": "2024-05-16",
+        "proceedings": "Answer/Response (No Fee)"
+      },
+      {
+        "doc_id": "0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+        "date": "2024-05-10",
+        "proceedings": "Answer (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "95454Proposed0192bf1",
+        "date": "2024-05-08",
+        "proceedings": "Order"
+      },
+      {
+        "doc_id": "AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "97558FIRSTAME0034089",
+        "date": "2024-05-08",
+        "proceedings": "Amended Complaint Filed - No Fee"
+      },
+      {
+        "doc_id": "TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice of Change of Firm Name",
+        "date": "2024-04-15",
+        "proceedings": "Notice: Change Address/Firm Name"
+      },
+      {
+        "doc_id": "F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice of Posting Jury Fees",
+        "date": "2024-04-15",
+        "proceedings": "Advance Jury Fee (Nonrefundable)"
+      },
+      {
+        "doc_id": "bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "95454STIPULAT003c720",
+        "date": "2024-04-05",
+        "proceedings": "Stipulation and Order"
+      },
+      {
+        "doc_id": "TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Notice",
+        "date": "2024-03-27",
+        "proceedings": "Notice"
+      },
+      {
+        "doc_id": "V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+        "date": "2024-03-26",
+        "proceedings": "Answer (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Advance jury fee (Nonrefundable)",
+        "date": "2024-03-22",
+        "proceedings": "Advance Jury Fee (Nonrefundable)"
+      },
+      {
+        "doc_id": "bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Declaration",
+        "date": "2024-03-14",
+        "proceedings": "Declaration"
+      },
+      {
+        "doc_id": "zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-03-07",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Clerk Rejection Letter",
+        "date": "2024-02-28",
+        "proceedings": "Clerk Rejection Letter"
+      },
+      {
+        "doc_id": "3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "92315ProofofS007f509",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "92315ProofofS017203f",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "92315ProofofS02ceb8f",
+        "date": "2024-02-20",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Advance Jury Fee",
+        "date": "2024-02-08",
+        "proceedings": "Advance Jury Fee (Nonrefundable)"
+      },
+      {
+        "doc_id": "VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Complaint",
+        "date": "2024-02-06",
+        "proceedings": "Complaint (Unlimited) (Fee Applies)"
+      },
+      {
+        "doc_id": "1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "91471CivilCas01f39a4",
+        "date": "2024-02-06",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "91471SummonsS02af075",
+        "date": "2024-02-06",
+        "proceedings": "Summons: Issued/Filed"
+      },
+      {
+        "doc_id": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2024-07-23",
+        "proceedings": "Conference: Case Management"
+      },
+      {
+        "doc_id": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5093 Notice of Mediation Status Conference",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5093 Notice of Mediation Status Conference",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5093 Notice of Mediation Status Conference",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5065 Notice to Appear Civil",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5093 Notice of Mediation Status Conference",
+        "date": "2025-02-27",
+        "proceedings": "Review: Mediation Status"
+      },
+      {
+        "doc_id": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "Minutes Non-Criminal",
+        "date": "2025-06-24",
+        "proceedings": "Conference: Trial Setting"
+      },
+      {
+        "doc_id": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+        "date": "2026-08-12",
+        "proceedings": "Conference: Settlement Jury"
+      },
+      {
+        "doc_id": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+        "date": "2026-08-12",
+        "proceedings": "Conference: Settlement Jury"
+      },
+      {
+        "doc_id": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+        "date": "2026-08-12",
+        "proceedings": "Conference: Settlement Jury"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2026-04-23",
+      "date_text": "4/23/2026",
+      "proceedings": "Notice: Settlement",
+      "source_section": "event",
+      "source_row_id": "130178593",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Notice: Settlement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice of Settlement 4.23.26.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "130178593",
+        "date": "4/23/2026",
+        "type": "Notice: Settlement",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Notice: Settlement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice of Settlement 4.23.26.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WZZykYs%2BiHDEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice of Settlement 4.23.26.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-03-10",
+      "date_text": "3/10/2026",
+      "proceedings": "Application and Order: Ex Parte",
+      "source_section": "event",
+      "source_row_id": "129520784",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Granted---FOR AN ORDER ON\nSTIPULATION FOR TRIAL CONTINUANCE",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Ex Parte Application??????????????????????????????????????????????",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129520784",
+        "date": "3/10/2026",
+        "type": "Application and Order: Ex Parte",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Granted---FOR AN ORDER ON\nSTIPULATION FOR TRIAL CONTINUANCE",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Ex Parte Application??????????????????????????????????????????????"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "4p9HFY9HujfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Ex Parte Application??????????????????????????????????????????????"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-20",
+      "date_text": "2/20/2026",
+      "proceedings": "Notice: Remote Appearance",
+      "source_section": "event",
+      "source_row_id": "129382223",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "NOTICE OF REMOTE APPEARANCE",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice: Remote Appearance",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129382223",
+        "date": "2/20/2026",
+        "type": "Notice: Remote Appearance",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "NOTICE OF REMOTE APPEARANCE",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice: Remote Appearance"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "6ytwJjrQUDPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice: Remote Appearance"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-02-20",
+      "date_text": "2/20/2026",
+      "proceedings": "Notice",
+      "source_section": "event",
+      "source_row_id": "129437082",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATIONS NOTICE OF  CHANGE OF HANDLING ATTORNEY AND NOTICE OF CHANGE OF ELECTRONIC  SERVICE ADDRESS (Code Civ. Proc.  1010.6)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "129437082",
+        "date": "2/20/2026",
+        "type": "Notice",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATIONS NOTICE OF  CHANGE OF HANDLING ATTORNEY AND NOTICE OF CHANGE OF ELECTRONIC  SERVICE ADDRESS (Code Civ. Proc.  1010.6)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "J9XdMt7BwFLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-06-24",
+      "date_text": "6/24/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "126886693",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126886693",
+        "date": "6/24/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-06-18",
+      "date_text": "6/18/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "126847314",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CMC Statement for 6.24.25.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126847314",
+        "date": "6/18/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CMC Statement for 6.24.25.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "hjNW2N%2BFTxvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CMC Statement for 6.24.25.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-06-17",
+      "date_text": "6/17/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "126774257",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "126774257",
+        "date": "6/17/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "AvmSZh7kqpHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "125219080",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "125219080",
+        "date": "2/27/2025",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-07",
+      "date_text": "2/7/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "124855333",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Case Management Conference Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124855333",
+        "date": "2/7/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Case Management Conference Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "jaiVXQm8vlnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-01-24",
+      "date_text": "1/24/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "124575081",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "AMENDED Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CMC Statement for 2.27.25 AMEND.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124575081",
+        "date": "1/24/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "AMENDED Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CMC Statement for 2.27.25 AMEND.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "tvITBOc8UdjEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CMC Statement for 2.27.25 AMEND.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-01-24",
+      "date_text": "1/24/2025",
+      "proceedings": "Notice",
+      "source_section": "event",
+      "source_row_id": "124628429",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Notice of Change of Handling Attorney",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124628429",
+        "date": "1/24/2025",
+        "type": "Notice",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Notice of Change of Handling Attorney",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "NFMx5FbcrVLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-01-23",
+      "date_text": "1/23/2025",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "124553880",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Case Management Statement",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CMC Statement for 2.27.25.pdf",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "124553880",
+        "date": "1/23/2025",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Case Management Statement",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CMC Statement for 2.27.25.pdf"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "JF39tBu2u3HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CMC Statement for 2.27.25.pdf"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-10-16",
+      "date_text": "10/16/2024",
+      "proceedings": "Notice: Association/Co-Counsel",
+      "source_section": "event",
+      "source_row_id": "123303821",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "NOTICE OF ASSOCIATION OF COUNSEL",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Association of Attorney/Counsel",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "123303821",
+        "date": "10/16/2024",
+        "type": "Notice: Association/Co-Counsel",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "NOTICE OF ASSOCIATION OF COUNSEL",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Association of Attorney/Counsel"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xIkrMm0iMDvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Association of Attorney/Counsel"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Minute Order",
+      "source_section": "event",
+      "source_row_id": "122337476",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122337476",
+        "date": "7/23/2024",
+        "type": "Minute Order",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Referral: Mediation",
+      "source_section": "event",
+      "source_row_id": "122546593",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122546593",
+        "date": "7/23/2024",
+        "type": "Referral: Mediation",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-07-08",
+      "date_text": "7/8/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122156751",
+      "filed_by": "Sheri Massolo, Monte Massolo, ",
+      "comment": "Case Management Statement (Statements)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "10136CaseMana009e092",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122156751",
+        "date": "7/8/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "Sheri Massolo, Monte Massolo, ",
+        "comment": "Case Management Statement (Statements)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "10136CaseMana009e092"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "7gIxCazD%2BrzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "10136CaseMana009e092"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-08",
+      "date_text": "7/8/2024",
+      "proceedings": "Statement: Case Management Conference",
+      "source_section": "event",
+      "source_row_id": "122158858",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "CASE MANAGEMENT STATEMENT",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Case Management Statement",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122158858",
+        "date": "7/8/2024",
+        "type": "Statement: Case Management Conference",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "CASE MANAGEMENT STATEMENT",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Case Management Statement"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "kdFwM0Aukt7EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Case Management Statement"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-14",
+      "date_text": "6/14/2024",
+      "proceedings": "Notice: Association/Co-Counsel",
+      "source_section": "event",
+      "source_row_id": "121976466",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "10000NOTICEOF003b663",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121976466",
+        "date": "6/14/2024",
+        "type": "Notice: Association/Co-Counsel",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "10000NOTICEOF003b663"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "yzl74B%2FexSXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "10000NOTICEOF003b663"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-06-11",
+      "date_text": "6/11/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "121907063",
+      "filed_by": "Monte Massolo, ",
+      "comment": "Request for Partial Dismissal * Dismissal as to Defendant, County of Santa Clara, only;",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "99745Requestf00fb528",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121907063",
+        "date": "6/11/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "Monte Massolo, ",
+        "comment": "Request for Partial Dismissal * Dismissal as to Defendant, County of Santa Clara, only;",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "99745Requestf00fb528"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Nq%2F0XHRIY6XEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "99745Requestf00fb528"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-16",
+      "date_text": "5/16/2024",
+      "proceedings": "Answer/Response (No Fee)",
+      "source_section": "event",
+      "source_row_id": "121670415",
+      "filed_by": "COUNTY OF SANTA CLARA, ",
+      "comment": "To: First Amended Complaint // Atty: Charles",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Answer/Response/Denial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121670415",
+        "date": "5/16/2024",
+        "type": "Answer/Response (No Fee)",
+        "filedBy": "COUNTY OF SANTA CLARA, ",
+        "comment": "To: First Amended Complaint // Atty: Charles",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Answer/Response/Denial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "NNOn%2BYat4ZfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Answer/Response/Denial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-10",
+      "date_text": "5/10/2024",
+      "proceedings": "Answer (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "121628137",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATION'S ANSWER TO PLAINTIFFS' FIRST AMENDED COMPLAINANT FOR DAMAGES",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121628137",
+        "date": "5/10/2024",
+        "type": "Answer (Unlimited) (Fee Applies)",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "DEFENDANT CALIFORNIA DEPARTMENT OF TRANSPORTATION'S ANSWER TO PLAINTIFFS' FIRST AMENDED COMPLAINANT FOR DAMAGES",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "0dv1iULwyKHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-08",
+      "date_text": "5/8/2024",
+      "proceedings": "Order",
+      "source_section": "event",
+      "source_row_id": "121273051",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Order on stipuation to file FAC - GRANTED by Judge Pennypacker",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "95454Proposed0192bf1",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121273051",
+        "date": "5/8/2024",
+        "type": "Order",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Order on stipuation to file FAC - GRANTED by Judge Pennypacker",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "95454Proposed0192bf1"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "6PFBGABqxAXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "95454Proposed0192bf1"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-08",
+      "date_text": "5/8/2024",
+      "proceedings": "Amended Complaint Filed - No Fee",
+      "source_section": "event",
+      "source_row_id": "121572704",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "FIRST AMENDED COMPLAINT FOR DAMAGES (Amendments)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "97558FIRSTAME0034089",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121572704",
+        "date": "5/8/2024",
+        "type": "Amended Complaint Filed - No Fee",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "FIRST AMENDED COMPLAINT FOR DAMAGES (Amendments)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "97558FIRSTAME0034089"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "AVRr98bnQVrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "97558FIRSTAME0034089"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-15",
+      "date_text": "4/15/2024",
+      "proceedings": "Notice: Change Address/Firm Name",
+      "source_section": "event",
+      "source_row_id": "121366832",
+      "filed_by": "COUNTY OF SANTA CLARA, ",
+      "comment": "Defendant County of Santa Clara's Notice of Change in Counsel",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice of Change of Firm Name",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121366832",
+        "date": "4/15/2024",
+        "type": "Notice: Change Address/Firm Name",
+        "filedBy": "COUNTY OF SANTA CLARA, ",
+        "comment": "Defendant County of Santa Clara's Notice of Change in Counsel",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice of Change of Firm Name"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TMDfVUo2oe3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice of Change of Firm Name"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-15",
+      "date_text": "4/15/2024",
+      "proceedings": "Advance Jury Fee (Nonrefundable)",
+      "source_section": "event",
+      "source_row_id": "121366859",
+      "filed_by": "COUNTY OF SANTA CLARA, ",
+      "comment": "$150 Posting Jury Fees by: DEF: Atty: Lopresti",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice of Posting Jury Fees",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121366859",
+        "date": "4/15/2024",
+        "type": "Advance Jury Fee (Nonrefundable)",
+        "filedBy": "COUNTY OF SANTA CLARA, ",
+        "comment": "$150 Posting Jury Fees by: DEF: Atty: Lopresti",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice of Posting Jury Fees"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "F%2FctoDpRFp%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice of Posting Jury Fees"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-05",
+      "date_text": "4/5/2024",
+      "proceedings": "Stipulation and Order",
+      "source_section": "event",
+      "source_row_id": "121273050",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "STIPULATION BY AND BETWEEN THE PARTIES ALLOWING PLAINTIFFS TO FILE FIRST AMENDED COMPLAINT FOR DAMAGES (Orders)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "95454STIPULAT003c720",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121273050",
+        "date": "4/5/2024",
+        "type": "Stipulation and Order",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "STIPULATION BY AND BETWEEN THE PARTIES ALLOWING PLAINTIFFS TO FILE FIRST AMENDED COMPLAINT FOR DAMAGES (Orders)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "95454STIPULAT003c720"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bs95ws8E2%2FrEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "95454STIPULAT003c720"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-27",
+      "date_text": "3/27/2024",
+      "proceedings": "Notice",
+      "source_section": "event",
+      "source_row_id": "121116910",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "RE: DEFENDANT DEPARTMENT OF TRANSPORTATION'S NOTICE OF POSTING JURY FEES",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Notice",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121116910",
+        "date": "3/27/2024",
+        "type": "Notice",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "RE: DEFENDANT DEPARTMENT OF TRANSPORTATION'S NOTICE OF POSTING JURY FEES",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Notice"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TLJ7vJAZBnXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Notice"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-26",
+      "date_text": "3/26/2024",
+      "proceedings": "Answer (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "121087795",
+      "filed_by": "COUNTY OF SANTA CLARA, ",
+      "comment": "To Complain Atty: Lopresti",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Answer/Response/Denial/Demurrer - First Appearance",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121087795",
+        "date": "3/26/2024",
+        "type": "Answer (Unlimited) (Fee Applies)",
+        "filedBy": "COUNTY OF SANTA CLARA, ",
+        "comment": "To Complain Atty: Lopresti",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "V889LqxIhjHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Answer/Response/Denial/Demurrer - First Appearance"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-22",
+      "date_text": "3/22/2024",
+      "proceedings": "Advance Jury Fee (Nonrefundable)",
+      "source_section": "event",
+      "source_row_id": "121058930",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "$150 jury fee deposited by defendant CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Advance jury fee (Nonrefundable)",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121058930",
+        "date": "3/22/2024",
+        "type": "Advance Jury Fee (Nonrefundable)",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "$150 jury fee deposited by defendant CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Advance jury fee (Nonrefundable)"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "CHPiNuHyD%2BvEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Advance jury fee (Nonrefundable)"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-14",
+      "date_text": "3/14/2024",
+      "proceedings": "Declaration",
+      "source_section": "event",
+      "source_row_id": "120926688",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "DECLARATION OF DEMURRING OR MOVING PARTY IN SUPPORT OF AUTOMATIC EXTENSION",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Declaration",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120926688",
+        "date": "3/14/2024",
+        "type": "Declaration",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "DECLARATION OF DEMURRING OR MOVING PARTY IN SUPPORT OF AUTOMATIC EXTENSION",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Declaration"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bXv1%2BIu1tS%2FEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Declaration"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-03-07",
+      "date_text": "3/7/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "120906683",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Decl RE: automatic extension - Name is inconsistent on document.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120906683",
+        "date": "3/7/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Decl RE: automatic extension - Name is inconsistent on document.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "zyiC38nbJmTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-28",
+      "date_text": "2/28/2024",
+      "proceedings": "Clerk Rejection Letter",
+      "source_section": "event",
+      "source_row_id": "120815639",
+      "filed_by": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+      "comment": "Decl RE: automatic extension - state is missing from court address in caption. Also, name is inconsistent on document.",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Clerk Rejection Letter",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120815639",
+        "date": "2/28/2024",
+        "type": "Clerk Rejection Letter",
+        "filedBy": "CALIFORNIA DEPARTMENT OF TRANSPORTATION FOR THE STATE OF CALIFORNIA (CALTRANS), ",
+        "comment": "Decl RE: automatic extension - state is missing from court address in caption. Also, name is inconsistent on document.",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Clerk Rejection Letter"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "T4i7wgX7XIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Clerk Rejection Letter"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120576562",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Proof of Service of Summons (Proof of Service)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "92315ProofofS007f509",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120576562",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Proof of Service of Summons (Proof of Service)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "92315ProofofS007f509"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3lZtFHPdf8jEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "92315ProofofS007f509"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120576564",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Proof of Service of Summons (Proof of Service)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "92315ProofofS017203f",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120576564",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Proof of Service of Summons (Proof of Service)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "92315ProofofS017203f"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "lgwCToJ2d17EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "92315ProofofS017203f"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-20",
+      "date_text": "2/20/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "120576567",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "Proof of Service of Summons (Proof of Service)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "92315ProofofS02ceb8f",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120576567",
+        "date": "2/20/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "Proof of Service of Summons (Proof of Service)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "92315ProofofS02ceb8f"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "IuYGDm9a3abEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "92315ProofofS02ceb8f"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-08",
+      "date_text": "2/8/2024",
+      "proceedings": "Advance Jury Fee (Nonrefundable)",
+      "source_section": "event",
+      "source_row_id": "120512484",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": "$150 JURY FEES DEPOSITED BY PLA ATTY: ROMAG ",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Advance Jury Fee",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120512484",
+        "date": "2/8/2024",
+        "type": "Advance Jury Fee (Nonrefundable)",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": "$150 JURY FEES DEPOSITED BY PLA ATTY: ROMAG ",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Advance Jury Fee"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WBZGs2FtkujEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Advance Jury Fee"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120417653",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417653",
+        "date": "2/6/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Complaint (Unlimited) (Fee Applies)",
+      "source_section": "event",
+      "source_row_id": "120417674",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Complaint",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417674",
+        "date": "2/6/2024",
+        "type": "Complaint (Unlimited) (Fee Applies)",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Complaint"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "VVEF6MWchePEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Complaint"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120417675",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "91471CivilCas01f39a4",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417675",
+        "date": "2/6/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "91471CivilCas01f39a4"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "1zPOJ6%2FYDdHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "91471CivilCas01f39a4"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-06",
+      "date_text": "2/6/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120417676",
+      "filed_by": "Monte Massolo, Sheri Massolo, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "91471SummonsS02af075",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120417676",
+        "date": "2/6/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "Monte Massolo, Sheri Massolo, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "91471SummonsS02af075"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "LjjD2CmK2EHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "91471SummonsS02af075"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-07-23",
+      "date_text": "7/23/2024",
+      "proceedings": "Conference: Case Management",
+      "source_section": "hearing",
+      "source_row_id": "16251764",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "2:10PM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16251764",
+        "calendar": "Department 6",
+        "type": "Conference: Case Management",
+        "date": "7/23/2024",
+        "time": "2:10PM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "4RbD94%2Brm2HEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5093 Notice of Mediation Status Conference",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5093 Notice of Mediation Status Conference"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5093 Notice of Mediation Status Conference",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5093 Notice of Mediation Status Conference"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5093 Notice of Mediation Status Conference",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5093 Notice of Mediation Status Conference"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5065 Notice to Appear Civil",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5065 Notice to Appear Civil"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-02-27",
+      "date_text": "2/27/2025",
+      "proceedings": "Review: Mediation Status",
+      "source_section": "hearing",
+      "source_row_id": "16691168",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "10:30AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5093 Notice of Mediation Status Conference",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16691168",
+        "calendar": "Department 6",
+        "type": "Review: Mediation Status",
+        "date": "2/27/2025",
+        "time": "10:30AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "RDagvwgGyrnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2F6luJzlNppLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          },
+          {
+            "documentId": "c3k2kP727OLEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "%2FvRnTuhUbz3EEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "U23IQaWRWIfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "hTR4xLOZzOTEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          },
+          {
+            "documentId": "b1vxk79DwHnEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5065 Notice to Appear Civil"
+          },
+          {
+            "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5093 Notice of Mediation Status Conference"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "fXF7wu0FilzEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5093 Notice of Mediation Status Conference"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2025-06-24",
+      "date_text": "6/24/2025",
+      "proceedings": "Conference: Trial Setting",
+      "source_section": "hearing",
+      "source_row_id": "16768820",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "11:00AM",
+      "hearing_result": "Held",
+      "hearing_flag": "",
+      "doc_id": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "Minutes Non-Criminal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16768820",
+        "calendar": "Department 6",
+        "type": "Conference: Trial Setting",
+        "date": "6/24/2025",
+        "time": "11:00AM",
+        "hearingResult": "Held",
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "Minutes Non-Criminal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "hoXRTzhXMHPEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "Minutes Non-Criminal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-08-12",
+      "date_text": "8/12/2026",
+      "proceedings": "Conference: Settlement Jury",
+      "source_section": "hearing",
+      "source_row_id": "17251766",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "1:34PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17251766",
+        "calendar": "Department 6",
+        "type": "Conference: Settlement Jury",
+        "date": "8/12/2026",
+        "time": "1:34PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-08-12",
+      "date_text": "8/12/2026",
+      "proceedings": "Conference: Settlement Jury",
+      "source_section": "hearing",
+      "source_row_id": "17251766",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "1:34PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17251766",
+        "calendar": "Department 6",
+        "type": "Conference: Settlement Jury",
+        "date": "8/12/2026",
+        "time": "1:34PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-08-12",
+      "date_text": "8/12/2026",
+      "proceedings": "Conference: Settlement Jury",
+      "source_section": "hearing",
+      "source_row_id": "17251766",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 6",
+      "time": "1:34PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_name": "CV-5090  Notice of Settlement Conference and Trial",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17251766",
+        "calendar": "Department 6",
+        "type": "Conference: Settlement Jury",
+        "date": "8/12/2026",
+        "time": "1:34PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": [
+          {
+            "documentId": "3ZnN7rpoRXXEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "iPQnqT5BFWHEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          },
+          {
+            "documentId": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+            "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "v0lucVCxcqfEEzMy7tf9CNkm5TuDcJA5ZeiZMizsH%2FA%3D",
+        "documentName": "CV-5090  Notice of Settlement Conference and Trial"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2026-08-13",
+      "date_text": "8/13/2026",
+      "proceedings": "Trial Assignment",
+      "source_section": "hearing",
+      "source_row_id": "17251763",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 18",
+      "time": "1:31PM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17251763",
+        "calendar": "Department 18",
+        "type": "Trial Assignment",
+        "date": "8/13/2026",
+        "time": "1:31PM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "date_text": "8/17/2026",
+      "proceedings": "Jury Trial: Long Cause",
+      "source_section": "hearing",
+      "source_row_id": "17251759",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 18",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "17251759",
+        "calendar": "Department 18",
+        "type": "Jury Trial: Long Cause",
+        "date": "8/17/2026",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

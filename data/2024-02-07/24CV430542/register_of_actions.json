@@ -1,0 +1,860 @@
+{
+  "metadata": {
+    "case_number": "24CV430542",
+    "case_id": "5319735",
+    "case_title": "MID-CENTURY INSURANCE COMPANY vs GLASS FIX IT INC",
+    "filing_date": "2024-02-07",
+    "filing_date_text": "2/7/2024",
+    "case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": null,
+    "departments": [],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMxOTczNQ%3D%3D",
+    "portal_search_case_type": "Collections Rule 3.740 Limited (09) - under 10,000",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "MID-CENTURY INSURANCE COMPANY",
+        "type": "Plaintiff",
+        "is_defendant": false,
+        "case_party_id": "15358162",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358162",
+          "type": "Plaintiff",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "MID-CENTURY INSURANCE COMPANY",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " MID-CENTURY INSURANCE COMPANY",
+          "isDefendant": false
+        },
+        "pro_se": false
+      },
+      {
+        "name": "GLASS FIX IT INC",
+        "type": "Defendant",
+        "is_defendant": true,
+        "case_party_id": "15358163",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15358163",
+          "type": "Defendant",
+          "firstName": "",
+          "middleName": "",
+          "lastName": "GLASS FIX IT INC",
+          "nickName": null,
+          "businessName": null,
+          "fullName": " GLASS FIX IT INC",
+          "isDefendant": true
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Joseph Jyoo",
+        "bar_number": "321286",
+        "represented_party_text": "MID-CENTURY INSURANCE COMPANY",
+        "is_lead": true,
+        "raw": {
+          "firstName": "Joseph",
+          "middleName": "",
+          "lastName": "Jyoo",
+          "representing": " MID-CENTURY INSURANCE COMPANY",
+          "barNumber": "321286",
+          "isLead": true
+        }
+      }
+    ],
+    "attorney_party_links": [
+      {
+        "attorney_name": "Joseph Jyoo",
+        "bar_number": "321286",
+        "party_name": "MID-CENTURY INSURANCE COMPANY",
+        "party_role": "Plaintiff"
+      }
+    ],
+    "plaintiff_has_counsel": true,
+    "defendant_has_counsel": false,
+    "n_parties": 2,
+    "n_attorneys": 1,
+    "n_events": 12,
+    "n_hearings": 0,
+    "n_actions": 12,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5319735",
+        "nodeId": "11110",
+        "caseNumber": "24CV430542",
+        "caseStyle": "MID-CENTURY INSURANCE COMPANY vs GLASS FIX IT INC",
+        "filingDate": "2/7/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15358162",
+            "type": "Plaintiff",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "MID-CENTURY INSURANCE COMPANY",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " MID-CENTURY INSURANCE COMPANY",
+            "isDefendant": false
+          },
+          {
+            "attorneys": [],
+            "casePartyId": "15358163",
+            "type": "Defendant",
+            "firstName": "",
+            "middleName": "",
+            "lastName": "GLASS FIX IT INC",
+            "nickName": null,
+            "businessName": null,
+            "fullName": " GLASS FIX IT INC",
+            "isDefendant": true
+          }
+        ],
+        "caseAttornies": [
+          {
+            "firstName": "Joseph",
+            "middleName": "",
+            "lastName": "Jyoo",
+            "representing": " MID-CENTURY INSURANCE COMPANY",
+            "barNumber": "321286",
+            "isLead": true
+          }
+        ],
+        "caseEvents": [
+          {
+            "eventId": "122725169",
+            "date": "1/9/2025",
+            "type": "Judgment: Default",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+            "comment": "$7976.22 Sigend by Judge Isger (Mailed 01/09/2025)",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "9QAgTq2qfF6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Court Judgment"
+              }
+            ]
+          },
+          {
+            "eventId": "122725161",
+            "date": "8/27/2024",
+            "type": "Default Entered",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "122725163",
+            "date": "8/27/2024",
+            "type": "Declaration:  CCP 585",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": "Declaration: In Support",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Declaration:  CCP 585"
+              }
+            ]
+          },
+          {
+            "eventId": "122725164",
+            "date": "8/27/2024",
+            "type": "Declaration: In Support",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": "Declaration re Attorneys Fees",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Declaration: In Support"
+              }
+            ]
+          },
+          {
+            "eventId": "122725166",
+            "date": "8/27/2024",
+            "type": "Request: Dismissal",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": "Does 1 to 10",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Request for Dismissal"
+              }
+            ]
+          },
+          {
+            "eventId": "121673195",
+            "date": "5/16/2024",
+            "type": "LT Clerk Default Pending",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": "BASIC",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "DEFAULT PENDING"
+              }
+            ]
+          },
+          {
+            "eventId": "121731499",
+            "date": "5/16/2024",
+            "type": "Default Entered",
+            "filedBy": "",
+            "comment": "DEFAULT ENTERED - ANNOTATED",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Annotated Default"
+              }
+            ]
+          },
+          {
+            "eventId": "121614250",
+            "date": "5/2/2024",
+            "type": "Proof of Service: Summons DLR (Civil)",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": "Proof of Service",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Proof of Service: Summons DLR"
+              }
+            ]
+          },
+          {
+            "eventId": "120424727",
+            "date": "2/7/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120424753",
+            "date": "2/7/2024",
+            "type": "Complaint (Limited): Up to $10K",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Complaint: Up to $10K"
+              }
+            ]
+          },
+          {
+            "eventId": "120424754",
+            "date": "2/7/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          },
+          {
+            "eventId": "120424755",
+            "date": "2/7/2024",
+            "type": "Summons: Issued/Filed",
+            "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+                "documentName": "Summons"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5319735",
+        "caseNumber": "24CV430542",
+        "style": "MID-CENTURY INSURANCE COMPANY vs GLASS FIX IT INC",
+        "caseCategory": 1,
+        "type": "Collections Rule 3.740 Limited (09) - under 10,000",
+        "typeId": "3.740-1A",
+        "fileDate": "2/7/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:50:14Z",
+      "sequence_in_day": 19,
+      "downloaded_documents": 1,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 10
+    },
+    "downloaded_documents": [
+      "2025-01-09_court-judgment_da47f3c2535d.pdf"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-08-27",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Declaration:  CCP 585",
+        "date": "2024-08-27",
+        "proceedings": "Declaration:  CCP 585"
+      },
+      {
+        "doc_id": "uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Declaration: In Support",
+        "date": "2024-08-27",
+        "proceedings": "Declaration: In Support"
+      },
+      {
+        "doc_id": "sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Request for Dismissal",
+        "date": "2024-08-27",
+        "proceedings": "Request: Dismissal"
+      },
+      {
+        "doc_id": "TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "DEFAULT PENDING",
+        "date": "2024-05-16",
+        "proceedings": "LT Clerk Default Pending"
+      },
+      {
+        "doc_id": "dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Annotated Default",
+        "date": "2024-05-16",
+        "proceedings": "Default Entered"
+      },
+      {
+        "doc_id": "WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Proof of Service: Summons DLR",
+        "date": "2024-05-02",
+        "proceedings": "Proof of Service: Summons DLR (Civil)"
+      },
+      {
+        "doc_id": "gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Complaint: Up to $10K",
+        "date": "2024-02-07",
+        "proceedings": "Complaint (Limited): Up to $10K"
+      },
+      {
+        "doc_id": "Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-07",
+        "proceedings": "Civil Case Cover Sheet"
+      },
+      {
+        "doc_id": "MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "doc_name": "Summons",
+        "date": "2024-02-07",
+        "proceedings": "Summons: Issued/Filed"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "date_text": "1/9/2025",
+      "proceedings": "Judgment: Default",
+      "source_section": "event",
+      "source_row_id": "122725169",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+      "comment": "$7976.22 Sigend by Judge Isger (Mailed 01/09/2025)",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "9QAgTq2qfF6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Court Judgment",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=9QAgTq2qfF6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": "2025-01-09_court-judgment_da47f3c2535d.pdf",
+      "raw": {
+        "eventId": "122725169",
+        "date": "1/9/2025",
+        "type": "Judgment: Default",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+        "comment": "$7976.22 Sigend by Judge Isger (Mailed 01/09/2025)",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "9QAgTq2qfF6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Court Judgment"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "9QAgTq2qfF6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Court Judgment"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": null,
+      "text_extraction_status": "skipped"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "122725161",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122725161",
+        "date": "8/27/2024",
+        "type": "Default Entered",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, GLASS FIX IT INC, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "xBZmkzGeVTqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Declaration:  CCP 585",
+      "source_section": "event",
+      "source_row_id": "122725163",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": "Declaration: In Support",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Declaration:  CCP 585",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122725163",
+        "date": "8/27/2024",
+        "type": "Declaration:  CCP 585",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": "Declaration: In Support",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Declaration:  CCP 585"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "S71CLp4Hfx2r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Declaration:  CCP 585"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Declaration: In Support",
+      "source_section": "event",
+      "source_row_id": "122725164",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": "Declaration re Attorneys Fees",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Declaration: In Support",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122725164",
+        "date": "8/27/2024",
+        "type": "Declaration: In Support",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": "Declaration re Attorneys Fees",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Declaration: In Support"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "uNvRtivYf6Sr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Declaration: In Support"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-08-27",
+      "date_text": "8/27/2024",
+      "proceedings": "Request: Dismissal",
+      "source_section": "event",
+      "source_row_id": "122725166",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": "Does 1 to 10",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Request for Dismissal",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "122725166",
+        "date": "8/27/2024",
+        "type": "Request: Dismissal",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": "Does 1 to 10",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Request for Dismissal"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "sTs5nIyWPJqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Request for Dismissal"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-16",
+      "date_text": "5/16/2024",
+      "proceedings": "LT Clerk Default Pending",
+      "source_section": "event",
+      "source_row_id": "121673195",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": "BASIC",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "DEFAULT PENDING",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121673195",
+        "date": "5/16/2024",
+        "type": "LT Clerk Default Pending",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": "BASIC",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "DEFAULT PENDING"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "TA6rrBWSAY6r0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "DEFAULT PENDING"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-16",
+      "date_text": "5/16/2024",
+      "proceedings": "Default Entered",
+      "source_section": "event",
+      "source_row_id": "121731499",
+      "filed_by": "",
+      "comment": "DEFAULT ENTERED - ANNOTATED",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Annotated Default",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121731499",
+        "date": "5/16/2024",
+        "type": "Default Entered",
+        "filedBy": "",
+        "comment": "DEFAULT ENTERED - ANNOTATED",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Annotated Default"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "dt93%2FIv%2FkJmr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Annotated Default"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-05-02",
+      "date_text": "5/2/2024",
+      "proceedings": "Proof of Service: Summons DLR (Civil)",
+      "source_section": "event",
+      "source_row_id": "121614250",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": "Proof of Service",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Proof of Service: Summons DLR",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "121614250",
+        "date": "5/2/2024",
+        "type": "Proof of Service: Summons DLR (Civil)",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": "Proof of Service",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Proof of Service: Summons DLR"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "WflGiuIdWEqr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Proof of Service: Summons DLR"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120424727",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120424727",
+        "date": "2/7/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Complaint (Limited): Up to $10K",
+      "source_section": "event",
+      "source_row_id": "120424753",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Complaint: Up to $10K",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120424753",
+        "date": "2/7/2024",
+        "type": "Complaint (Limited): Up to $10K",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Complaint: Up to $10K"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "gSPjC7WfwDKr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Complaint: Up to $10K"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120424754",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120424754",
+        "date": "2/7/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "Y2Moa8Fhtgar0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-07",
+      "date_text": "2/7/2024",
+      "proceedings": "Summons: Issued/Filed",
+      "source_section": "event",
+      "source_row_id": "120424755",
+      "filed_by": "MID-CENTURY INSURANCE COMPANY, ",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_name": "Summons",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120424755",
+        "date": "2/7/2024",
+        "type": "Summons: Issued/Filed",
+        "filedBy": "MID-CENTURY INSURANCE COMPANY, ",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+            "documentName": "Summons"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "MKpYpfDVPGyr0bTrg7GvnIsOJouL2XeZL%2BMbqzMPUPo%3D",
+        "documentName": "Summons"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "metadata": {
+    "case_number": "24CV430773",
+    "case_id": "5329676",
+    "case_title": "In the Matter of Yuan Wu",
+    "filing_date": "2024-02-13",
+    "filing_date_text": "2/13/2024",
+    "case_type": "Change of Name",
+    "case_subtype": null,
+    "case_category": 1,
+    "case_status": "Closed/Inactive",
+    "court_location": "Civil",
+    "department": "Department 1",
+    "departments": [
+      "Department 1"
+    ],
+    "judge": null,
+    "security_group": null,
+    "portal_case_url": "https://portal.scscourt.org/case/NTMyOTY3Ng%3D%3D",
+    "portal_search_case_type": "Change of Name",
+    "portal_node_id": 11110,
+    "case_number_prefix": "CV",
+    "parties": [
+      {
+        "name": "Yuan Jyi Wu",
+        "type": "Petitioner",
+        "is_defendant": false,
+        "case_party_id": "15379592",
+        "raw": {
+          "attorneys": [],
+          "casePartyId": "15379592",
+          "type": "Petitioner",
+          "firstName": "Yuan",
+          "middleName": "Jyi",
+          "lastName": "Wu",
+          "nickName": null,
+          "businessName": null,
+          "fullName": "Yuan Jyi Wu",
+          "isDefendant": false
+        },
+        "pro_se": true
+      }
+    ],
+    "attorneys": [],
+    "attorney_party_links": [],
+    "plaintiff_has_counsel": false,
+    "defendant_has_counsel": false,
+    "n_parties": 1,
+    "n_attorneys": 0,
+    "n_events": 6,
+    "n_hearings": 1,
+    "n_actions": 7,
+    "source": {
+      "portal": "Santa Clara Superior Court Public Portal",
+      "search_row": {
+        "caseId": "5329676",
+        "nodeId": "11110",
+        "caseNumber": "24CV430773",
+        "caseStyle": "In the Matter of Yuan Wu",
+        "filingDate": "2/13/2024",
+        "caseStatus": "Closed/Inactive",
+        "caseType": "Change of Name",
+        "caseSecurityGroup": null,
+        "caseLocation": null
+      },
+      "raw_case": {
+        "caseParties": [
+          {
+            "attorneys": [],
+            "casePartyId": "15379592",
+            "type": "Petitioner",
+            "firstName": "Yuan",
+            "middleName": "Jyi",
+            "lastName": "Wu",
+            "nickName": null,
+            "businessName": null,
+            "fullName": "Yuan Jyi Wu",
+            "isDefendant": false
+          }
+        ],
+        "caseAttornies": [],
+        "caseEvents": [
+          {
+            "eventId": "120484321",
+            "date": "5/7/2024",
+            "type": "Decree: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "mjY5aP62Cpar0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+                "documentName": "Order: Proposed"
+              }
+            ]
+          },
+          {
+            "eventId": "120847459",
+            "date": "3/7/2024",
+            "type": "Affidavit: Proof of Publication",
+            "filedBy": "Yuan Wu, ",
+            "comment": "Affidavit: Proof of Publication",
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "OQK5i9Choiir0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+                "documentName": "Affidavit: Proof of Publication"
+              }
+            ]
+          },
+          {
+            "eventId": "120484220",
+            "date": "2/13/2024",
+            "type": "New Filed Case",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": []
+          },
+          {
+            "eventId": "120484289",
+            "date": "2/13/2024",
+            "type": "Order to Show Cause: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+                "documentName": "Order to Show Cause: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120484292",
+            "date": "2/13/2024",
+            "type": "Petition: Name Change",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+                "documentName": "Petition: Name Change"
+              }
+            ]
+          },
+          {
+            "eventId": "120484294",
+            "date": "2/13/2024",
+            "type": "Civil Case Cover Sheet",
+            "filedBy": "",
+            "comment": null,
+            "documentId": null,
+            "documents": [
+              {
+                "documentId": "iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+                "documentName": "Civil Case Cover Sheet"
+              }
+            ]
+          }
+        ],
+        "caseHearings": [
+          {
+            "hearingId": "16257288",
+            "calendar": "Department 1",
+            "type": "Hearing: OSC Name Change",
+            "date": "4/30/2024",
+            "time": "8:45AM",
+            "hearingResult": null,
+            "documentId": null,
+            "interpreter": "",
+            "hearingFlag": "",
+            "documents": []
+          }
+        ],
+        "caseOtherDocuments": [],
+        "caseCharges": [],
+        "caseFinancials": [],
+        "caseFinancialTransactions": [],
+        "caseArrestInfomation": [],
+        "casePartyDemographics": {
+          "race": null,
+          "sex": null,
+          "dateOfBirth": null,
+          "height": null,
+          "weight": null,
+          "hairColor": null,
+          "eyeColor": null
+        },
+        "casePartyAddress": {
+          "streetName": null,
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "casePartyIdentification": [],
+        "caseDocuments": [],
+        "minuteOrders": [],
+        "caseFlags": [],
+        "partyInJailFlags": [],
+        "caseBonds": [],
+        "caseWarrants": [],
+        "caseCrossReferenceNumbers": [],
+        "relatedCases": [],
+        "id": "5329676",
+        "caseNumber": "24CV430773",
+        "style": "In the Matter of Yuan Wu",
+        "caseCategory": 1,
+        "type": "Change of Name",
+        "typeId": "CVNC",
+        "fileDate": "2/13/2024",
+        "securityGroup": null,
+        "status": "Closed/Inactive",
+        "courtLocation": "Civil",
+        "caseSubType": null,
+        "nodeId": 11110,
+        "permission": 0,
+        "isSecuredAccess": false,
+        "isCriminal": false
+      }
+    },
+    "timing": {
+      "scraped_at": "2026-05-11T18:43:25Z",
+      "sequence_in_day": 1,
+      "downloaded_documents": 2,
+      "document_download_failures": 0,
+      "document_download_skipped_due_to_cap": 3
+    },
+    "downloaded_documents": [
+      "2024-05-07_order-proposed_78a5689d579e.txt",
+      "2024-03-07_affidavit-proof-of-publication_9964f0ed05a4.txt"
+    ],
+    "document_download_failures": [],
+    "document_download_skipped_due_to_cap": [
+      {
+        "doc_id": "UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "doc_name": "Order to Show Cause: Name Change",
+        "date": "2024-02-13",
+        "proceedings": "Order to Show Cause: Name Change"
+      },
+      {
+        "doc_id": "bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "doc_name": "Petition: Name Change",
+        "date": "2024-02-13",
+        "proceedings": "Petition: Name Change"
+      },
+      {
+        "doc_id": "iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "doc_name": "Civil Case Cover Sheet",
+        "date": "2024-02-13",
+        "proceedings": "Civil Case Cover Sheet"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "date": "2024-05-07",
+      "date_text": "5/7/2024",
+      "proceedings": "Decree: Name Change",
+      "source_section": "event",
+      "source_row_id": "120484321",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "mjY5aP62Cpar0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_name": "Order: Proposed",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=mjY5aP62Cpar0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120484321",
+        "date": "5/7/2024",
+        "type": "Decree: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "mjY5aP62Cpar0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+            "documentName": "Order: Proposed"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "mjY5aP62Cpar0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "documentName": "Order: Proposed"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": "2024-05-07_order-proposed_78a5689d579e.txt",
+      "text_chars": 4227,
+      "text_pages": 3,
+      "text_letter_frac": 0.697,
+      "text_extraction_status": "ok",
+      "text_extraction_elapsed_s": 4.438,
+      "ocr_engine": "tesseract 5.5.2"
+    },
+    {
+      "date": "2024-03-07",
+      "date_text": "3/7/2024",
+      "proceedings": "Affidavit: Proof of Publication",
+      "source_section": "event",
+      "source_row_id": "120847459",
+      "filed_by": "Yuan Wu, ",
+      "comment": "Affidavit: Proof of Publication",
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "OQK5i9Choiir0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_name": "Affidavit: Proof of Publication",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=OQK5i9Choiir0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120847459",
+        "date": "3/7/2024",
+        "type": "Affidavit: Proof of Publication",
+        "filedBy": "Yuan Wu, ",
+        "comment": "Affidavit: Proof of Publication",
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "OQK5i9Choiir0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+            "documentName": "Affidavit: Proof of Publication"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "OQK5i9Choiir0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "documentName": "Affidavit: Proof of Publication"
+      },
+      "raw_document_payload": {
+        "name": null,
+        "docId": null,
+        "documentVersionId": null,
+        "pageCount": null,
+        "docType": "pdf"
+      },
+      "text_filename": "2024-03-07_affidavit-proof-of-publication_9964f0ed05a4.txt",
+      "text_chars": 2593,
+      "text_pages": 1,
+      "text_letter_frac": 0.713,
+      "text_extraction_status": "ok",
+      "text_extraction_elapsed_s": 1.365,
+      "ocr_engine": "tesseract 5.5.2"
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "New Filed Case",
+      "source_section": "event",
+      "source_row_id": "120484220",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120484220",
+        "date": "2/13/2024",
+        "type": "New Filed Case",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": []
+      }
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "Order to Show Cause: Name Change",
+      "source_section": "event",
+      "source_row_id": "120484289",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_name": "Order to Show Cause: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120484289",
+        "date": "2/13/2024",
+        "type": "Order to Show Cause: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+            "documentName": "Order to Show Cause: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "UiKIJlm4%2Fgmr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "documentName": "Order to Show Cause: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "Petition: Name Change",
+      "source_section": "event",
+      "source_row_id": "120484292",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_name": "Petition: Name Change",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120484292",
+        "date": "2/13/2024",
+        "type": "Petition: Name Change",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+            "documentName": "Petition: Name Change"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "bZzrciC3zu2r0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "documentName": "Petition: Name Change"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-02-13",
+      "date_text": "2/13/2024",
+      "proceedings": "Civil Case Cover Sheet",
+      "source_section": "event",
+      "source_row_id": "120484294",
+      "filed_by": "",
+      "comment": null,
+      "department": null,
+      "time": null,
+      "hearing_result": null,
+      "hearing_flag": null,
+      "doc_id": "iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_name": "Civil Case Cover Sheet",
+      "doc_url": "https://portal.scscourt.org/api/doc/base64/doc?docId=iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+      "doc_filename": null,
+      "raw": {
+        "eventId": "120484294",
+        "date": "2/13/2024",
+        "type": "Civil Case Cover Sheet",
+        "filedBy": "",
+        "comment": null,
+        "documentId": null,
+        "documents": [
+          {
+            "documentId": "iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+            "documentName": "Civil Case Cover Sheet"
+          }
+        ]
+      },
+      "raw_document": {
+        "documentId": "iY2X4vO%2B0Gqr0bTrg7GvnHUyC31fwncCKArKgxFwvxs%3D",
+        "documentName": "Civil Case Cover Sheet"
+      },
+      "doc_download_skipped_reason": "per_case_cap"
+    },
+    {
+      "date": "2024-04-30",
+      "date_text": "4/30/2024",
+      "proceedings": "Hearing: OSC Name Change",
+      "source_section": "hearing",
+      "source_row_id": "16257288",
+      "filed_by": null,
+      "comment": null,
+      "department": "Department 1",
+      "time": "8:45AM",
+      "hearing_result": null,
+      "hearing_flag": "",
+      "doc_id": null,
+      "doc_name": null,
+      "doc_url": null,
+      "doc_filename": null,
+      "raw": {
+        "hearingId": "16257288",
+        "calendar": "Department 1",
+        "type": "Hearing: OSC Name Change",
+        "date": "4/30/2024",
+        "time": "8:45AM",
+        "hearingResult": null,
+        "documentId": null,
+        "interpreter": "",
+        "hearingFlag": "",
+        "documents": []
+      }
+    }
+  ]
+}

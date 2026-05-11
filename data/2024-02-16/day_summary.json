@@ -1,0 +1,22 @@
+{
+  "portal_case_type": "Civil",
+  "raw_search_rows": 81,
+  "total_cases": 3,
+  "skipped_nonmatching_prefix": 16,
+  "skipped_case_type_filter": 0,
+  "case_prefixes": [
+    "CV"
+  ],
+  "case_type_include_patterns": [],
+  "case_type_exclude_patterns": [],
+  "offset_cases": 0,
+  "started_at": "2026-05-11T18:45:36Z",
+  "filing_date": "2024-02-16",
+  "updated_at": "2026-05-11T18:46:03Z",
+  "scraped_cases": 3,
+  "newly_scraped_cases": 3,
+  "failed_cases": 0,
+  "skipped_existing": 0,
+  "downloaded_documents": 6,
+  "finished_at": "2026-05-11T18:46:03Z"
+}
