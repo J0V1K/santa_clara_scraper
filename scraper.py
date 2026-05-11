@@ -28,9 +28,14 @@ except ImportError as exc:  # pragma: no cover - environment guard
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "ok_scraper"))
 from ocr import ocr_pdf as _ocr_pdf  # noqa: E402
 
+# Cross-scraper heartbeat helper.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from monitor.heartbeat import Heartbeat  # noqa: E402
+
 # Module-level toggles set by main(); same defaults as OK.
 RUN_OCR = True
 KEEP_PDFS = False
+HEARTBEAT: Heartbeat | None = None
 
 
 PORTAL_URL = "https://portal.scscourt.org"
@@ -1048,6 +1053,9 @@ async def scrape_day(
 
     for index, row in enumerate(kept_rows, start=1):
         case_number = row["caseNumber"]
+        if HEARTBEAT is not None:
+            HEARTBEAT.update(current_case=case_number,
+                             current_action=f"case {index}/{len(kept_rows)}")
         if not force and case_complete(filing_day, case_number):
             skipped_existing += 1
             continue
@@ -1175,7 +1183,7 @@ def parse_args() -> argparse.Namespace:
 async def async_main(args: argparse.Namespace) -> int:
     # Headful by default; --headless opts out. Captcha gates require a
     # visible browser to solve, so this matches OK's Camoufox usage.
-    global RUN_OCR, KEEP_PDFS, DATA_ROOT, CALIBRATION_ROOT
+    global RUN_OCR, KEEP_PDFS, DATA_ROOT, CALIBRATION_ROOT, HEARTBEAT
     RUN_OCR = not args.no_ocr
     KEEP_PDFS = args.keep_pdfs or args.no_ocr
     if args.data_root:
@@ -1183,6 +1191,10 @@ async def async_main(args: argparse.Namespace) -> int:
         CALIBRATION_ROOT = DATA_ROOT / "_calibration"
         print(f"Using data root: {DATA_ROOT}")
     DATA_ROOT.mkdir(parents=True, exist_ok=True)
+    HEARTBEAT = Heartbeat(DATA_ROOT, scraper="sc", args=sys.argv[1:])
+    HEARTBEAT.update(start_date=args.start_date, end_date=args.end_date,
+                     case_type=args.case_type)
+    HEARTBEAT.start()
     case_prefixes = {prefix.upper() for prefix in args.case_prefix}
     include_case_type_regexes = [re.compile(pattern, re.I) for pattern in args.case_type_include_regex]
     exclude_case_type_regexes = [re.compile(pattern, re.I) for pattern in args.case_type_exclude_regex]
@@ -1190,6 +1202,9 @@ async def async_main(args: argparse.Namespace) -> int:
     failed_days = []
     for day in daterange(args.start_date, args.end_date):
         day_iso = day.isoformat()
+        if HEARTBEAT is not None:
+            HEARTBEAT.update(current_day=day_iso, current_case=None,
+                             current_action="day-start")
         last_error = None
         for attempt in range(1, args.day_retries + 2):
             try:
@@ -1240,6 +1255,12 @@ async def async_main(args: argparse.Namespace) -> int:
                 break
         if last_error and day_iso not in {item["filing_date"] for item in failed_days}:
             failed_days.append({"filing_date": day_iso, "error": last_error})
+    if HEARTBEAT is not None:
+        HEARTBEAT.close(
+            status="exited",
+            finished_reason=("failed_days" if failed_days else "completed"),
+            failed_days=len(failed_days),
+        )
     return 1 if failed_days else 0
 
 
