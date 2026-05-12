@@ -3,6 +3,7 @@ import asyncio
 import base64
 import hashlib
 import json
+import os
 import random
 import re
 import sys
@@ -36,6 +37,24 @@ from monitor.heartbeat import Heartbeat  # noqa: E402
 RUN_OCR = True
 KEEP_PDFS = False
 HEARTBEAT: Heartbeat | None = None
+
+
+def _probe_public_ip() -> str:
+    """Best-effort fetch of the current public IPv4 — surfaced in the
+    monitor so the live-runs panel shows which VPN exit we're on."""
+    import subprocess
+    try:
+        out = subprocess.run(
+            ["curl", "-s", "--max-time", "5", "https://ipv4.icanhazip.com"],
+            capture_output=True, text=True, check=False, timeout=8,
+        )
+        return out.stdout.strip()
+    except Exception:
+        return ""
+
+
+def case_prefixes_for_intent(args):
+    return [p.upper() for p in args.case_prefix]
 
 
 PORTAL_URL = "https://portal.scscourt.org"
@@ -806,6 +825,8 @@ async def download_case_documents(
             pdf_path.write_bytes(raw_bytes)
             downloaded[doc_id] = filename
             action["doc_filename"] = filename
+            if HEARTBEAT is not None:
+                HEARTBEAT.increment("session_docs_collected")
             action["raw_document_payload"] = {
                 "name": raw_doc_payload.get("name"),
                 "docId": raw_doc_payload.get("docId"),
@@ -1084,6 +1105,8 @@ async def scrape_day(
             register["metadata"]["document_download_skipped_due_to_cap"] = doc_skips
             (cdir / "register_of_actions.json").write_text(json.dumps(register, indent=2), encoding="utf-8")
             scraped_cases += 1
+            if HEARTBEAT is not None:
+                HEARTBEAT.increment("session_cases_scraped")
             downloaded_documents += len(downloaded)
         except Exception as exc:
             failed_cases.append(
@@ -1192,8 +1215,20 @@ async def async_main(args: argparse.Namespace) -> int:
         print(f"Using data root: {DATA_ROOT}")
     DATA_ROOT.mkdir(parents=True, exist_ok=True)
     HEARTBEAT = Heartbeat(DATA_ROOT, scraper="sc", args=sys.argv[1:])
-    HEARTBEAT.update(start_date=args.start_date, end_date=args.end_date,
-                     case_type=args.case_type)
+    HEARTBEAT.update(
+        start_date=args.start_date, end_date=args.end_date,
+        case_type=args.case_type,
+        case_prefixes=list(case_prefixes_for_intent(args)),
+        include_regexes=list(args.case_type_include_regex),
+        exclude_regexes=list(args.case_type_exclude_regex),
+        max_cases=args.max_cases or None,
+        max_docs_per_case=args.max_docs_per_case,
+        headless=args.headless,
+        rotation_managed=os.environ.get("ROTATE_MANAGED") == "1",
+        current_ip=_probe_public_ip(),
+        session_cases_scraped=0,
+        session_docs_collected=0,
+    )
     HEARTBEAT.start()
     case_prefixes = {prefix.upper() for prefix in args.case_prefix}
     include_case_type_regexes = [re.compile(pattern, re.I) for pattern in args.case_type_include_regex]
