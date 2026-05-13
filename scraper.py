@@ -3,7 +3,6 @@ import asyncio
 import base64
 import hashlib
 import json
-import os
 import random
 import re
 import sys
@@ -31,26 +30,12 @@ from ocr import ocr_pdf as _ocr_pdf  # noqa: E402
 
 # Cross-scraper heartbeat helper.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from monitor.heartbeat import Heartbeat  # noqa: E402
+from monitor.heartbeat import Heartbeat, probe_public_ip, rotation_managed  # noqa: E402
 
 # Module-level toggles set by main(); same defaults as OK.
 RUN_OCR = True
 KEEP_PDFS = False
 HEARTBEAT: Heartbeat | None = None
-
-
-def _probe_public_ip() -> str:
-    """Best-effort fetch of the current public IPv4 — surfaced in the
-    monitor so the live-runs panel shows which VPN exit we're on."""
-    import subprocess
-    try:
-        out = subprocess.run(
-            ["curl", "-s", "--max-time", "5", "https://ipv4.icanhazip.com"],
-            capture_output=True, text=True, check=False, timeout=8,
-        )
-        return out.stdout.strip()
-    except Exception:
-        return ""
 
 
 def case_prefixes_for_intent(args):
@@ -1224,8 +1209,8 @@ async def async_main(args: argparse.Namespace) -> int:
         max_cases=args.max_cases or None,
         max_docs_per_case=args.max_docs_per_case,
         headless=args.headless,
-        rotation_managed=os.environ.get("ROTATE_MANAGED") == "1",
-        current_ip=_probe_public_ip(),
+        rotation_managed=rotation_managed(),
+        current_ip=probe_public_ip(),
         session_cases_scraped=0,
         session_docs_collected=0,
     )
