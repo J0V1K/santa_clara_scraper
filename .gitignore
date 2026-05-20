@@ -1,1 +1,5 @@
-data/\nruns/\n__pycache__/\n*.pyc\n.DS_Store
+data/
+runs/
+__pycache__/
+*.pyc
+.DS_Store
